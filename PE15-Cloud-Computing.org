@@ -104,13 +104,14 @@ After the completion of this course, students will be able to:
 2. James E. Smith, Ravi Nair, ``Virtual Machines: Versatile Platforms
    for Systems and Processes'', Elsevier/Morgan Kaufmann, 2005. (Unit
    II)
-3. Srinivasan A, Suresh J, ``Cloud Computing: A practical Approach for
+3. Danielle Ruest, Nelson Ruest, ``Virtualization: A Beginner's
+   Guide'', McGraw-Hill Osborne Media, 2009.
+4. Srinivasan A, Suresh J, ``Cloud Computing: A practical Approach for
    Learning and Implementation'', Pearson Education
    India, 2014. 
-4. Krutz, R. L., Vines, R. D, ``Cloud security. A Comprehensive Guide
+5. Krutz, R. L., Vines, R. D, ``Cloud security. A Comprehensive Guide
    To Secure Cloud Computing'', Wiley Publishing, 2010. (Unit V)
-5. Tim Mather, Subra Kumaraswamy, and Shahed Latif, ``Cloud Security
+6. Tim Mather, Subra Kumaraswamy, and Shahed Latif, ``Cloud Security
    and Privacy: an enterprise perspective on risks and compliance'',
    O'Reilly Media, Inc., 2009. (Unit V)
-6. Danielle Ruest, Nelson Ruest, ``Virtualization: A Beginner's
-   Guide'', McGraw-Hill Osborne Media, 2009.
+
