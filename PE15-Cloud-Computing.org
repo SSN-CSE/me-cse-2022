@@ -81,7 +81,7 @@ vulnerabilities -- management server vulnerabilities -- administrative
 VM vulnerabilities -- guest VM vulnerabilities, hypervisor
 vulnerabilities -- hypervisor escape vulnerabilities -- configuration
 issues; Virtualization System-Specific Attacks: Guest hopping --
-attacks on the VM -- VM migration attack -- hyperjacking.
+VM migration attack -- hyperjacking.
 Data Security and Storage; Identity and Access Management(IAM) – IAM Challenges – IAM Architecture and Practice.
 #+latex: % As we changed entire Unit - V from AU syllabus, Unit V is from the course Cloud Security CC2005, SRM University. M.Tech in Cloud Computing. (YVL) 
 
