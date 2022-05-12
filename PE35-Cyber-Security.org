@@ -48,15 +48,11 @@ Intrusion Detection: Host-Based Intrusion Detection -- Network-Based Intrusion D
 2. Explore Kali Linux and bash scripting
 3. Perform open source intelligence gathering using Netcraft, Whois Lookups, DNS Reconnaissance
 4. Gather information using Harvester  and Maltego
-5. Understand namp commands
-6. Scan a target Using nmap
-7. Install metasploitable2 on the virtual box and search for unpatched vulnerability
-8. Use Metasploit to exploit an unpatched vulnerability
-9. Install linux server on the virtual box and install ssh in it
-10. Brute force attack on the  linux server using hydra
-11. Real-time network traffic analysis and data packet logging using snort
-
-
+5. Understand namp commands and scan a target using nmap
+6. Install metasploitable2 on the virtual box and search for unpatched vulnerability
+7. Use Metasploit to exploit an unpatched vulnerability
+8. Install linux server on the virtual box and install ssh in it. Then perform brute force attack on the  linux server using hydra
+9. Real-time network traffic analysis and data packet logging using snort
 
 \hfill *Practical Periods: 30*
 
