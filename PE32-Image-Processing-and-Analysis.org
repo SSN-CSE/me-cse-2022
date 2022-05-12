@@ -1,7 +1,7 @@
 * <<<CP1233>>> IMAGE PROCESSING AND ANALYSIS
 :properties:
 :author: K. Lekshmi
-:date: 06 May 2022
+:date: 12 May 2022
 :end:
 
 #+startup: showall
@@ -57,7 +57,7 @@ Removal
 	   regional descriptors and feature selection techniques;
 Thought process  
         Removed as they will consume more time
-		Image Segmentation can be a seperate topic and Featute related topics can be moved to Unit 4
+	Image Segmentation can be a seperate topic and Featute related topics can be moved to Unit 4
 #+END_COMMENT 
 
 {{{unit}}}
@@ -129,15 +129,14 @@ After the completion of this course, students will be able to:
 
 ** List of Experiments:
 1.	Program to implement smoothing or averaging filter in spatial domain.
-2.	Program to find histogram value and display histograph of a grayscale and color image.
-3.	Program to obtain histogram equalization image
-4.	Program to discretize an image using Fourier transformation.
-5.	Program to eliminate the high frequency components of an image.
-6.	Program to fill the region of interest for the image.
-7.	Program for morphological operation: erosion and dilation
-8.	Program for segmentation of an image using watershed transforms.
-9.	Program to determine the edge detection of an image using different operators.
-10.	Program to perform discrete wavelet transform on image.
-11. 	Develop a Fingerprint recognition system
+2.a	Program to find histogram value and display histograph of a grayscale and color image.
+2.b	Program to obtain histogram equalization image
+3.a	Program to discretize an image using Fourier transformation.
+3.b	Program to eliminate the high frequency components of an image.
+4.	Program to fill the region of interest for the image.
+5.a	Program for morphological operation: erosion and dilation
+5.b	Program for segmentation of an image using watershed transforms.
+6.	Program to determine the edge detection of an image using different operators.
+7.	Program to perform discrete wavelet transform on image.
 
 
