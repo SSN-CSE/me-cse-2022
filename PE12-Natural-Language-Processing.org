@@ -22,7 +22,7 @@ Origins and challenges of NLP -- Knowledge in language processing --
 NLP applications; Language Modeling: Language and grammar --
 Grammar-based language models -- Lexical functional grammar --
 Government and binding; Statistical Language Model: N-gram model --
-Smoothing techniques
+Smoothing technique
 
 {{{unit}}}
 |Unit II|Word Level and Syntactic Analysis|9| 
