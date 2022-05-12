@@ -59,7 +59,7 @@ After the completion of this course, students will be able to:
 -	Explain the use and need of different hardware components of edge computing (K2)
 -	Apply the advanced concepts and frameworks of edge AI (K3) 
 -	Apply the technologies used for edge analytics and developing solutions (K3)
--	Analyse the performance of the applications developed using edge architecture (K3)
+-	Identify the applications developed using edge architecture (K3)
 
       
 ** References
