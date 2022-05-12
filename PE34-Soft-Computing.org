@@ -1,6 +1,6 @@
 **  <<<PE405>>> SOFT COMPUTING
 :properties:
-:author: Dr. P. Mirunalini  and Dr. J. Bhuvana
+:author: Dr. P. Mirunalini, Dr. J. Bhuvana and K. Lekshmi
 :date: 
 :end:
 
@@ -85,15 +85,21 @@ Added Applications of Soft Computing, Optimization of Traveling Salesman Problem
 
 ** COURSE OUTCOMES
 Upon completion of this course, the students should be able to:
+- Explain various soft computing techniques (K2)
+- Design and develop different neural network algorithms (K3)
+- Analyse and apply fuzzy logic and fuzzy inference system (K3)
+- Solve problems using  Genetic Algorithms (K3)
+- Apply various soft computing techniques for complex problems (K3).
+#+begin_comment
 - Understand various soft computing techniques (K2)
 - Design and develop different neural network algorithms (K3)
 - Analyse and apply fuzzy logic and fuzzy inference system (K3)
 - Solve problems using  Genetic Algorithms (K3)
 - Apply various soft computing techniques for complex problems (K3).
-
+#+end_comment
 ** TEXT BOOKS
 1. S N Sivanandam, S N Deepa, ``Principles of Soft Computing'', Wiley
-   India, 2nd Edition, 2011.
+   India, 3rd Edition, 2019.
 2. Jyh-Shing Roger Jang, Chuen-Tsai Sun, Eiji Mizutani, ``Neuro-Fuzzy
    and Soft Computing'', Prentice-Hall of India, 2002.
 
