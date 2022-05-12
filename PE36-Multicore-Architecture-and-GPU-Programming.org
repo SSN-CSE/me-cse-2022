@@ -11,8 +11,8 @@
 
 ** COURSE OBJECTIVES
 - To understand the basics of multi-core architectures.
-- To Understand the architectures of SIMD and MIMD systems
-- To Learn CUDA programming constructs, and solutions.
+- To understand the architectures of SIMD and MIMD systems
+- To learn CUDA programming constructs, and solutions.
  
 
 {{{unit}}}
