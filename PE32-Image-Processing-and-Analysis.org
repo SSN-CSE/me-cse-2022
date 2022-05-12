@@ -83,11 +83,9 @@ Thought process
 
 {{{unit}}}
 |Unit V| Case Studies in Image Processing|6|
-Image Recognition : Fingerprint Recognition -- Image Classification :
-Tumor classification from Medical Image -- Image Understanding: CBIR
--- Image Fusion: Statellite image enhancement -- Object tracking:
-Surveillance applications -- Image Steganography: Image hiding in
-Multimedia.
+Image Recognition: Fingerprint Recognition; Image Classification:
+Tumor classification from Medical Images; Image Understanding: CBIR; 
+Image Fusion: Statellite image enhancement; Object tracking: Surveillance applications.
 
 \hfill *Total: 30* 
 
@@ -108,10 +106,10 @@ Multimedia.
 ** Course Outcomes
 After the completion of this course, students will be able to:
 - Explain the fundamental concepts of a digital image processing system (K2)
-- Perform image enhancement and restoration techniques in spatial and frequency domain (K3)
-- Apply the concept of image segmentation and analyze their representation techniques (K3) 
-- Analyze the multi resolution techniques and methods used for color images and apply various image transforms to analyze and modify image  (K3)
-- Apply the techniques of object detection, recognition, classification and enhancement in various applications (K3)
+- Apply image enhancement and restoration techniques in spatial and frequency domains (K3)
+- Make use of image segmentation techniques for object detection (K3) 
+- Analyze the multi resolution methods and image transforms for color images (K4)
+- Apply techniques of object enhancement, detection, recognition, and classification in various applications (K3)
 
 #+BEGIN_COMMENT 
 - Design and implement enhancement and segmentation algorithms for image processing application. (K4)
