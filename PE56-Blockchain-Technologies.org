@@ -44,8 +44,8 @@ After the completion of this course, students will be able to:
 - Explain the  importance of distributed ledgers and need of blockchain (K2)
 - Describe decentralisation concepts and apply consensus algorithms (K3)
 - Explain the basics of cryptography and its applications in cryptocurrencies (K2)
-- Apply various distributed ledgers for business (K4)
-- Make use of appropriate techniques for designing trust-based business networks (K4)
+- Apply various distributed ledgers for business (K3)
+- Analyse appropriate techniques for designing trust-based business networks (K4)
 
 
 ** REFERENCES
