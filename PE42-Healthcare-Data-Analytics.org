@@ -39,7 +39,7 @@ Cases: Breast Cancer Detection - Autism Screening.
 {{{unit}}}
 | UNIT V | FUTURE OF BIG DATA IN HEALTHCARE | 6 |
 Management of Big Biomedical Data - Future directions of Healthcare and
-Big Data Analytics - Use Cases: Prediction of diabetes  
+Big Data Analytics - Use Case: Prediction of diabetes  
 
 \hfill *Total Periods: 30*
 
