@@ -81,9 +81,8 @@ vulnerabilities -- management server vulnerabilities -- administrative
 VM vulnerabilities -- guest VM vulnerabilities, hypervisor
 vulnerabilities -- hypervisor escape vulnerabilities -- configuration
 issues; Virtualization System-Specific Attacks: Guest hopping --
-attacks on the VM (delete the VM, attack on the control of the VM,
-code or file injection into the virtualized file structure) -- VM
-migration attack -- hyperjacking.
+attacks on the VM -- VM migration attack -- hyperjacking.
+Data Security and Storage; Identity and Access Management(IAM) – IAM Challenges – IAM Architecture and Practice.
 #+latex: % As we changed entire Unit - V from AU syllabus, Unit V is from the course Cloud Security CC2005, SRM University. M.Tech in Cloud Computing. (YVL) 
 
 \hfill *Total: 45*
@@ -113,3 +112,5 @@ After the completion of this course, students will be able to:
 5. Tim Mather, Subra Kumaraswamy, and Shahed Latif, ``Cloud Security
    and Privacy: an enterprise perspective on risks and compliance'',
    O'Reilly Media, Inc., 2009. (Unit V)
+6. Danielle Ruest, Nelson Ruest, ``Virtualization: A Beginner's
+   Guide'', McGraw-Hill Osborne Media, 2009.
