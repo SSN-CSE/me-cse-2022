@@ -67,12 +67,12 @@ Supply chain cloud service management; Semantic Web Services.
 
 ** Course Outcomes
 After the completion of this course, students will be able to: 
-- Understand the need of software architecture for sustainable dynamic
-  systems and adapt to the system according to the need(K2)
-- Have a sound knowledge on design principles and to apply for large scale systems(K3)
-- Design architectures for distributed heterogeneous systems(K3)
-- Have good knowledge on service oriented and model driven architectures and the aspect oriented architecture.(K2)
-- Have a working knowledge to develop appropriate architectures through various case studies.(K2)
+
+- Explain the need of software architecture to develop sustainable dynamic systems(K2)
+- Apply the sound knowledge on design principles to develop large scale systems(K3)
+- Apply the deep knowledge of various design architectures to develop distributed heterogeneous systems(K3)
+- Explain the various architectures such as service oriented, aspect oriented and model driven.(K2)
+- Apply the knowledge obtained from various architectures and designs and select appropriate ones to develop solutions for various case studies.(K3)
 
 ** References
 1. Ion Gorton, ``Essentials of Software Architecture'',  Second Edition, Springer- verlag, 2011.
