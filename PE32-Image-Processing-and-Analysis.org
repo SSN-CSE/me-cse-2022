@@ -89,7 +89,7 @@ Tumor classification from Medical Image -- Image Understanding: CBIR
 Surveillance applications -- Image Steganography: Image hiding in
 Multimedia
 
-\hfill *Total: 45*
+\hfill *Total: 45* 
 
 ** Course Outcomes
 After the completion of this course, students will be able to:
