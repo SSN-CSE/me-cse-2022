@@ -1,7 +1,7 @@
 * <<<CP1234>>> SPEECH PROCESSING AND SYNTHESIS
 :properties:
 :author: B Bharathi
-:date: 28 June 2018
+:date: 12 May 2022
 :end:
 
 #+startup: showall
