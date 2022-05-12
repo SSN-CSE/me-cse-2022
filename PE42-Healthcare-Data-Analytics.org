@@ -25,11 +25,11 @@ Data Analytics for Healthcare - Applications
 | UNIT II | HEALTHCARE DATA SOURCES | 6 |
 Introduction - Electronic Health Records (EHR) - Components of EHR -
 Benefits of EHR - Challenges of using EHR Data - Clinical
-Applications: EHR and Decision Support
+Applications: EHR and Decision Support System.
 
 {{{unit}}}
 | UNIT III | HEALTHCARE ANALYTICS | 6 |
-Introduction; Making Predictive Models in Healthcare;  Healthcare Predictive Models – Predictive Healthcare Analytics (State-of-the-art) – ML Applications for Cancer – Readmission Prediction
+Introduction; Making Predictive Models in Healthcare;  Healthcare Predictive Models – Predictive Healthcare Analytics (State-of-the-art) – ML Applications for Cancer – Readmission Prediction.
 
 {{{unit}}}
 | UNIT IV | AI AND MACHINE LEARNING FOR HEALTHCARE | 6 |
@@ -39,7 +39,7 @@ Cases: Breast Cancer Detection - Autism Screening.
 {{{unit}}}
 | UNIT V | FUTURE OF BIG DATA IN HEALTHCARE | 6 |
 Management of Big Biomedical Data - Future directions of Healthcare and
-Big Data Analytics - Use Case: Prediction of diabetes  
+Big Data Analytics - Use Case: Prediction of diabetics. 
 
 \hfill *Total Periods: 30*
 
@@ -48,7 +48,7 @@ Suggestive Experiments (Python)
 2. Healthcare Recommendation Evaluator (Decision Support)
 3. Breast Cancer Detection
 4. Autism Screening with Machine Learning algorithms
-5. Prediction of diabetes using binary class classification
+5. Prediction of diabetics using binary classification
 
 \hfill *Total Periods: 15*
 
