@@ -27,9 +27,9 @@
 | 3 | 0 | 0 | 3 |
 
 ** Course Objectives
+- To understand the principles of Cloud Architecture, Models and Infrastructure.
 - To understand the concepts of virtualization and virtual machines.
 - To gain knowledge about virtualization Infrastructure.
-- To understand the principles of Cloud Architecture, Models and Infrastructure.
 - To explore and experiment various Cloud deployment environments.
 - To learn about the security issues in the cloud environment. 
 
