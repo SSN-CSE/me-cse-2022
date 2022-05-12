@@ -69,7 +69,7 @@ KRONOS.
 
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to 
-1. Analyse and compare various model checking algorithms (K3)
+1. Identify an appropriate model checking algorithm to verify the given computer system (K3)
 2. Construct proofs for partial correctness of simple programs using Hoare logic (K3)
 3. Develop formal properties and specifications in CTL and LTL (K3)
 4. Develop and verify simple systems using NuSMV (K3)
@@ -79,9 +79,9 @@ After the completion of this course, students will be able to
 ** TEXTBOOKS
 1. M Huth, M Ryan, ``Logic in Computer Science -- Modeling and
    Reasoning About Systems'', 2nd Edition, Cambridge University
-   Press, 2004 (Units I, II and III).
+   Press, 2012 (Units I, II and III).
 2. Edmund Clarke, Orna Grumberg, Doron Peled, ``Model Checking'',
-   The MIT Press, 1999 (Units III and IV).
+   The MIT Press, 2018 (Units III and IV).
 3. C Baier, J Katoen, ``Principles of Model Checking'', The MIT
    Press, 2008 (Unit V).
    
