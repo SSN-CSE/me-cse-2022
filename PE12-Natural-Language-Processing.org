@@ -17,22 +17,27 @@
 - To explore text processing using Python.
 
 {{{unit}}}
-|Unit I |Overview and Language Modeling|8| 
+|Unit I |Introduction|8| 
 Origins and challenges of NLP -- Knowledge in language processing -- Ambiguity
 -- NLP applications; Text Normalization -- N-grams -- Evaluation -- Sampling -- 
 Generalization -- Smoothing
 
-{{{unit}}}
-|Unit II|Word Level and Syntactic Analysis|9| 
-Word Level Analysis: Regular expressions -- Survey of morphology --
-Word and sentence tokenization -- Stemmer -- Word classes --
-Part-of-Speech Tagging: HMM POS tagging; Syntactic Analysis:
-Constituency -- Context-free grammar -- Dependency Grammar; Parsing:
-Top-down -- Bottom-up -- Ambiguity -- Early algorithm -- CYK --
-Probabilistic CFG -- Probabilistic CYK parsing; Tree banks
 
 {{{unit}}}
-|Unit III|Semantic Analysis And Discourse Processing |10| 
+|Unit II|Vector Semantics and Neural Language Modeling|9|
+Vector Semantics: Words and vectors -- Cosine similarity -- TF-IDF -- PPMI -- Word2Vec -- Semantic properties 
+of embeddings -- Evaluating vector model; Neural language model: Feedforward networks for NLP -- 
+Feedforward Neural Language Modeling -- Training the neural language model -- RNN as Language Model
+
+
+{{{unit}}}
+|Unit III|Word Level and Syntactic Analysis |10| 
+English Word Classes -- Part-of-Speech Tagging -- HMM PoS Tagging -- Context-free grammar -- 
+Grammar rules for Engligh -- Treebanks -- Constituency Parsing: Ambiguity -- CKY Parsing -- 
+Neural Constituency Parsing; Dependency Parsing: Dependency Relations -- Formalisms -- 
+Transition-based and Graph-based Dependency Parsing;
+
+
 The representation of Meaning: Meaning representation -- Computational
 desiderata for representation; Lexical Semantics: word senses --
 relations -- WordNet; Word Sense Disambiguation: Dictionary-based --
@@ -43,11 +48,7 @@ resolution
 
 {{{unit}}}
 |Unit IV|Natural Language Processing With Python |9| 
-Natural Language Toolkit (NLTK); Computing with Language: Texts and
-words -- Simple statistics; Accessing Text Corpora: Brown corpus --
-Reuters corpus -- Wordnet; Normalizing text -- Automatic Tagging;
-Supervised Classification: Gender identification -- Feature selection
--- Document classification
+
 
 {{{unit}}}
 |Unit V|Machine Translation, IR And IE|9|
