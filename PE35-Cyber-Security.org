@@ -1,4 +1,4 @@
-* <<<CP1204>>> SECURITY
+* <<<CP1204>>> CYBER SECURITY
 :properties:
 :author: Dr. S. Saraswathi 
 :date: 09-05-2022 
