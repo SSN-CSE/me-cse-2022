@@ -33,7 +33,7 @@ Query processing –- Data aggregation -– Localized vs Centralized protocols -
 {{{unit}}}
 | UNIT IV | LOCALIZATION AND TOPOLOGY CONTROL | 9 |
 Localization and positioning : Properties of localization and positioning procedures -– Approaches -- Mathematical basics for the lateration problem -- Single-hop localization -- Positioning in multihop environments
-Topology control: Concepts -- Controlling topology in flat networks -- Hierarchical networks by dominating sets -- Hierarchical networks by clustering -- Combining hierarchical topologies and power control
+Topology control: Concepts -- Controlling topology in flat networks -- Hierarchical networks by dominating sets -- Hierarchical networks by clustering -- Combining hierarchical topologies and power control.
 
 
 {{{unit}}}
