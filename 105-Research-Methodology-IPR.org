@@ -41,35 +41,31 @@ are removed
 
 {{{unit}}}
 |Unit V| PATENTS |6|
-Patents: objectives and benefits of patent; Concept, features of patent; Inventive step; Specification, Types of patent application, process E-filing, Examination of patent, Grant of patent, Revocation, Equitable Assignments, Licences, Licensing of related patents, patent agents, Registration of patent agents
+Patents: objectives and benefits of patent; Concept, features of patent; Inventive step; Specification; Types of patent application; process E-filing; Examination of patent; Grant of patent; Revocation; Equitable Assignments; Licences, Licensing of related patents. 
 
 #+begin_comment
-Modofied to one lbrary as per suggestion with tpoics -- 3 chapters 
+patent agents, Registration of patent agents are removed
 #+end_comment
 
-\hfill *Total: 45*
+\hfill *Total: 30*
 
 ** Course Outcomes
 On successful completion of this course, the student will be able to
-- Explain the basic concepts of machine learning (K2)
-- Analyze linear and non-linear techniques for classification problems (K4)
-- Apply unsupervised and reinforcement algorithms for the given problems (K3)
-- Analyze importance of neural networks in machine learning and deep learning (K4)
-- Develop a simple application using H2O (K3)
-      
+- Interpret and formulate research problem (K2)
+- Develop data to carry out research analysis (K3)
+- Develop skilss on report writing and presentation (K)
+- Infer the basic knowledge of IPR (K2)
+- Summarize the iportance of patent and its process (K2)
+
 ** References
-1. Stephen Marsland, ``Machine Learning – An Algorithmic
-   Perspective'', Second Edition, Chapman and Hall/CRC Machine
-   Learning and Pattern Recognition Series, 2015.
-2. Pasha Stetsenko, ''Machine Learning with Python and H2O'', Published by H2O.ai, Inc., 2017
-3. Ethem Alpaydin, ``Introduction to Machine Learning (Adaptive
-   Computation and Machine Learning Series)'', Fourth Edition, MIT
-   Press, 2020
-4. Tom M Mitchell, ``Machine Learning'', First Edition, McGraw Hill
-   Education, 2013.
-5. Peter Flach, ``Machine Learning: The Art and Science of Algorithms
-   that Make Sense of Data'', First Edition, Cambridge University
-   Press, 2012. 
+1. Cooper Donald R and Schindler Pamela S, “Business Research Methods”, Tata McGraw Hill Education, 12 edition, 2014.
+2. Catherine J. Holland, “Intellectual property: Patents, Trademarks, Copyrights, Trade Secrets”, Entrepreneur Press, 2007. 
+3. David Hunt, Long Nguyen, Matthew Rodgers, “Patent searching: tools & techniques”, Wiley, 2007. 
+
+#+begin_comment
+Removed one book 
+#+end_comment
+
 
 #+begin_comment  
 ** CO PO MAPPING 
