@@ -11,17 +11,17 @@
 | 3 | 0 | 0 | 3 |
 
 ** Course Objectives
-The student should be made to:
+The student should be able to:
 - Understand the concepts of distributed databases
-- Be familiar with the data models for data lake.
+- Understand the data models for data lake.
 - Learn the basics of columnar and key-value databases.
-- Be exposed to document and graph databases.
+- Expose to document and graph databases.
 - Gain knowledge about streaming data.
 
 
 {{{unit}}}
 |Unit I |Distributed Databases|9| 	
-Distribution Models: Single Server-- Sharding-- Master--Slave Replication --Peer-to-Peer Replication -- Combining Sharding and Replication; Consistency:  Update Consistency-- Read Consistency-- Relaxing Consistency--The CAP Theorem-- Relaxing Durability-- Quorums.
+Distribution Models: Single Server-- Sharding-- Master--Slave Replication --Peer-to-Peer Replication -- Combining Sharding and Replication; Consistency:  Update Consistency-- Read Consistency-- Relaxing Consistency--The CAP Theorem-- Relaxing Durability-- Quorums; HDFS.
 
 {{{unit}}}
 |Unit II|Data Models for Data Lake|9|
@@ -29,7 +29,7 @@ Data Models -- Categorizing Data Models -- Data Model vs Data Format -- Data Str
 
 {{{unit}}}
 |Unit III|Columnar and Key-Value Databases |9| 
-Cassandra Data Model  -- Clusters -- Keyspaces --Column Families --Columns -- Super Columns -- Design Differences Between RDBMS and Cassandra --Design Patterns -– Cassandra Architecture; Key-Value Databases: What Is a Key-Value Store --Key Value Store Features -- Use Cases.
+Cassandra Data Model  -- Clusters -- Keyspaces --Column Families --Columns -- Super Columns -- Design Differences Between RDBMS and Cassandra --Design Patterns -– Cassandra Architecture; Key-Value Databases: Key-Value Store -- Features -- Use Cases.
 
 {{{unit}}}
 |Unit IV|Document and Graph Databases |9| 
@@ -37,7 +37,7 @@ Database for modern Web: MongoDB -- MongoDB Shell -- Creating, Updating, and Del
 
 {{{unit}}}
 |Unit V|Streaming Data|9| 
-Change Data Capture Concepts --Strategies for Data Capture -- Types of CDC -- CDC Trade-offs --CDC Tools -- Analyzing a Centralized Data Store -- Publishing to Kafka -- Schema and Data.
+Capture Streaming Data with Change-Data-Capture: Concepts; Strategies for Data Capture -- Types of CDC -- CDC Trade-offs --CDC Tools -- Analyzing a Centralized Data Store -- Publishing to Kafka -- AVRO Schema and Data.
 
 \hfill *Total: 45*
 
@@ -57,5 +57,5 @@ After the completion of this course, students will be able to:
 3.	Bill Inmon, ``Data Lake Architecture: Designing the data lake and avoiding the garbage dump", 1st Edition, Technics Publications, 2016.(Unit II)
 4.	Hewitt, Eben, ``Cassandra: the definitive guide",  O'Reilly Media, Inc., 2010.(Unit III)
 5.	Bradshaw, Shannon, Eoin Brazil, and Kristina Chodorow, ``MongoDB: the definitive guide: powerful and scalable data storage",  O'Reilly Media, 2019. (Unit IV)
-6.	Aaron Ploetz , Tejaswi Malepati , Nishant Neeraj, ``Mastering Apache Cassandra 3.x", 3rd Edition, Packt Publishers, 2018.(Unit 3)
-7.	Kyle Banker, Peter Bakkum, Shaun Verch, Douglas Garrett, and Tim Hawkin, ``MongoDB in Action", 2nd Edition, Manning Publications, 2016.(Unit III)
+6.	Aaron Ploetz , Tejaswi Malepati , Nishant Neeraj, ``Mastering Apache Cassandra 3.x", 3rd Edition, Packt Publishers, 2018.(Unit III)
+7.	Kyle Banker, Peter Bakkum, Shaun Verch, Douglas Garrett, and Tim Hawkin, ``MongoDB in Action", 2nd Edition, Manning Publications, 2016.(Unit IV)
