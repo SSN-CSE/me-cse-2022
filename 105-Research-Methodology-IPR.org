@@ -17,21 +17,21 @@ To impart knowledge and skills required for research and IPR:
 
 
 {{{unit}}}
-|Unit I |RESEARCH DESIGN |6|
+|Unit I |Research Design |6|
 Overview of research process and design; Use of Secondary and exploratory data to answer the research question; Qualitative research; Observation studies; Experiments and Surveys. 
 
 {{{unit}}}
-|Unit II| DATA COLLECTION AND SOURCES |6| 
+|Unit II| Data Collection and Sources |6| 
 Measurements: Measurement Scales; Questionnaires and Instruments; Sampling and methods.
 Data-Preparing -- Exploring -- examining and displaying. 
 
 {{{unit}}}
-|Unit III| DATA ANALYSIS AND REPORTING |6| 
+|Unit III| Data Analysis and Reporting |6| 
 Overview of Multivariate analysis; Hypotheses testing and Measures of Association; 
 Presenting Insights and findings using written reports and oral presentation. 
 
 {{{unit}}}
-|Unit IV| INTELLECTUAL PROPERTY RIGHTS |6| 
+|Unit IV| Intellectual Property Rights |6| 
 Intellectual Property: The concept of IPR -- Evolution and development of concept of IPR -- IPR development process: Trade secrets -- utility Models -- Right of Property; Common rules of IPR practices; Types and Features of IPR Agreement; Trademark.
 
 #+begin_comment
@@ -40,7 +40,7 @@ are removed
 #+end_comment
 
 {{{unit}}}
-|Unit V| PATENTS |6|
+|Unit V| Patents |6|
 Patents: objectives and benefits of patent; Concept, features of patent; Inventive step; Specification; Types of patent application; process E-filing; Examination of patent; Grant of patent; Revocation; Equitable Assignments; Licences, Licensing of related patents. 
 
 #+begin_comment
