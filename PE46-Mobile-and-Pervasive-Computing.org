@@ -12,11 +12,11 @@
 | <<<CP1331>>> | MOBILE AND PERVASIVE COMPUTING | PE | 3 | 0 | 0 | 3 |
 
 ** Course Objectives
-- To learn the basic mobile concepts. 
-- To understand the 4G Telecommunication System Principles.
-- To introduce the broad perspective of pervasive concepts and management.
-- To explore the HCI in Pervasive environment.
-- To apply the pervasive concepts in mobile environment.
+- To learn basic mobile concepts. 
+- To understand 4G telecommunication system principles.
+- To introduce broad perspective of pervasive concepts and management.
+- To explore HCI in pervasive environment.
+- To apply pervasive concepts in mobile environment.
 
 {{{unit}}}
 |Unit I |Introduction|9| 		
@@ -34,7 +34,7 @@ Interface -- Evolved Packet Core -- LTE Requirements -- LTE-Advanced
 Perspectives of Pervasive Computing -- Challenges -- Technology --
 Infrastructure and Devices -- Middleware for Pervasive Computing
 Systems -- Pervasive Computing Environments -- Context Collection and
-Wireless Sensor Networks -- User Tracking -- Context Reasoning
+Wireless Sensor Networks -- User Tracking -- Context Reasoning.
 
 {{{unit}}}
 |Unit IV|Human Computer Interface in Pervasive Environments |9| 
@@ -50,7 +50,7 @@ framework.
 |Unit V|Pervasive Mobile Transaction |9|
 Introduction to Pervasive Transactions -- Mobile Transaction Framework
 -- Context-Aware Pervasive Transaction Model -- Dynamic Transaction
-Management -- Formal Transaction Verification 
+Management -- Formal Transaction Verification.
 
 
 \hfill *Total: 45*
