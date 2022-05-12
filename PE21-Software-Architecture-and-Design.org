@@ -17,7 +17,7 @@
 - To understand the need, design approaches for software architecture to bridge the dynamic requirements and implementation.
 - To learn the design principles and to apply for large scale systems. 
 - To design architectures for distributed heterogeneous systems, environment through brokerage interaction.
-- To build design knowledge on service oriented and model driven architectures and the aspect oriented architecture. 
+- To build knowledge on service oriented and model driven architectures and the aspect oriented architecture. 
 - To develop appropriate architectures for various Case studies like semantic web services, supply chain cloud services.
 
 {{{unit}}}
@@ -69,18 +69,15 @@ Supply chain cloud service management; Semantic Web Services.
 After the completion of this course, students will be able to: 
 
 - Explain the need of software architecture to develop sustainable dynamic systems(K2)
-- Apply the sound knowledge on design principles to develop large scale systems(K3)
-- Apply the deep knowledge of various design architectures to develop distributed heterogeneous systems(K3)
+- Apply sound knowledge on design principles to develop large scale systems(K3)
+- Apply deep knowledge of various design architectures to develop distributed heterogeneous systems(K3)
 - Explain the various architectures such as service oriented, aspect oriented and model driven.(K2)
-- Apply the knowledge obtained from various architectures and designs and select appropriate ones to develop solutions for various case studies.(K3)
+- Select appropriate software architectures to design solution for various case studies.(K3)
 
 ** References
 1. Ion Gorton, ``Essentials of Software Architecture'',  Second Edition, Springer- verlag, 2011.
-2. Software Architecture Design Illuminated, Kai Qian Jones and Bartlett Publishers Canada, 2010.
+2. Kai Qian, ``Software Architecture Design Illuminated'', Jones and Bartlett Publishers, Canada, 2010.
 3. David Budgen, ``Software Design'', Second Edition, Pearson Education, 2004.
-4. Len Bass, Paul Clements, Rick Kazman, ``Software Architecture in
-   Practice'', Third Edition, Addison, Wesley, 2012.
-5. Mary Shaw and David Garlan, Software Architecture Perspectives
-   on an emerging discipline, Pearson education, 2008.
-6. Richard N. Taylor, Nenad Medvidovic and Eric M. Dashofy, ``Software
-   Architecture, Foundations, Theory and Practice'', Wiley 2010.
+4. Len Bass, Paul Clements, Rick Kazman, ``Software Architecture in Practice'', Third Edition, Addison, Wesley, 2012.
+5. Mary Shaw and David Garlan, ``Software Architecture Perspectives on an emerging discipline'', Pearson education, 2008.
+6. Richard N. Taylor, Nenad Medvidovic and Eric M. Dashofy, ``Software Architecture, Foundations, Theory and Practice'', Wiley 2010.
