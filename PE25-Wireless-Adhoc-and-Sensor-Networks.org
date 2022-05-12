@@ -6,14 +6,16 @@
 
 #+startup: showall
 {{{title-tab}}}
-** WIRELESS SENSOR NETWORKS                     | L | T | P | C |
-                                                | 3 | 0 | 0 | 3 |
+** WIRELESS SENSOR NETWORKS    
+
+| L | T | P | C |
+| 3 | 0 | 0 | 3 |
 
 ** COURSE OBJECTIVES
 - To study about the sensor node hardware and design principles.
 - To study the functionalities of various MAC protocols for WSNs.
 - To understand the working of data centric routing protocols in WSNs. 
-- To understand the synchronization, localization and tracking in WSNs. 
+- To understand the working of localization and topology control in WSNs. 
 - To explore the various platforms and tools for WSN.
 
 {{{unit}}}
@@ -43,9 +45,9 @@ Sensor Network Hardware:  Berkeley Motes -– Arduino IDE -– Node Level Softwa
 
 ** COURSE OUTCOMES
 After completion of this course, the student will be able to:
-1. Explain different types of sensors, their actuators, and the architecture of motes. (K2)
-2. Choose specific MAC protocols for the application (K3)
-3. Select data-centric routing based on application needs ( k3)
+1. Explain sensor node architecture and design principles. (K2)
+2. Choose specific MAC protocols for the application. (K3)
+3. Select data-centric routing based on application needs. ( k3)
 4. Analyze the working of various localization and topology control techniques. (k4)
 5. Explain various platforms and tools for WSN. (k2)
 
