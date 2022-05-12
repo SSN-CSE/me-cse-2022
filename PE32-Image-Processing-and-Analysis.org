@@ -8,14 +8,14 @@
 
 {{{credits}}}
 |L|T|P|C|
-|2|0|2|4|
+|2|0|2|3|
 
 ** Course Objectives
-- To understand the basics of digital images.
-- To understand the spatial and frequency domain processing.
-- To learn basic image analysis - segmentation.
-- To learn the feature detection and multi-resolution analysis.
-- To appreciate the use of image processing in various applications.
+- To understand basics of digital images
+- To understand spatial and frequency domain processing
+- To learn image segmentation techniques
+- To learn feature detection and multi-resolution analysis
+- To learn various applications of image processing.
 
 
 {{{unit}}}
@@ -23,7 +23,7 @@
 Introduction -- Elements of visual perception -- Steps in Image
 Processing Systems -- Image Acquisition -- Sampling and Quantization
 -- Pixel Relationships -- Image Modalities -- File Formats -- Image
-Operations: Arithmetic; Logical; Statistical and Spatial operations
+Operations: Arithmetic; Logical; Statistical and Spatial operations.
 
 {{{unit}}}
 |Unit II| Smoothing and Sharpening |8| 
@@ -31,7 +31,7 @@ Spatial Domain processing: Filtering operations; Histograms; Smoothing
 filters; Sharpening filters; Frequency Domain processing: Fourier Transform --
 DFT and FFT; Filtering operations; Smoothing and Sharpening -- 
 Selective filters; Homomorphic filtering; Restoration: Model of Image Degradation/Restoration Process, 
-Noise Models -- Filters for noise removal in Spatial and Frequency domain
+Noise Models -- Filters for noise removal in Spatial and Frequency domain.
 
 #+BEGIN_COMMENT
 Removal 
@@ -48,7 +48,7 @@ Adaptive -- Otsu method Edge detection: Template matching; Gradient
 operation; Hysterisis Thresholding -- Canny operator -- Laplacian
 operator; Image morphology -- Binary and Gray Level morphology
 operations -- erosion; dilation -- opening-- closing operations --
-Morphological watersheds
+Morphological watersheds.
 
 #+BEGIN_COMMENT		
 Removal 
@@ -87,9 +87,23 @@ Image Recognition : Fingerprint Recognition -- Image Classification :
 Tumor classification from Medical Image -- Image Understanding: CBIR
 -- Image Fusion: Statellite image enhancement -- Object tracking:
 Surveillance applications -- Image Steganography: Image hiding in
-Multimedia
+Multimedia.
 
-\hfill *Total: 45* 
+\hfill *Total: 30* 
+
+** List of Experiments:
+1.	Program to implement smoothing or averaging filter in spatial domain.
+2.a	Program to find histogram value and display histograph of a grayscale and color image.
+2.b	Program to obtain histogram equalization image
+3.a	Program to discretize an image using Fourier transformation.
+3.b	Program to eliminate the high frequency components of an image.
+4.	Program to fill the region of interest for the image.
+5.a	Program for morphological operation: erosion and dilation
+5.b	Program for segmentation of an image using watershed transforms.
+6.	Program to determine the edge detection of an image using different operators.
+7.	Program to perform discrete wavelet transform on image.
+
+\hfill *Total: 15*
 
 ** Course Outcomes
 After the completion of this course, students will be able to:
@@ -127,16 +141,5 @@ After the completion of this course, students will be able to:
 4. Davis, E. R. ``Machine Vision'' Second Edition, 1997.
 #+END_COMMENT 
 
-** List of Experiments:
-1.	Program to implement smoothing or averaging filter in spatial domain.
-2.a	Program to find histogram value and display histograph of a grayscale and color image.
-2.b	Program to obtain histogram equalization image
-3.a	Program to discretize an image using Fourier transformation.
-3.b	Program to eliminate the high frequency components of an image.
-4.	Program to fill the region of interest for the image.
-5.a	Program for morphological operation: erosion and dilation
-5.b	Program for segmentation of an image using watershed transforms.
-6.	Program to determine the edge detection of an image using different operators.
-7.	Program to perform discrete wavelet transform on image.
 
 
