@@ -60,15 +60,11 @@ Intrusion Detection: Host-Based Intrusion Detection -- Network-Based Intrusion D
 
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to 
-1. Understand the basics of cyber security, cyber crime and law (K2)
-2. Understand the various types of attack and tools to launch it (K2)
-3. Perform information gathering (K3)
-4. Perform intrusion detection (K3)
-5.  Perform intrusion detection (K3)
-6. Set up a cyber security environment to perform security analysis (K3).
-
-
-
+1. Explain the basics of cyber security, cyber crime and law (K2)
+2. Classify the various types of attack and tools to launch it (K2)
+3. Plan information gathering (K3)
+4. Apply intrusion detection system (K3)
+5. Apply intrusion Prevention system (K3)
 
 ** REFERENCE BOOKS
 1. Anand Shinde, ``Introduction to Cyber Security Guide to the World of Cyber Security'', Notion Press, 2021. 
