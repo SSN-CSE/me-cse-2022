@@ -11,11 +11,11 @@
 |3|0|0|3|
 
 ** Course Objectives
- - Discuss the various computing paradigms and challenges of edge computing environment .
- - Discuss the various hardware needed for edge architecture.
- - Learn about federated learning techniques and inferences at edge systems.
- - Discuss the technologies and components used to create an edge analytics application.
- - Discuss about the applications of edge computing.
+ - To understand the various computing paradigms and challenges of edge computing environment .
+ - To explore the various hardware needed for edge architecture.
+ - To learn about federated learning techniques and inferences at edge systems.
+ - To understand the technologies and components used to create an edge analytics application.
+ - To learn different applications of edge computing.
 
 
 {{{unit}}}
@@ -46,7 +46,7 @@ Types of attacks against our edge analytics applications -- Protecting our edge 
 
 {{{unit}}}
 |Unit V|Edge Computing Applications |9|
-AEdge Computing use Cases -- Realization of Edge Computing in Healthcare Ensuring Storage Security; 
+Edge Computing use Cases -- Realization of Edge Computing in Healthcare Ensuring Storage Security; 
 Industrial Internet of Things (IIoT) Applications of Edge and Fog Computing: A Review and Future Directions -- Leveraging Edge Computing for Mobile Augmented Reality;
 Smart Surveillance Video Stream Processing at the Edge for Real--Time Human Objects Tracking.
 
@@ -55,17 +55,17 @@ Smart Surveillance Video Stream Processing at the Edge for Real--Time Human Obje
 
 ** Course Outcomes
 After the completion of this course, students will be able to: 
-- Describe the fundamentals and challenges of edge computing. (K2)
--	Explain the use and need of different hardware components of edge computing. (K2)
--	Apply the advanced concepts and frameworks of edge AI. (K3) 
--	Apply the technologies used for edge analytics and developing solutions. (K3)
--	Analyse the performance of the applications developed using edge architecture. (K3)
+- Describe the fundamentals and challenges of edge computing (K2)
+-	Explain the use and need of different hardware components of edge computing (K2)
+-	Apply the advanced concepts and frameworks of edge AI (K3) 
+-	Apply the technologies used for edge analytics and developing solutions (K3)
+-	Analyse the performance of the applications developed using edge architecture (K3)
 
       
 ** References
-1. Rajkumar Buyya and Satish Narayana Srirama, Fog and Edge Computing Principles and Paradigms, Wiley, 2019. (Unit 1, 5)
-2.	K. Anitha Kumari G. Sudha Sadasivam D. Dharani M. Niranjanamurthy, Edge Computing Fundamentals, Advances and Applications, CRC Press, 2022. (Unit  2, 4, 5)
-3.	Xiaofei Wang, Yiwen Han, Victor C.M.Leung, Dusit Niyato, Xueqiang Yan, Xu ChenEdge, AI Convergence of Edge Computing and Artificial Intelligence, Springer, 2020. (Unit  2, 3)
+1. Rajkumar Buyya and Satish Narayana Srirama, Fog and Edge Computing Principles and Paradigms, Wiley, 2019. (Units 1, 5)
+2.	K. Anitha Kumari G. Sudha Sadasivam D. Dharani M. Niranjanamurthy, Edge Computing Fundamentals, Advances and Applications, CRC Press, 2022. (Units  2, 4, 5)
+3.	Xiaofei Wang, Yiwen Han, Victor C.M.Leung, Dusit Niyato, Xueqiang Yan, Xu ChenEdge, AI Convergence of Edge Computing and Artificial Intelligence, Springer, 2020. (Units  2, 3)
 4.	Wei Chang,  Jie Wu Fog, Edge Computing For Security, Privacy, and Applications, Springer, 2021. (Unit  5)
 5.	Colin Dow, Hands-On Edge Analytics with Azure IoT- Design and develop IoT applications with edge analytical solutions including Azure IoT Edge, Packt Publishing, 2020. (Unit 4)
 
