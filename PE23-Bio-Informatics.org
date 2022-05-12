@@ -20,7 +20,6 @@
 
 {{{unit}}}
 |Unit I|Introduction and Fundamentals|9|
-
 Fundamentals of genes , genomics , molecular evolution -- genomic
 technologies -- beginning of bioinformatics - genetic data -- sequence
 data formats -- secondary database -- examples -- data retrival
