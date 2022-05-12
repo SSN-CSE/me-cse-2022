@@ -1,6 +1,6 @@
 * <<<CP1333>>> SOCIAL NETWORK ANALYSIS 
 :properties:
-:author: S V JANSI RANI
+:author: S V Jansi Rani
 :date: 12 May 2022
 :end:
 
