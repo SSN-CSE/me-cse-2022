@@ -1,7 +1,7 @@
 * <<<CP1224>>> NATURAL LANGUAGE PROCESSING
 :Properties:
-:author: D Thenmozhi, B Senthil Kumar
-:date: 28 June 2018
+:author:  B Senthil Kumar, D Thenmozhi
+:date: 11 May 2022
 :end:
 
 #+startup: showall
@@ -13,8 +13,8 @@
 ** Course Objectives
 - To learn the language models.
 - To understand the levels of knowledge in language processing.
+- To understand sequence processing of text. 
 - To explore text processing using Python.
-- To understand the NLP applications. 
 
 {{{unit}}}
 |Unit I |Overview and Language Modeling|8| 
