@@ -1,7 +1,7 @@
 * <<<PE22>>> COGNITIVE COMPUTING 
 :properties:
 :author: Kanchana
-:date: 
+:date: 12 May 2022
 :end:
 
 
@@ -15,28 +15,28 @@
 ** COURSE OBJECTIVES
 - To understand foundations of cognitive computing
 - To explore the role of AI, Big Data, Machine learning, NLP in cognitive systems
-- To understand the business implications of cognitive computing and develop solutions.
+- To understand business implications of cognitive computing and develop solutions.
 
 
 {{{unit}}}
-| UNIT I | FOUNDATION OF COGNITIVE COMPUTING | 8 |
-Cognitive computing as a new generation -- the uses of cognitive systems -- system cognitive, gaining insights from data -- Artificial Intelligence as the foundation of cognitive computing, understanding cognition; Design Principles for Cognitive Systems: Components of a cognitive system, building the corpus -- bringing data into cognitive system -- machine learning -- hypotheses generation and scoring -- presentation and visualization services.
+| UNIT I | FOUNDATIONS OF COGNITIVE COMPUTING | 8 |
+Cognitive computing as a new generation -- uses of cognitive systems -- gaining insights from data -- Artificial Intelligence as the foundation of cognitive computing -- understanding cognition; Design Principles for Cognitive Systems: Components of a cognitive system, building the corpus -- bringing data into a cognitive system -- machine learning -- hypotheses generation and scoring -- presentation and visualization services.
 
 {{{unit}}}
 | UNIT II | NLP IN SUPPORT OF A COGNITIVE SYSTEM | 8 |
-Role of NLP in a cognitive system -- semantic web -- Applying Natural language technologies to Business problems; Representing knowledge in Taxonomies and Ontologies: Representing knowledge -- Defining Taxonomies and Ontologies --  Knowledge representation -- Models for knowledge representation -- Implementation considerations.  
+Role of NLP in a cognitive system -- semantic web -- Applying natural language technologies to Business problems; Representing knowledge in Taxonomies and Ontologies: Knowledge representation -- Models for knowledge representation -- Implementation considerations.  
 
 {{{unit}}}
 | UNIT III | RELATIONSHIP BETWEEN BIG DATA AND COGNITIVE COMPUTING | 8 |
-Dealing with human-generated data -- defining big data -- architectural foundation -- analytical data warehouses; Hadoop -- data in motion and streaming data; integration of big data with traditional data; Applying Advanced Analytics to cognitive computing: Advanced analytics is on a path to cognitive computing -- Key capabilities in advanced analytics -- Using advanced analytics to create value -- Impact of open source tools on advanced analytics. 
+Dealing with human-generated data -- defining big data -- architectural foundation -- analytical data warehouses; Hadoop -- data in motion and streaming data; integration of big data with traditional data; Applying Advanced Analytics to cognitive computing:   Key capabilities in advanced analytics --  Impact of open source tools on advanced analytics. 
 
 {{{unit}}}
 | UNIT IV | BUSINESS IMPLICATIONS OF COGNITIVE COMPUTING  | 8 |
-Preparing for change -- advantages of new disruptive models --  knowledge meaning to business, difference with a cognitive systems approach -- meshing data together differently -- using business knowledge to plan for the future --  answering business questions in new ways , building business specific solutions; The process of building a cognitive application: Emerging cognitive platform, defining the objective and the domain -- understanding the intended users and their attributes -- questions and exploring insights -- training and testing .
+Preparing for a change -- advantages of new disruptive models --  comparison with a cognitive systems approach -- meshing data together differently -- using business knowledge to plan for the future --  answering business questions in new ways, building business specific solutions; Process of building a cognitive application: Emerging cognitive platform -- objective and the domain -- understanding the intended users and their attributes -- questions and exploring insights -- training and testing.
 
 {{{unit}}}
 | UNIT V | BUILDING A COGNITIVE HEALTH CARE APPLICATION | 8 |
-Foundations of cognitive computing for healthcare -- constituents in healthcare ecosystem -- learning from patterns in healthcare Data -- cognitive applications across the health care eco system -- cognitive application for healthcare -- using cognitive applications to improve health and wellness, to enhance the electronic medical record, to improve clinical teaching; Smarter cities: Cognitive Computing in Government -- smarter approaches to preventative healthcare, building a smarter transportation infrastructure --  creating a cognitive community infrastructure -- next phase of cognitive cities 
+Foundations of cognitive computing for healthcare -- constituents in healthcare ecosystem -- learning from patterns in healthcare Data -- cognitive applications across the healthcare eco system; Smarter cities: Cognitive Computing in Government -- smarter approaches to preventative healthcare -- building a smarter transportation infrastructure --  creating a cognitive community infrastructure -- next phase of cognitive cities 
 
 
 \hfill *Total Periods: 45*
@@ -44,16 +44,16 @@ Foundations of cognitive computing for healthcare -- constituents in healthcare 
 
 ** COURSE OUTCOMES
 Upon completion of this course, the students should be able to:
--	Identify how Artificial Intelligence, Machine Learning and Cognitive Computing are related together and are used for application development (K2)
+-	Explain how Artificial Intelligence, Machine Learning and Cognitive Computing are related and are used for application development (K2)
 -	Describe Cognitive computing and NLP based techniques and models (K2)
 -	Apply advanced analytics to cognitive computing (K3)
--	Apply technical and managerial issues in developing applications based on cognitive computing and Artificial Intelligence Applications techniques. (K3)
+-	Apply technical and managerial issues in developing applications based on cognitive computing and Artificial Intelligence techniques. (K3)
 - Apply and assess cognitive computing and Artificial Intelligence Applications in an organizational setting (K3)
 
 
 
 ** REFERENCES
-1. Judith H Hurwitz, Marcia Kaufman, Adrian Bowles , “Cognitive computing and Big Data Analytics” , Wiley, 2015
+1. Judith H Hurwitz, Marcia Kaufman, Adrian Bowles , “Cognitive computing and Big Data Analytics” , Wiley, 2015 (Units 1, 2, 3, 4, and 5)
 2. Pradeep Kumar Mallick, Samarjeet Borah, Emerging Trends and Applications in Cognitive Computing, IGI Global, 2018
 3. Vishal Jain, Akash Tayal, Jaspreet Singh, Cognitive Computing Systems - Applications and Technological Advancements, Taylor & Francis, 2021 
 4. Rob High , Tanmay Bakshi, Cognitive Computing with IBM Watson, Packt, 2019
