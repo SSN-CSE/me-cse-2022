@@ -17,33 +17,15 @@
 - To learn feature detection and multi-resolution analysis
 - To learn various applications of image processing.
 
-** List of Experiments:
-1.	Program to implement smoothing or averaging filter in spatial domain.
-2.	Image Processing on Histogram Processing
-	- Program to find histogram value and display histograph of a grayscale and color image.
-	- Program to obtain histogram equalization image
-3.	Image Processing on Fourier Transformation
-	- Program to discretize an image using Fourier transformation.
-	- Program to eliminate the high frequency components of an image.
-4.	Program to fill the region of interest for the image.
-5.	Image Processing on Segmentation
-	- Program for morphological operation: erosion and dilation
-	- Program for segmentation of an image using watershed transforms.
-6.	Program to determine the edge detection of an image using different operators.
-7.	Program to perform discrete wavelet transform on image.
-
-\hfill *Total: 15*
-
-
 {{{unit}}}
 |Unit I | Fundamentals of Image Processing |5| 
 Introduction -- Elements of visual perception -- Steps in Image
 Processing Systems -- Image Acquisition -- Sampling and Quantization
--- Pixel Relationships -- Image Modalities -- File Formats -- Image
-Operations: Arithmetic; Logical; Statistical and Spatial operations.
+-- Pixel Relationships -- Image Modalities -- File Formats; Image
+Operations: Arithmetic -- Logical -- Statistical and Spatial operations.
 
 {{{unit}}}
-|Unit II| Smoothing and Sharpening |8| 
+|Unit II| Image Enhancement and Restoration |8| 
 Spatial Domain processing: Filtering operations; Histograms; Smoothing
 filters; Sharpening filters; Frequency Domain processing: Fourier Transform --
 DFT and FFT; Filtering operations; Smoothing and Sharpening -- 
@@ -60,9 +42,8 @@ Rest of the Topics are re-ordered as Image Enhancement and Image Restoration in 
 
 {{{unit}}}
 |Unit III| Image Segmentation |5| 
-Thresholding techniques: Region growing; splitting and merging;
-Adaptive -- Otsu method Edge detection: Template matching; Gradient
-operation; Hysterisis Thresholding -- Canny operator -- Laplacian
+Thresholding techniques: Region growing -- splitting and merging -- Adaptive -- Otsu method;
+Edge detection; Template matching; Gradient operation; Hysterisis Thresholding -- Canny operator -- Laplacian
 operator; Image morphology -- Binary and Gray Level morphology
 operations -- erosion; dilation -- opening-- closing operations --
 Morphological watersheds.
@@ -106,6 +87,22 @@ Image Fusion: Statellite image enhancement; Object tracking: Surveillance applic
 
 \hfill *Total: 30* 
 
+** List of Experiments:
+1.	Program to implement smoothing or averaging filter in spatial domain.
+2.	Image Processing on Histogram Processing
+	- Program to find histogram value and display histograph of a grayscale and color image.
+	- Program to obtain histogram equalization image
+3.	Image Processing on Fourier Transformation
+	- Program to discretize an image using Fourier transformation.
+	- Program to eliminate the high frequency components of an image.
+4.	Program to fill the region of interest for the image.
+5.	Image Processing on Segmentation
+	- Program for morphological operation: erosion and dilation
+	- Program for segmentation of an image using watershed transforms.
+6.	Program to determine the edge detection of an image using different operators.
+7.	Program to perform discrete wavelet transform on image.
+
+\hfill *Total: 15*
 
 ** Course Outcomes
 After the completion of this course, students will be able to:
