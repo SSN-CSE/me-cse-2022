@@ -1,7 +1,7 @@
 * <<<CP1324>>> INFORMATION RETRIEVAL TECHNIQUES
 :properties:
-:author: D. Thenmozhi, G. Raghuraman
-:date: 28 June 2018
+:author: R. Priyadharsini
+:date: 13 May 2022
 :end:
 
 #+startup: showall
@@ -12,11 +12,10 @@
 
 ** Course Objectives
 - To understand the basics of information retrieval with pertinence to
-  modeling -- query operations and indexing
-- To get an understanding of machine learning techniques for text
+  modeling techniques
+- To learn various components of IR systems 
+- To learn machine learning techniques for text
   classification and clustering
-- To understand the various applications of information retrieval
-  giving emphasis to multimedia IR -- web search and digital libraries
 - To explore various IR applications using case studies
 
 {{{unit}}}
@@ -58,20 +57,20 @@ Retrieval -- Advancements in Reference collection.
 
 ** Course Outcomes
 After the completion of this course, students will be able to: 
-- Apply IR models for document retrieval. (K3)
-- Build the components of an information retrieval system. (K3)
-- Apply search strategies for IR. (K3)
-- Apply machine learning techniques to text classification and clustering used for efficient IR. (K3)
+- Apply information retrieval models for document retrieval. (K3)
+- Develop components of an information retrieval system. (K3)
+- Apply search strategies for information retrieval. (K3)
+- Apply machine learning techniques to text classification and clustering to improve performance of IR system. (K3)
 - Apply IR techniques for various applications. (K3)
 
 
 ** References
 1. Ricardo Baeza-Yates, Berthier Ribeiro Neto, ``Modern Information
    Retrieval: The concepts and Technology behind Search'', ACM Press
-   Books, Second Edition, 2011.
+   Books, Second Edition, 2011. (Units 1, 2, 3, 5)
 2. Christopher D. Manning, Prabhakar Raghavan, Hinrich Schutze,
    ``Introduction to Information Retrieval'', Cambridge University
-   Press, First South Asian Edition, 2008.
+   Press, First South Asian Edition, 2008. (Unit 4) 
 3. Stefan Buttcher, Charles L. A. Clarke, Gordon V. Cormack,
    ``Information Retrieval - Implementing and Evaluating Search
    Engines'', The MIT Press, Cambridge, Massachusetts London, England,
