@@ -1,7 +1,7 @@
 * <<<CP1222>>> ADVANCED DATABASES 
 :properties:
-:author: J. Suresh, A. Beulah
-:date: 9 May 2022
+:author: A. Beulah & J. Suresh
+:date: 13 May 2022
 :end:
 
 #+startup: showall
