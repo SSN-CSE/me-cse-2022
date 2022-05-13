@@ -29,11 +29,11 @@ Introduction to Angular – Typescript: Built-in types, classes – Components: 
 
 {{{unit}}}
 | UNIT IV | NODEJS & EXPRESSJS  | 6 |
-Getting Started with NodeJS; Introduction to Express; Saving time with Express: Scaffolding – views and layouts – Static files and views– Dynamic content in views; Request and Response Objects; Templating with Handlebars.
+Getting Started with NodeJS; Introduction to Express; Saving time with Express: Scaffolding – views and layouts – Static files and views– Dynamic content in views; Request and Response Objects; Templates using Handlebars.
 
 {{{unit}}}
-|Unit V|PYTHON BASED FRAMEWORK - DJANGO  |6|
-Introduction to Django: Django Template System – Interacting with Database (Models) – Building Simple Django Applications – Message Board App – Blog App;  Form Processing; Configuring Heroku Account – Deploying Projects in Heroku: Newspaper App – Advanced Views and URL Confs.
+|Unit V|BUILDING WEB APPLICATIONS  |6|
+Form Handling: Sending Client data to Server – HTML forms – Form Handling with Express; Sending Email; Implementing MVC in Express
 
 \hfill *Total: 30*
 
