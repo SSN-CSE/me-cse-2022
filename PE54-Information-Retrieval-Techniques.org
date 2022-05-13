@@ -35,7 +35,7 @@ Text Properties; Text Operations: Text preprocessing -- Text
 compression
 
 {{{unit}}}
-|Unit III|Searching|10| 
+|Unit III|Searching|9| 
 Searching: Sequential searching -- Pattern matching -- Compression; Searching the
 Web: Characteristizing the Web -- Search engines -- Browsing --
 Searching using hyperlinks
@@ -48,7 +48,7 @@ clustering; Hierarchical Clustering; Matrix Decompositions and Latent
 Semantic Indexing
 
 {{{unit}}}
-|Unit V|Applications|8|
+|Unit V|Applications|9|
 XML Retrieval -- Multimedia IR -- Parallel and Distributed IR --
 Digital Libraries -- Social Media Retrieval -- Content-based Image
 Retrieval -- Advancements in Reference collection.
