@@ -11,10 +11,10 @@
 |3|0|0|3|
 
 ** Course Objectives
-- To learn the language models.
-- To understand the levels of knowledge in language processing.
-- To understand sequence processing of text. 
-- To explore text processing using Python.
+- To learn the fundamentals in language processing.
+- To understand the language modeling using vector semantics.
+- To understand the syntactic parsing in language processing.
+- To understand representation of meaning in semantics.
 
 {{{unit}}}
 |Unit I |Introduction|8| 
@@ -56,9 +56,9 @@ Proposition Bank -- FrameNet -- Semantic Role Labeling
 ** Course Outcomes
 After the completion of this course, students will be able to: 
 - Apply the vector semantics in language modeling (K3)
-- Apply the levels of knowledge in language processing (K3)
-- Explain the Sequence processing with ML/Neural networks. (K2)
-- Apply Python for Text Analysis (K3)
+- Apply the syntactic analysis in language processing (K3)
+- Explain the meaning representation for natural languages. (K2)
+- Apply semantic analysis for words and sentences. (K3)
  
  Suggested Exercise:
  1) Implementation of Tokenizer, n-grams
