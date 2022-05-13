@@ -12,9 +12,10 @@
 
 ** Course Objectives
 - To learn the fundamentals in language processing.
-- To understand the language modeling using vector semantics.
 - To understand the syntactic parsing in language processing.
-- To understand representation of meaning in semantics.
+- To understand the language modeling using vector semantics.
+- To understand the semantics of words and sentences in languages.
+- To understand the information extraction techniques.
 
 {{{unit}}}
 |Unit I |Introduction|6| 
@@ -42,31 +43,32 @@ Word Senses: Senses Relations -- WordNet -- Word Sense Disambiguation; Semantic 
 
 
 {{{unit}}}
-|Unit V|Semantic Analysis|6|
-Word Senses: Senses Relations -- WordNet -- Word Sense Disambiguation; Semantic Roles: Diathesis Alternations 
--- Problems -- Proposition Bank -- Semantic Role Labeling
+|Unit V|Information Extraction|6|
+Named Entities -- Named Entity Tagging; Relation Extraction -- Algorithms -- Extracing Times 
+-- Extracting Events and their Times -- Template Filling;
 
 
 \hfill *Total: 45*
 
 ** Course Outcomes
 After the completion of this course, students will be able to: 
-- Apply the vector semantics in language modeling (K3)
-- Apply the syntactic analysis in language processing (K3)
-- Explain the meaning representation for natural languages. (K2)
+- Apply the text normalization techniques. (K3)
+- Apply syntactic analysis in language processing (K3)
+- Apply vector semantics for word embeddings. (K3)
 - Apply semantic analysis for words and sentences. (K3)
+- Apply extraction techniques to extract the information. (K3)
  
  Suggested Exercise:
- 1) Apply Tokenizer, n-grams for text pre-processing.
- 2) Apply TF-IDF, Word2Vec vectors for the given text data.
+ 1) Apply Tokenizer, n-grams in text normalization.
+ 2) Apply TF-IDF, Word2Vec vectors for the given text data for word similarity.
  3) Apply treebanks for context-free and dependency parsing.
- 4) Implement Text classification using deep neural networks
- 6) Word Similarity
+ 4) Apply semantics to find the word sense/SRL.
+ 6) Apply IE techniques to extract the Named Entities/Relations.
  
      
 ** References
-1. Daniel Jurafsky and James H Martin, “Speech and Language Processing: An introduction to Natural Language Processing, Computational Linguistics and Speech Recognition”,2nd Edition, Prentice Hall, 2008.
-2. Tanveer Siddiqui, U.S. Tiwary, “Natural Language Processing and Information Retrieval”, Oxford University Press, 2008.
+1. Daniel Jurafsky and James H Martin, “Speech and Language Processing: An introduction to Natural Language Processing, Computational Linguistics and Speech Recognition”,3rd Edition
+2. Christopher D. Manning, Hinrich Schutze, Foundations of Statistical Natural Language Processing, MIT Press, 1999.
 3. Steven Bird, Ewan Klein, and Edward Loper, “Natural Language Processing with Python”, O’Reilly, 2009.
-4. Christopher D. Manning, Hinrich Schutze, Foundations of Statistical Natural Language Processing, MIT Press, 1999.
+4. Tanveer Siddiqui, U.S. Tiwary, “Natural Language Processing and Information Retrieval”, Oxford University Press, 2008.
 5. Nitin Indurkhya, Fred J. Damerau, Handbook of Natural Language Processing, 2nd Edition, CRC Press, 2010.
