@@ -27,8 +27,8 @@
 	- Program to eliminate the high frequency components of an image.
 4.	Program to fill the region of interest for the image.
 5.	Image Processing on Segmentation
-	-Program for morphological operation: erosion and dilation
-	-Program for segmentation of an image using watershed transforms.
+	- Program for morphological operation: erosion and dilation
+	- Program for segmentation of an image using watershed transforms.
 6.	Program to determine the edge detection of an image using different operators.
 7.	Program to perform discrete wavelet transform on image.
 
