@@ -17,38 +17,34 @@
 - To understand representation of meaning in semantics.
 
 {{{unit}}}
-|Unit I |Introduction|8| 
-Origins and challenges of NLP -- Knowledge in language processing -- Ambiguity
--- NLP applications; Text Normalization -- N-grams -- Evaluation -- Sampling -- 
+|Unit I |Introduction|6| 
+Knowledge in language processing -- Ambiguity; Text Normalization -- N-grams -- Evaluation -- Sampling -- 
 Generalization -- Smoothing
 
 
 {{{unit}}}
-|Unit II|Vector Semantics and Neural Language Modeling|9|
-Vector Semantics: Words and vectors -- Cosine similarity -- TF-IDF -- PPMI -- Word2Vec -- Semantic properties 
-of embeddings -- Evaluating vector model; Neural language model: Feedforward networks for NLP -- 
-Feedforward Neural Language Modeling -- Training the neural language model -- RNN as Language Model
+|Unit II|Word Level and Syntactic Analysis |6| 
+English Word Classes -- Part-of-Speech Tagging; Constituency Grammar: Context-Free Grammar -- 
+Grammar rules for Engligh -- Treebanks; Dependency Parsing: Dependency Relations -- Formalisms -- 
+Dependency Treebanks;
 
 
 {{{unit}}}
-|Unit III|Word Level and Syntactic Analysis |10| 
-English Word Classes -- Part-of-Speech Tagging -- HMM PoS Tagging -- Context-free grammar -- 
-Grammar rules for Engligh -- Treebanks -- Constituency Parsing: Ambiguity -- CKY Parsing -- 
-Neural Constituency Parsing; Dependency Parsing: Dependency Relations -- Formalisms -- 
-Transition-based and Graph-based Dependency Parsing;
+|Unit III|Lexical and Vector Semantics|6|
+Lexical Semantics -- Vector Semantics -- Words and vectors -- Cosine similarity -- TF-IDF -- PPMI -- Word2Vec -- Semantic properties 
+of embeddings -- Evaluating vector model; 
 
 
 {{{unit}}}
-|Unit IV|Meaning Representation |8| 
-The representation of Meaning: Computational Desiderata for Representations -- Model-Theoretic Semantics -- 
-First-Order Logic -- Description Logics
+|Unit IV|Semantic Analysis|6|
+Word Senses: Senses Relations -- WordNet -- Word Sense Disambiguation; Semantic Roles: Diathesis Alternations 
+-- Problems -- Proposition Bank -- Semantic Role Labeling
 
 
 {{{unit}}}
-|Unit V|Semantic Analysis|9|
-Word Senses -- Senses Relations -- WordNet -- Word Sense Disambiguation -- Feature-based WSD -- Knowledge-based WSD 
--- Lexical Semantics -- Semantic Roles -- Diathesis Alternations -- Problems with Thematic Roles -- 
-Proposition Bank -- FrameNet -- Semantic Role Labeling
+|Unit V|Semantic Analysis|6|
+Word Senses: Senses Relations -- WordNet -- Word Sense Disambiguation; Semantic Roles: Diathesis Alternations 
+-- Problems -- Proposition Bank -- Semantic Role Labeling
 
 
 \hfill *Total: 45*
@@ -61,12 +57,10 @@ After the completion of this course, students will be able to:
 - Apply semantic analysis for words and sentences. (K3)
  
  Suggested Exercise:
- 1) Implementation of Tokenizer, n-grams
- 2) Implementation of Text vectorizer, BoW, Tf-idf
- 3) Use Word2Vec, GloVe vectors for downstream tasks
- 4) Implement PoS Tagging - sequence labeling
- 5) Apply Dependency parsing and parse the sentence
- 5) Implement Text classification using deep neural networks
+ 1) Apply Tokenizer, n-grams for text pre-processing.
+ 2) Apply TF-IDF, Word2Vec vectors for the given text data.
+ 3) Apply treebanks for context-free and dependency parsing.
+ 4) Implement Text classification using deep neural networks
  6) Word Similarity
  
      
