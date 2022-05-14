@@ -48,7 +48,7 @@ After the completion of this course, students will be able to:
 - Experiment the methods of data handling and visualization through NumPy, Pandas and MatplotLib modules (K3).
 - Construct Python programs for obtaining statistical inference on data and develop machine learning algorithms for real world application. (K3)
 
- * COMMENT  ** CO PO MAPPING 
+* COMMENT  ** CO PO MAPPING 
 #+NAME: co-po-mapping
 |                |    |PO1 | PO2 | PO3 | PO4 | PO5 | PO6 | PO7 | PO8 | PO9 | PO10 | PO11 | 
 |                |    | K3 | K6  |  K6 |  K6 | K6  |     |     |     |     |      |      |     
