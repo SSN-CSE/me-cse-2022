@@ -77,7 +77,7 @@ After the completion of this course, students will be able to:
 5. S. Sridhar, ``Design and Analysis of Algorithms'', First Edition,
    Oxford University Press, 2014
 
-** CO TO PO MAPPING
+* COMMENT ** CO TO PO MAPPING
 | PO/PSO | 1 | 2 | 3 | 4 |
 |--------+---+---+---+---|
 | CO1    |   |   |   |   |
