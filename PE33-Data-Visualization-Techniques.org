@@ -43,13 +43,11 @@ After the completion of this course, students will be able to:
 - Analyze correlation and multivariate patterns among data (K4)
 - Explain the characteristics of dashboard and develop dashboard for simple applications (K3)
       
-** Text Books
+**  References
 1. Stephen Few, ``Now you see it: Simple Visualization techniques for quantitative analysis'', Analytics Press, 2009. (Units I, II, III, IV)
 2. Stephen Few, ``Information dashboard design: The Effective Visual Communication of Data'', first edition, O'Reilly, 2006. (Unit V)
 3. Tim Abraham, ``Metabase Up and Running'', Packt Publishing Limited, 2020.
-
-** References
-1. Ben Fry, ``Visualizing data: Exploring and explaining data with the processing environment'', O'Reilly, 2008.
-2. Edward R. Tufte, ``The visual display of quantitative information'', Second Edition, Graphics Press, 2001.
-3. Nathan Yau, ``Data Points: Visualization that means something'', Wiley, 2013.
-4. Tamara Munzner, ``Visualization Analysis and Design'', AK Peters Visualization Series, CRC Press, 2014
+4. Ben Fry, ``Visualizing data: Exploring and explaining data with the processing environment'', O'Reilly, 2008.
+5. Edward R. Tufte, ``The visual display of quantitative information'', Second Edition, Graphics Press, 2001.
+6. Nathan Yau, ``Data Points: Visualization that means something'', Wiley, 2013.
+7. Tamara Munzner, ``Visualization Analysis and Design'', AK Peters Visualization Series, CRC Press, 2014
