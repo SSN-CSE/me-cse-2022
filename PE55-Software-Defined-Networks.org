@@ -11,11 +11,11 @@
 |3|0|0|3|
 
 ** Course Objectives
-- To learn about the concepts, basics of SDN and Openflow.
+- To learn the concepts and basics of SDN, and Openflow.
 - To understand SDN Controller and programming with SDN.
-- To learn about various data center and about Network Function Virtualization.
+- To learn virtualization of data center and network functions .
 - To study about Network Topology & SDN Framework.
-- To investigate on  various use cases using  SDN. 
+- To investigate various use cases using  SDN. 
 
 {{{unit}}}
 |Unit I |SDN  Plane Separation & Openflow|9| 
@@ -53,11 +53,11 @@ Virtualization -- Input traffic classification and triggered actions
 
 ** Course Outcomes
 After the completion of this course, students will be able to: 
-- Understand the concepts, basics of SDN and Openflow(K2)
-- Understand SDN Controller and programming with SDN(K2)
-- Analyse various SDN solutions for data center and about Network Function Virtualization.(K3)
+- Explain the concepts, basics of SDN and Openflow(K2)
+- Explain SDN Controller and programming with SDN(K2)
+- Analyse various SDN solutions for data center and about Network Function Virtualization.(K4)
 - Design an SDN Framework(K2)
-- Analyse about various use cases in implementing SDN(K3)
+- Analyse various use cases in implementing SDN(K4)
       
 ** References
 1. Thomas D. Nadeau, ``SDN: Software Defined Networks, An
