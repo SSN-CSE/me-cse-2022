@@ -10,13 +10,6 @@
 | CODE    | COURSE TITLE               | L | T | P | E | C |
 | UCS2822 | FORMAL SYSTEM VERIFICATION | 3 | 0 | 0 | 0 | 3 |
 
-
-* COMMENT ** R2021 CHANGES :noexport:
-- We are not aware of any Program Verification course in Anna University curriculum.
-- This syllabus is completely independent of any program
-- Verification course.
-
-
 ** COURSE OBJECTIVES
 - To understand the need of logics for specification and verification of computer systems
 - To learn program correctness using Hoare Logic
