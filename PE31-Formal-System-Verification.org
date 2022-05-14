@@ -11,7 +11,7 @@
 | UCS2822 | FORMAL SYSTEM VERIFICATION | 3 | 0 | 0 | 0 | 3 |
 
 
-** R2021 CHANGES :noexport:
+* COMMENT ** R2021 CHANGES :noexport:
 - We are not aware of any Program Verification course in Anna University curriculum.
 - This syllabus is completely independent of any program
 - Verification course.
@@ -77,7 +77,7 @@ After the completion of this course, students will be able to
 5. Develop and verify simple systems using UPPAAL (K3)
 
 
-** TEXTBOOKS
+** REFERENCES
 1. M Huth, M Ryan, ``Logic in Computer Science -- Modeling and
    Reasoning About Systems'', 2nd Edition, Cambridge University
    Press, 2012 (Units I, II and III).
@@ -85,19 +85,17 @@ After the completion of this course, students will be able to
    The MIT Press, 2018 (Units III and IV).
 3. C Baier, J Katoen, ``Principles of Model Checking'', The MIT
    Press, 2008 (Unit V).
-   
-** REFERENCES
-1. Michael Clarke, Thomas Henzinger, Helmut Veith, Roderick Bloem,
+4. Michael Clarke, Thomas Henzinger, Helmut Veith, Roderick Bloem,
    ``Handbook of Model Checking'', Springer 2018.
-2. Orna Grumberg, Helmut Veith, ``25 Years of Model Checking: History,
+5. Orna Grumberg, Helmut Veith, ``25 Years of Model Checking: History,
    Achievements, Perspectives'' Springer-Verlag, 2008.
-3. Zohar Manna, Amir Pnueli, ``Temporal Verification of Reactive
+6. Zohar Manna, Amir Pnueli, ``Temporal Verification of Reactive
    Systems: Safety'', Springer-Verlag, 2012.
-4. Krzysztof R. Apt, Frank S. de Boer, Ernst-Rudiger Olderog,
+7. Krzysztof R. Apt, Frank S. de Boer, Ernst-Rudiger Olderog,
    ``Verification of Sequential and Concurrent Programs'', Springer,
    3rd edition, 2009.
 
-** CO TO PO/PSO MAPPING
+* COMMENT ** CO TO PO/PSO MAPPING
 
 | PO/PSO |  1 |  2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 |  1 | 2 |
 |--------+----+----+---+---+---+---+---+---+---+----+----+----+----+---|
