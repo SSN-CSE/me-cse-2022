@@ -42,14 +42,13 @@ Optical flow -- Layered motion
 
 {{{unit}}}
 |Unit IV| Image Registration and Transformation | 9 | 
- Image Registration: Preprocessing -- Feature
+Image Registration: Preprocessing -- Feature
 selection -- Feature correspondence -- Transformation functions; Camera Calibration -- Intrinsic and Extrinsinc Parameters -- Correcting for Radial Distotrions -- Multiple view vision -- generalized epipolar geometry -- Essential Matrix -- fundamental matrix -- image rectification -- 3D reconstruction 
 
 
 {{{unit}}}
 |Unit V|Vision Applications |9|
- Application: Photo album -- Face
-detection -- Face recognition -- Eigen faces -- Active appearance and
+Application: Photo album -- Face detection -- Face recognition -- Eigen faces -- Active appearance and
 3D shape models of faces; Application: Surveillance -- Foreground -
 background separation -- Particle filters -- Chamfer matching --
 Tracking and occlusion -- Combining views from multiple cameras --
