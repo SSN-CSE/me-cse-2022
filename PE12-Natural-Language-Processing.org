@@ -12,10 +12,10 @@
 
 ** Course Objectives
 - To learn the fundamentals in language processing.
-- To understand the syntactic parsing in language processing.
-- To understand the language modeling using vector semantics.
-- To understand the semantics of words and sentences in languages.
-- To understand the information extraction techniques.
+- To understand  syntactic parsing in language processing.
+- To understand language modeling using vector semantics.
+- To understand  semantics of words and sentences in languages.
+- To understand  information extraction techniques.
 
 {{{unit}}}
 |Unit I |Introduction|6| 
@@ -32,8 +32,7 @@ Dependency Treebanks;
 
 {{{unit}}}
 |Unit III|Lexical and Vector Semantics|6|
-Lexical Semantics -- Vector Semantics -- Words and vectors -- Cosine similarity -- TF-IDF -- PPMI -- Word2Vec -- Semantic properties 
-of embeddings -- Evaluating vector model; 
+Lexical Semantics -- Vector Semantics -- Words and vectors -- Cosine similarity -- TF-IDF -- PPMI -- Word2Vec -- Semantic properties of embeddings -- Evaluating vector model; 
 
 
 {{{unit}}}
