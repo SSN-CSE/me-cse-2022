@@ -60,7 +60,7 @@ Liveness -- Safe access to shared data -- Examples in Java.
 After the completion of this course, students will be able to: 
 - Develop programs in C using imperative programming paradigm (K3)
 - Apply object-oriented programming paradigm and explore some
-  examples in C++ or Java or Python (K2)
+  examples in C++ or Java or Python (K3)
 - Apply functional programming paradigm in Haskell (K3)
 - Develop programs in Prolog using logic programming paradigm (K3)
 - Solve Java programs using concurrent programming paradigm (K3).
