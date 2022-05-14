@@ -31,7 +31,7 @@ straight line detection; HT based circular object detection; HT based
 ellipse detection
 
 {{{unit}}}
-|Unit III|3D Vision and Motion|9| 
+|Unit III | 3D Vision and Motion | 9 | 
 Methods for 3D vision: Projection schemes -- Shape from shading --
 Photometric stereo -- Shape from texture -- Shape from focus -- Active
 range finding; Surface Representations; Point-based Representations;
@@ -41,7 +41,7 @@ Optical flow -- Layered motion
 
 
 {{{unit}}}
-|Unit IV|Image Registration and Transformation|9| 
+|Unit IV| Image Registration and Transformation | 9 | 
  Image Registration: Preprocessing -- Feature
 selection -- Feature correspondence -- Transformation functions; Camera Calibration -- Intrinsic and Extrinsinc Parameters -- Correcting for Radial Distotrions -- Multiple view vision -- generalized epipolar geometry -- Essential Matrix -- fundamental matrix -- image rectification -- 3D reconstruction 
 
@@ -67,7 +67,7 @@ After the completion of this course, students will be able to:
 - Apply boundary and region descriptors and hough transforms. (K3)
 - Apply 3D vision techniques. (K3)
 - Apply image registration and transormation of image and perform camera calibration (K3)
-- Analyze the application and develop applications using computer vision techniques. (K4)
+- Analyze and develop applications using computer vision techniques. (K4)
 
   
 ** References
