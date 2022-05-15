@@ -10,15 +10,15 @@
 | 2 | 0 | 0 | 2 |
 
 ** Course Objectives
-To impart knowledge and skills required for research and IPR: 
-- Problem formulation, analysis and solutions. 
-- Technical paper writing / presentation without violating professional ethics 
-- Patent drafting and filing patents
-
+- To impart knowledge on research design, data collection and preparation
+- To develop skills on data analysis and technical paper writing / presentation without violating professional ethics 
+- To understand the importance of Intellectual Property Rights and its development process
+- To understand the process of Patent drafting and filing 
 
 {{{unit}}}
 |Unit I |Research Design |6|
-Overview of research process and design; Use of Secondary and exploratory data to answer the research question; Qualitative research; Observation studies; Experiments and Surveys. 
+Overview of research process and design; Use of Secondary and exploratory data to answer the research question; 
+Qualitative research; Observation studies; Experiments and Surveys. 
 
 {{{unit}}}
 |Unit II| Data Collection and Sources |6| 
@@ -32,7 +32,8 @@ Presenting Insights and findings using written reports and oral presentation.
 
 {{{unit}}}
 |Unit IV| Intellectual Property Rights |6| 
-Intellectual Property: The concept of IPR -- Evolution and development of concept of IPR -- IPR development process: Trade secrets -- utility Models -- Right of Property; Common rules of IPR practices; Types and Features of IPR Agreement; Trademark.
+Intellectual Property: The concept of IPR -- Evolution and development of concept of IPR -- IPR development process: Trade secrets -- utility Models -- 
+Right of Property; Common rules of IPR practices; Types and Features of IPR Agreement; Trademark.
 
 #+begin_comment
 IPR & Biodiversity, Role of WIPO and WTO in IPR establishments, Functions of UNESCO in IPR maintenance.
@@ -41,7 +42,8 @@ are removed
 
 {{{unit}}}
 |Unit V| Patents |6|
-Patents: objectives and benefits of patent; Concept, features of patent; Inventive step; Specification; Types of patent application; process E-filing; Examination of patent; Grant of patent; Revocation; Equitable Assignments; Licences, Licensing of related patents. 
+Patents: objectives and benefits of patent; Concept, features of patent; Inventive step; Specification; Types of patent application; process E-filing; 
+Examination of patent; Grant of patent; Revocation; Equitable Assignments; Licences, Licensing of related patents. 
 
 #+begin_comment
 patent agents, Registration of patent agents are removed
@@ -52,8 +54,8 @@ patent agents, Registration of patent agents are removed
 ** Course Outcomes
 On successful completion of this course, the student will be able to
 - Interpret and formulate research problem (K2)
-- Develop data to carry out research analysis (K3)
-- Develop skilss on report writing and presentation (K)
+- Develop corpus to carry out research analysis (K3)
+- Develop skills on data analysis, report writing and presentation (K3)
 - Infer the basic knowledge of IPR (K2)
 - Summarize the iportance of patent and its process (K2)
 
@@ -65,7 +67,6 @@ On successful completion of this course, the student will be able to
 #+begin_comment
 Removed one book 
 #+end_comment
-
 
 #+begin_comment  
 ** CO PO MAPPING 
