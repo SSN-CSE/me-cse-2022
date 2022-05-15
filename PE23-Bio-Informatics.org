@@ -58,7 +58,7 @@ Pattern Discovery.
 \hfill *Total Periods: 45*
 
 ** COURSE OUTCOMES
-After the completion of this course, students will be able to 
+After the completion of this course, students will be able to
 1. Explain the concept and need of bioinformatics (K2)
 2. Identify the genome and protein data and its equivalent storage and mining process (K3)
 3. Apply machine learning algorithms on bioinformatics data (K3)
