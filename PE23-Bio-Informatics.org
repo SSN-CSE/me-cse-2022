@@ -1,7 +1,7 @@
 * <<<CP1236>>> BIO INFORMATICS
 :properties:
-:author: R. S. Milton
-:date: 2 July 2018
+:author: S. Kavitha
+:date: 15 May 2022
 :end:
 
 #+startup: showall
@@ -10,68 +10,66 @@
 |L|T|P|C|
 |3 |0|0|3 |
 
-** Course Objectives
-- To get exposed to the fundamentals of bioinformatics.
-- To learn bio-informatics algorithm and phylogenetic concept.
-- To understand open problems and issues in replication and molecular
-  clocks.
-- To learn assemble genomes and corresponding theorem.
-- To study and exposed to the domain of human genomics.
+
+** COURSE OBJECTIVES
+- To understand the concept and need of Bioinformatics 
+- To transform biological data into knowledge and perform data analysis
+- To learn the machine learning algorithms for bioinformatics
+- To learn hidden morkov modeling and probabilistic modeling 
+- To know the importance of microarray data analysis
+
 
 {{{unit}}}
-|Unit I|Introduction and Fundamentals|9|
-Fundamentals of genes , genomics , molecular evolution -- genomic
-technologies -- beginning of bioinformatics - genetic data -- sequence
-data formats -- secondary database -- examples -- data retrival
-systems -- genome browsers.
+|UNIT I | INTRODUCTION | 9 |
+Introduction to Bioinformatics: Need for Bioinformatics technologies
+-- Overview of Bioinformatics technologies; Overview of structural
+bioinformatics: Organization of Structural bioinformatics -- Primary
+resource: protein data bank -- Secondary resources and applications.
 
 {{{unit}}}
-|Unit II|Bioinformatics Algorithm and Analysis|9|
-Sequence alignment and similarity searching in genomic databases:
-BLAST and FASTA -- additional bioinformatics analysis involving
-nucleic acid sequences-additional bioinformatics analysis involving
-protein sequences -- Phylogenetic Analysis.
+| UNIT II | DATAWAREHOUSING AND DATAMINING IN BIOINFORMATICS | 9 |
+Data warehousing in Bioinformatics: Bioinformatics data --
+Transforming data to knowledge -- Data warehousing architecture --
+Data quality; Data mining for Bioinformatics: Biomedical data analysis
+-- DNA data analysis -- Protein data analysis.
 
 {{{unit}}}
-|Unit III|DNA Replication and Molecular Clocks|9|
-Beginning of DNA replication -- open problems -- multiple replication
-and finding replication -- computing probabilities of patterns in a
-string-the frequency array-converting patterns -- solving problems-
-finding frequents words-Big-O notation -- case study: The Tower of
-Hanoi problem.
+|UNIT III | MACHINE LEARNING IN BIOINFORMATICS | 9 |
+Machine learning in Bioinformatics: Artificia Neural network -- Neural
+network architecture and applications -- Genetic algorithm -- Fuzzy
+system; Genome Analyses; Transcriptome Analyses.
+
+#+begin_comment
+two topics are included to apply and analyze ML alorithms
+#+end_comment
+ 
+{{{unit}}}
+|UNIT IV | MODELING FOR BIOINFORMATICS | 9 |
+Modeling for Bioinformatics: Hidden Markov modeling for biological
+data analysis -- Comparative modeling -- Probabilistic modeling --
+Molecular modeling.
 
 {{{unit}}}
-|Unit IV|Assemble Genomes and Sequences|9|
-Methods of assemble genomes -- string reconstruction -- De Bruijn
-graph -- Euler's theorem -- assembling genomes --DNA sequencing
-technologies -- sequence antibiotics -- Brute Force Algorithm --
-Branch and Bound algorithm -- open problems -- comparing biological
-sequences- Case Study -- Manhattan tourist Problem.
+|UNIT V | MICROARRAY DATA ANALYSIS | 9 |
+Microarray Data Analysis: Microarray technology for genome expression
+study -- Image analysis for data extraction -- Data Analysis for
+Pattern Discovery.
 
-{{{unit}}}
-|Unit V|Human Genome|9|
-Human and mouse genomes-random breakage model of chromosome evolution
--- sorting by reversals -- greedy heuristic approach -- break points-
-rearrangements in tumor and break point genomes-break point graps --
-synteny block construction -open problems and technologies.
+\hfill *Total Periods: 45*
 
-\hfill *Total: 45*
-
-** Course Outcomes
-After the completion of this course, students will be able to:
-- Understand the genomics technologies in Bioinformatics (K2)
-- Deploy the replication and molecular clocks in bioinformatics.(K3)
-- Understand how to assemble genomes and sequences.(K2)
-- Apply the Microarray technologies for genome expression(K3).
-
-** References
-1. Ion Mandoiu and Alexander Zelikovsky , ``Computational Methods for
-   Next Generation Sequencing Data Analysis'', Wiley series 2016.
-2. Istvan Miklos, Renyi Institutue, ``Introduction to algorithms in
-   bioinformatics'', Springer 2016
-3. Philip Compeau and Pavel pevzner, ``Bioinformatics Algorithms: An
-   Active Learning Approach'', Second edition volume I, Cousera, 2015.
-4. Supratim Choudhuri, ``Bioinformatics For Beginners'',
-   Elsevier, 2014.
-5. Jin Xiong, ``Essential Bioinformatics'', Cambridge University
-   Press, 2007
+** COURSE OUTCOMES
+After the completion of this course, students will be able to 
+1. Explain the concept and need of bioinformatics (K2)
+2. Identify the genome and protein data and its equivalent storage and mining process (K3)
+3. Apply machine learning algorithms on bioinformatics data (K3)
+4. Apply Hidden Markov Modeling and probabilistic modeling for bioinformatics data (K3)
+5. Infer the importance of microarray data analysis (K2)
+   
+** REFERENCES
+1. Yi-Ping Phoebe Chen (Ed), ``BioInformatics Technologies'', First
+   Indian Reprint, Springer Verlag, 2007 (Units 1, 2 3, 4, 5) 
+2. Arthur M Lesk, ``Introduction to Bioinformatics'', Fourth Edition,
+   Oxford University Press, 2008
+3. Rui Jiang, Xuegong Zhang, Michael Q Zhang, ``Basics of
+   Bioinformatics'', Tsinghua University Press, Springer, 2013
+ 
