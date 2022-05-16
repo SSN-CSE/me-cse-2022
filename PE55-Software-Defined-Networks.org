@@ -62,7 +62,7 @@ After the completion of this course, students will be able to:
 ** References
 1. Thomas D. Nadeau, ``SDN: Software Defined Networks, An
    Authoritative Review of Network Programmability Technologies'',
-   Third Edition, Ken Gray Publisher: O'Reilly Media, 2013. (Unit 1 - Chapters 1,2 and 3; Unit 2 - Chapters 4,5; Unit 3 - Chapters 6,7; Unit 4 - Chapters 8,9; Unit 5 - Chapters 10,11 and 12)
+   First Edition, Ken Gray Publisher: O'Reilly Media, 2013. (Unit 1 - Chapters 1,2 and 3; Unit 2 - Chapters 4,5; Unit 3 - Chapters 6,7; Unit 4 - Chapters 8,9; Unit 5 - Chapters 10,11 and 12)
 2. Paul Goransson and Chuck Black, ``Software Defined Networks: A
    Comprehensive Approach'', Morgan Kaufmann, 2014.
 3. Vivek Tiwari, ``SDN and OpenFlow for Beginners'' Amazon
