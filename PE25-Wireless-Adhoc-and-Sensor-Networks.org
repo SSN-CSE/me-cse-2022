@@ -47,9 +47,9 @@ Sensor Network Hardware:  Berkeley Motes -– Arduino IDE -– Node Level Softwa
 After completion of this course, the student will be able to:
 1. Explain sensor node architecture and design principles. (K2)
 2. Choose specific MAC protocols for the application. (K3)
-3. Select data-centric routing based on application needs. ( k3)
-4. Analyze the working of various localization and topology control techniques. (k4)
-5. Explain various platforms and tools for WSN. (k2)
+3. Select data-centric routing based on application needs. ( K3)
+4. Choose suitable localization and topology control techniques. (K3)
+5. Explain various WSN platforms and build a network using a simulator (K3)
 
 ** REFERENCES
 1. Holger Karl, Andreas Willig, “Protocols and Architectures for Wireless Sensor Networks”, John Wiley, 2005.  (unit – 1, 2, 4)
