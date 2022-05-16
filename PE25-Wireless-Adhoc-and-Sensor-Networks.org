@@ -12,7 +12,7 @@
 | 3 | 0 | 0 | 3 |
 
 ** COURSE OBJECTIVES
-- To study about the sensor node hardware and design principles.
+- To study sensor node hardware and design principles.
 - To study the functionalities of various MAC protocols for WSNs.
 - To understand the working of data centric routing protocols in WSNs. 
 - To understand the working of localization and topology control in WSNs. 
