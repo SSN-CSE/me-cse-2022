@@ -10,11 +10,6 @@
 |      | APPLIED PROBABILITY AND STATISTICS | 3 | 0 | 0 | 3 |
 
 ** COURSE OBJECTIVES
-- To provide a foundation on topics in applied probability and
-  statistical methods needed for modern optimization methods and
-  risk modeling.
-- To address the issues and the principles of estimation theory,
-  testing of hypothesis and multivariate analysis.
 
 {{{unit}}}
 | UNIT I | PROBABILITY AND RANDOM VARIABLES | 12 |

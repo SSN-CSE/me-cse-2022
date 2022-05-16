@@ -29,7 +29,7 @@
    Ford algorithms)  
 7. All-pairs Shortest Path Algorithms: (e.g. Floyd's algorithm)
 8. Dynamic programming (e.g. Longest common subsequence, 0/1 Knapsack)
-9. Recursive backtracking (e.g. N-Queen’s problem)
+9. Recursive backtracking (e.g. N-Queen's problem)
 10. Greedy technique (e.g. Job/event scheduling, Minimum spanning tree)
 
  

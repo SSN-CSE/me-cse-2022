@@ -25,11 +25,11 @@ Distribution Models: Single Server-- Sharding-- Master--Slave Replication --Peer
 
 {{{unit}}}
 |Unit II|Data Models for Data Lake|9|
-Data Models -- Categorizing Data Models -- Data Model vs Data Format -- Data Stream -- Understanding Data Lake -- Inside Data Lake -- Generic Structure of Data Ponds -- Applications of Data Pond – Data Warehousing vs Data Lake -- Data Ingestion -- ETL vs ELT -- Big Data Integration with Data Lake -- Apache Sqoop.
+Data Models -- Categorizing Data Models -- Data Model vs Data Format -- Data Stream -- Understanding Data Lake -- Inside Data Lake -- Generic Structure of Data Ponds -- Applications of Data Pond - Data Warehousing vs Data Lake -- Data Ingestion -- ETL vs ELT -- Big Data Integration with Data Lake -- Apache Sqoop.
 
 {{{unit}}}
 |Unit III|Columnar and Key-Value Databases |9| 
-Cassandra Data Model  -- Clusters -- Keyspaces --Column Families --Columns -- Super Columns -- Design Differences Between RDBMS and Cassandra --Design Patterns -– Cassandra Architecture; Key-Value Databases: Key-Value Store -- Features -- Use Cases.
+Cassandra Data Model  -- Clusters -- Keyspaces --Column Families --Columns -- Super Columns -- Design Differences Between RDBMS and Cassandra --Design Patterns -- Cassandra Architecture; Key-Value Databases: Key-Value Store -- Features -- Use Cases.
 
 {{{unit}}}
 |Unit IV|Document and Graph Databases |9| 

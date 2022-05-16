@@ -66,8 +66,8 @@ After the completion of this course, students will be able to:
  
      
 ** References
-1. Daniel Jurafsky and James H Martin, “Speech and Language Processing: An introduction to Natural Language Processing, Computational Linguistics and Speech Recognition”,3rd Edition
+1. Daniel Jurafsky and James H Martin, ``Speech and Language Processing: An introduction to Natural Language Processing, Computational Linguistics and Speech Recognition'',3rd Edition
 2. Christopher D. Manning, Hinrich Schutze, Foundations of Statistical Natural Language Processing, MIT Press, 1999.
-3. Steven Bird, Ewan Klein, and Edward Loper, “Natural Language Processing with Python”, O’Reilly, 2009.
-4. Tanveer Siddiqui, U.S. Tiwary, “Natural Language Processing and Information Retrieval”, Oxford University Press, 2008.
+3. Steven Bird, Ewan Klein, and Edward Loper, ``Natural Language Processing with Python'', O'Reilly, 2009.
+4. Tanveer Siddiqui, U.S. Tiwary, ``Natural Language Processing and Information Retrieval'', Oxford University Press, 2008.
 5. Nitin Indurkhya, Fred J. Damerau, Handbook of Natural Language Processing, 2nd Edition, CRC Press, 2010.

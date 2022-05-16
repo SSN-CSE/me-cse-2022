@@ -28,10 +28,10 @@ Introduction topics and chapters 1 & 2
 
 {{{unit}}}
 |Unit II| Supervised Learning |10| 
-Regression: Introduction -- Linear Regression -- Least Squares -- Under fitting and Overfitting -- Cross-Validation – Lasso Regression -- Logistic Regression;
-Classification: Linear and Non-linear models -- Support Vector Machines –- Kernel Methods; K-Nearest Neighbours;
-Learning with Trees: constructing Decision Tree using ID3 – Classification and regression trees (CART);
-Ensemble Methods -– Bagging -- Boosting -- Random Forest; Evaluation of Classification Algorithms.
+Regression: Introduction -- Linear Regression -- Least Squares -- Under fitting and Overfitting -- Cross-Validation - Lasso Regression -- Logistic Regression;
+Classification: Linear and Non-linear models -- Support Vector Machines -- Kernel Methods; K-Nearest Neighbours;
+Learning with Trees: constructing Decision Tree using ID3 - Classification and regression trees (CART);
+Ensemble Methods -- Bagging -- Boosting -- Random Forest; Evaluation of Classification Algorithms.
 
 #+begin_comment
 Algorithms related to SL are in Unit2, Chapters 3, 8, 12 and 13
@@ -39,7 +39,7 @@ Algorithms related to SL are in Unit2, Chapters 3, 8, 12 and 13
 
 {{{unit}}}
 |Unit III| Unsupervised Learning and Reinforcement Learning |9| 
-Unsupervised Learning: Clustering Algorithms -- K–Means -– Hierarchical Clustering -- Cluster Validity;
+Unsupervised Learning: Clustering Algorithms -- K-Means -- Hierarchical Clustering -- Cluster Validity;
 Dimensionality Reduction: Linear discriminant analysis -- Principal component analysis; 
 Reinforcement Learning: Terminoligies -- Markov decision process -- Sarsa and Q-learning Algorithms.
 
@@ -51,7 +51,7 @@ Algorithms related to USL are in Unit3, Chapters 6 and 11
 |Unit IV| Neural Networks and Deep Learning |9| 
 Neural Networks: The Brain and the Neuron -- Perceptron learning algorithm;
 Multi-Layer Perceptron: Going forwards -- Going backwards -- Back propagation error -- Multi-layer perceptron in Practice -- Examples of using the MLP;
-Deep Learning: Introduction -– Convolution Neural Networks -– Recurrent Neural Networks -– Use cases.
+Deep Learning: Introduction -- Convolution Neural Networks -- Recurrent Neural Networks -- Use cases.
 
 #+begin_comment
 DL is introduced as an extension of ML 
@@ -76,7 +76,7 @@ On successful completion of this course, the student will be able to
 - Develop a simple application using H2O (K3)
       
 ** References
-1. Stephen Marsland, ``Machine Learning – An Algorithmic
+1. Stephen Marsland, ``Machine Learning - An Algorithmic
    Perspective'', Second Edition, Chapman and Hall/CRC Machine
    Learning and Pattern Recognition Series, 2015.
 2. Pasha Stetsenko, ''Machine Learning with Python and H2O'', Published by H2O.ai, Inc., 2017

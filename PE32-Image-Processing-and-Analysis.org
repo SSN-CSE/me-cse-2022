@@ -68,9 +68,9 @@ expansion -- Wavelet Transforms; Fast Wavelet transforms.
 
 #+BEGIN_COMMENT	
 Removal
-		Image Compression: Fundamentals – Models – Error Free Compression –Lossy Compression –
-		Compression Standards – Watermarking Color Images: Color Models; 
-		Smoothing and Sharpening – Segmentation based on Color – Noise in Color Images
+		Image Compression: Fundamentals - Models - Error Free Compression -Lossy Compression -
+		Compression Standards - Watermarking Color Images: Color Models; 
+		Smoothing and Sharpening - Segmentation based on Color - Noise in Color Images
 Inclusion 
        Features -- Corner and interest point detection -- 
 	   boundary representation and detections -- texture descriptors -- 

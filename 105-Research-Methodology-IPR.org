@@ -60,9 +60,9 @@ On successful completion of this course, the student will be able to
 - Explain the importance of patents and understand the patenting process (K2)
 
 ** References
-1. Cooper Donald R and Schindler Pamela S, “Business Research Methods”, Tata McGraw Hill Education, 12 edition, 2014.
-2. Catherine J. Holland, “Intellectual property: Patents, Trademarks, Copyrights, Trade Secrets”, Entrepreneur Press, 2007. 
-3. David Hunt, Long Nguyen, Matthew Rodgers, “Patent searching: tools & techniques”, Wiley, 2007. 
+1. Cooper Donald R and Schindler Pamela S, ``Business Research Methods'', Tata McGraw Hill Education, 12 edition, 2014.
+2. Catherine J. Holland, ``Intellectual property: Patents, Trademarks, Copyrights, Trade Secrets'', Entrepreneur Press, 2007. 
+3. David Hunt, Long Nguyen, Matthew Rodgers, ``Patent searching: tools & techniques'', Wiley, 2007. 
 
 #+begin_comment
 Removed one book 

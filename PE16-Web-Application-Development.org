@@ -17,23 +17,23 @@
 
 {{{unit}}}
 | UNIT I | INTRODUCTION | 5 |
-Web Essentials: Web clients, web servers, communication protocol, HTTP request and response message; HTML5: Tables - Lists - Image – Control and semantic elements – CSS3 - Inline, embedded and external style sheets – Rule cascading – Backgrounds – Colors – Text – Transformations – Transitions – Animations.
+Web Essentials: Web clients, web servers, communication protocol, HTTP request and response message; HTML5: Tables - Lists - Image - Control and semantic elements - CSS3 - Inline, embedded and external style sheets - Rule cascading - Backgrounds - Colors - Text - Transformations - Transitions - Animations.
 
 {{{unit}}}
 | UNIT II | CLIENT SIDE PROGRAMMING | 5 |
-Introduction to JavaScript – Variables – Data types– Statements – Operators – Functions – Objects – Arrays – Built-in objects – Event handling.
+Introduction to JavaScript - Variables - Data types- Statements - Operators - Functions - Objects - Arrays - Built-in objects - Event handling.
 
 {{{unit}}}
 | UNIT III | ANGULARJS | 8 |
-Introduction to Angular – Typescript: Built-in types, classes – Components: Decorator, input, output – Built-in Directives: NgIf, NgFor, NgSwitch, NgStyle, NgClass – Forms: Using FormBuilder, Adding Validations  – HTTP API – Routing: Components of Routing, Nested routes – Services: Observables and RxJS. Implementation 
+Introduction to Angular - Typescript: Built-in types, classes - Components: Decorator, input, output - Built-in Directives: NgIf, NgFor, NgSwitch, NgStyle, NgClass - Forms: Using FormBuilder, Adding Validations  - HTTP API - Routing: Components of Routing, Nested routes - Services: Observables and RxJS. Implementation 
 
 {{{unit}}}
 | UNIT IV | NODEJS & EXPRESSJS  | 6 |
-Getting Started with NodeJS; Introduction to Express; Saving time with Express: Scaffolding – views and layouts – Static files and views– Dynamic content in views; Request and Response Objects; Templates using Handlebars.
+Getting Started with NodeJS; Introduction to Express; Saving time with Express: Scaffolding - views and layouts - Static files and views- Dynamic content in views; Request and Response Objects; Templates using Handlebars.
 
 {{{unit}}}
 |Unit V|BUILDING WEB APPLICATIONS  |6|
-Form Handling: Sending Client data to Server – HTML forms – Form Handling with Express; Sending Email; Implementing MVC in Express
+Form Handling: Sending Client data to Server - HTML forms - Form Handling with Express; Sending Email; Implementing MVC in Express
 
 \hfill *Total: 30*
 
@@ -58,7 +58,7 @@ After the completion of this course, students will be able to:
 ** REFERENCES
 1. Jeffrey C Jackson, Web Technologies A Computer Science Perspective, Pearson Education, 2011. (Unit I) 
 2.	Deitel and Deitel, Nieto, Internet and World Wide Web - How to Program, Prentice Hall, 5th Edition, 2011. (Unit II) 
-3.	Nate Murray, Felipe Coury, Ari Lerner, and Carlos , “Ng-book: The Complete Guide to Angular” ,  Fullstack.io, 2020 (Unit III)
-4.	Ethan Brown, “Development with Node and Express”, O’Reilly, 1st Edition, 2014 (Unit IV)
-5.	Adrian Holovaty, Jacob K Moss, “Django – The definitive Guide to Django”, Apress Publishers, 2008. (Unit V)
+3.	Nate Murray, Felipe Coury, Ari Lerner, and Carlos , ``Ng-book: The Complete Guide to Angular'' ,  Fullstack.io, 2020 (Unit III)
+4.	Ethan Brown, ``Development with Node and Express'', O'Reilly, 1st Edition, 2014 (Unit IV)
+5.	Adrian Holovaty, Jacob K Moss, ``Django - The definitive Guide to Django'', Apress Publishers, 2008. (Unit V)
 

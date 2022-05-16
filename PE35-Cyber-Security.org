@@ -23,7 +23,7 @@ Cyber Security the need of the hour -- History of Internet -- Impact of Internet
 
 {{{unit}}}
 |UNIT II | ATTACKS AND COUNTERMEASURES | 6 |
-Malicious attack Threats and Vulnerabilities: Scope of cyber-attacks –- Security breach -- Types of malicious attack --  Malicious software -- Common attack vectors -- Social Engineering attack -- Wireless Network attack -- Web application attack -- Attack tools -- Countermeasures.
+Malicious attack Threats and Vulnerabilities: Scope of cyber-attacks -- Security breach -- Types of malicious attack --  Malicious software -- Common attack vectors -- Social Engineering attack -- Wireless Network attack -- Web application attack -- Attack tools -- Countermeasures.
 
 {{{unit}}}
 |UNIT III | RECONNAISSANCE | 5 |
@@ -83,8 +83,8 @@ Chapter1(Who are Cybercriminals?  Classifications of Cybercrimes, A Global Persp
 Book3.1: Fundamentals of Information Systems Security By David Kim, Michael G. Solomon • 2013
 Book 3.2: Fundamentals of Information Systems Securityn By David Kim, Michael G. Solomon •  unit 2 (Chapter 3 -40 pages) 2021
 Book 4 : The Basics of Hacking and Penetration Testing Authors: Patrick Engebretson (unit 3 downloaded chapter 2- 14 pages)
-BOOK 5:  CEH Official Certified Ethical Hacker Review Guide, Kimberly Graves ( unit 3: chapter 3 – 10 pages)
-Book 6: Computer Security Principles and Practice Third Edition William Stallings  (unit 4 –chapter 8 unit 5- chapter 9)
+BOOK 5:  CEH Official Certified Ethical Hacker Review Guide, Kimberly Graves ( unit 3: chapter 3 - 10 pages)
+Book 6: Computer Security Principles and Practice Third Edition William Stallings  (unit 4 -chapter 8 unit 5- chapter 9)
  
 Book7: Penetration testing A Hands-On Introduction to Hacking San Francisco by Georgia Weidman 2014 (Lab)
 

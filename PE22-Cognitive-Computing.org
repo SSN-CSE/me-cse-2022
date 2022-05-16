@@ -53,7 +53,7 @@ Upon completion of this course, the students should be able to:
 
 
 ** REFERENCES
-1. Judith H Hurwitz, Marcia Kaufman, Adrian Bowles , “Cognitive computing and Big Data Analytics” , Wiley, 2015 (Units 1, 2, 3, 4, and 5)
+1. Judith H Hurwitz, Marcia Kaufman, Adrian Bowles , ``Cognitive computing and Big Data Analytics'' , Wiley, 2015 (Units 1, 2, 3, 4, and 5)
 2. Pradeep Kumar Mallick, Samarjeet Borah, Emerging Trends and Applications in Cognitive Computing, IGI Global, 2018
 3. Vishal Jain, Akash Tayal, Jaspreet Singh, Cognitive Computing Systems - Applications and Technological Advancements, Taylor & Francis, 2021 
 4. Rob High , Tanmay Bakshi, Cognitive Computing with IBM Watson, Packt, 2019

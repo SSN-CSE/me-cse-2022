@@ -36,7 +36,7 @@ Short time fourier analysis -- Fourier transform and linear
 interpretations -- Sampling rates -- Spectrographic Displays --
 Formant extraction -- Pitch extraction -- Linear predictive coding:
 Autocorrelation method -- Covariance method; Solution of LPC equations
--- Durbin’s Recursive solution -- Application of LPC parameters --
+-- Durbin's Recursive solution -- Application of LPC parameters --
 Pitch detection.
 
 {{{unit}}}
@@ -67,7 +67,7 @@ After the completion of this course, students will be able to:
 1. L. R. Rabiner and R. W. Schaffer, ``Digital Processing of Speech
    signals'', Pearson, 2009. (Unit 1-4)
 2. Xuedong Huang, Alex Acero, Hsiao-Wuen Hon, ``Spoken Language
-   Processing – A guide to Theory, Algorithm and System Development'',
+   Processing - A guide to Theory, Algorithm and System Development'',
    Prentice Hall PTR, 2001.(Unit - 5)
 3. Lawrence Rabiner and Biing-Hwang Juang, ``Fundamentals of Speech
    Recognition'', Prentice Hall Signal Processing Series, 1993.

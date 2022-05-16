@@ -18,15 +18,15 @@
 
 {{{unit}}}
 | Unit I | Network Fundamentals | 9 |
-Introduction –- Networking Hardware -– Network Cabling –- Wireless Networking –- IP addressing –- Protocols –- Internet.
+Introduction -- Networking Hardware -- Network Cabling -- Wireless Networking -- IP addressing -- Protocols -- Internet.
 
 {{{unit}}}
 | Unit II | Wireless Networks | 9 |
-IEEE802.16 and WiMAX -- Security -- Advanced 802.16 functionalities -- Mobile WiMAX:802.16e -- WiMAx Network infrastructure -- WLAN -- Configuration -- Management operation -- IEEE 802.11e and WMM – Quality of Service.
+IEEE802.16 and WiMAX -- Security -- Advanced 802.16 functionalities -- Mobile WiMAX:802.16e -- WiMAx Network infrastructure -- WLAN -- Configuration -- Management operation -- IEEE 802.11e and WMM - Quality of Service.
 
 {{{unit}}}
 | Unit III | Cellular Networks | 9 |
-GSM –- Mobility management and call control –- GPRS –- GPRS State model -- Network elements –- Mobility management and session management -- Small Screen Web Browsing over GPRS and EDGE -– MMS over GPRS.
+GSM -- Mobility management and call control -- GPRS -- GPRS State model -- Network elements -- Mobility management and session management -- Small Screen Web Browsing over GPRS and EDGE -- MMS over GPRS.
 
 {{{unit}}}
 | Unit IV | 4G Networks | 9 |
@@ -40,10 +40,10 @@ Introduction -- Centralized and distributed control and data planes -- Open flow
 \hfill *Total: 45*
   
 ** References
-1. James Bernstein, “Networking made Easy”, 2018. (Unit - I) 
-2. Martin Sauter, ``From GSM to LTE, An Introduction to Mobile Networks and Mobile Broadband'', Wiley, 2014.(Unit – II, III, IV)
-3. Savo G Glisic, ``Advanced Wireless Networks -- 4G Technologies'', John Wiley & Sons, 2007. (Unit – IV)
-4. Thomas D. Nadeau and Ken Gray, ``SDN -- Software Defined Networks'', O'Reilly Publishers, 2013.  (Unit – V)
+1. James Bernstein, ``Networking made Easy'', 2018. (Unit - I) 
+2. Martin Sauter, ``From GSM to LTE, An Introduction to Mobile Networks and Mobile Broadband'', Wiley, 2014.(Unit - II, III, IV)
+3. Savo G Glisic, ``Advanced Wireless Networks -- 4G Technologies'', John Wiley & Sons, 2007. (Unit - IV)
+4. Thomas D. Nadeau and Ken Gray, ``SDN -- Software Defined Networks'', O'Reilly Publishers, 2013.  (Unit - V)
    
 ** Course Outcomes
 After the completion of this course, students will be able to: 

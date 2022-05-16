@@ -29,7 +29,7 @@ Applications: EHR and Decision Support System.
 
 {{{unit}}}
 | UNIT III | HEALTHCARE ANALYTICS | 6 |
-Introduction; Making Predictive Models in Healthcare;  Healthcare Predictive Models – Predictive Healthcare Analytics (State-of-the-art) – ML Applications for Cancer – Readmission Prediction.
+Introduction; Making Predictive Models in Healthcare;  Healthcare Predictive Models - Predictive Healthcare Analytics (State-of-the-art) - ML Applications for Cancer - Readmission Prediction.
 
 {{{unit}}}
 | UNIT IV | AI AND MACHINE LEARNING FOR HEALTHCARE | 6 |
@@ -61,7 +61,7 @@ After the completion of this course, students will be able to:
 - Analyze big data in healthcare using machine learning techniques (K4) 
 
 ** REFERENCES
-1.	Chandan K. Reddy and Charu C. Aggarwal, “Healthcare Data Analytics”, CRC Press, Taylor & Francis Group, LLC., 2020 (Unit I & II)
+1.	Chandan K. Reddy and Charu C. Aggarwal, ``Healthcare Data Analytics'', CRC Press, Taylor & Francis Group, LLC., 2020 (Unit I & II)
 2. Vikas, "Healthcare Analytics Made Simple: Techniques in Healthcare Computing using Machine Learning", PACKT publishers, 2018 (Unit III)
 3. Eduonix Learning Solutions, "Machine Learning for Healthcare Analytics Projects", PACKT Publishers, 1st Edition, 2018. (Unit IV) 
 4. Panta Keikhosrokiani, "Big Data Anlytics for Healthcare", Academic Press, 1st Edition, 2022. (Unit V)

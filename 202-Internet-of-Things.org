@@ -29,7 +29,7 @@ Basic computer networking to Internet of things: Network Types -- Layered networ
 
 {{{unit}}}
 | Unit II | Building IOT Systems | 9 |
-IoT Physical devices and Endpoints: Basic building blocks of IoT Device –- Raspberry Pi –- Linux on Raspberry Pi –- Interfaces –- Programming Raspberry Pi with Python --Python packages for IOT: JSON -- XML -- HTTPLib -- URLLib -- SMTPLib -- XMPP -- Contiki OS -– Other IoT Platform: Arduino -- Intel Galileo and  Beaglebone boards. RFID--sensors. 
+IoT Physical devices and Endpoints: Basic building blocks of IoT Device -- Raspberry Pi -- Linux on Raspberry Pi -- Interfaces -- Programming Raspberry Pi with Python --Python packages for IOT: JSON -- XML -- HTTPLib -- URLLib -- SMTPLib -- XMPP -- Contiki OS -- Other IoT Platform: Arduino -- Intel Galileo and  Beaglebone boards. RFID--sensors. 
 
 {{{unit}}}
 | Unit III | IoT Protocols  | 9 |
@@ -60,11 +60,11 @@ Course Outcomes
 - To design IoT solutions for industries. (K3).
 
 ** References
-1. Sudip Misra, Anandarup Mukherjee and Arijit Roy, “ Introduction to IOT” Published online by Cambridge University Press:  09 January 2021 (Unit 1)
+1. Sudip Misra, Anandarup Mukherjee and Arijit Roy, `` Introduction to IOT'' Published online by Cambridge University Press:  09 January 2021 (Unit 1)
 2. Arshdeep Bahga, Vijay Madisetti, Internet of Things: A hands-on Approach, UniversityPress, 2015 (1st edition) (Unit 1,2,3,4)
 3. Giacomo Veneri, "Antonio Capasso, "Hands-On Industrial Internet of Things Create a Powerful Industrial IoT Infrastructure Using Industry 4.0",  2018 (Unit 5)
 4. Adrian McEwen Hakim Cassimally, Designing the Internet of Things,Wiley, Nov2013, (1st edition)
-5. Olivier Hersent, David Boswarthick, Omar Elloum, “The Internet of Things – Key applications and Protocols”, Wiley, 2012.
+5. Olivier Hersent, David Boswarthick, Omar Elloum, ``The Internet of Things - Key applications and Protocols'', Wiley, 2012.
 6. Jan Holler, VlasiosTsiatsis, Catherine Mulligan, Stamatis , Karnouskos, Stefan Avesand, David Boyle,"From Machine - to-Machine to the Internet of Things - Introduction to a New Age of Intelligence", Elsevier, 2014.
  
 

@@ -29,7 +29,7 @@ Introduction to life cycle models - Agile development models - Extreme programmi
 
 {{{unit}}}
 |Unit III|Risk Management|9|
-Perspectives of Risk Management - Risk Definition – Risk Categories – Risk Assessment: Approaches, techniques and good practices – Risk Identification / Analysis / Prioritization – Risk Control (Planning / Resolution / Monitoring) – Risk Retention – Risk Transfer - Failure Mode and Effects Analysis (FMEA) – Operational Risks – Supply Chain Risk Management.
+Perspectives of Risk Management - Risk Definition - Risk Categories - Risk Assessment: Approaches, techniques and good practices - Risk Identification / Analysis / Prioritization - Risk Control (Planning / Resolution / Monitoring) - Risk Retention - Risk Transfer - Failure Mode and Effects Analysis (FMEA) - Operational Risks - Supply Chain Risk Management.
 
 {{{unit}}}
 |Unit IV|Metrics|9|
@@ -38,7 +38,7 @@ Product Attributes.
 
 {{{unit}}}
 |Unit V|People Management|9|
-Leadership styles – Developing Leadership skills – Leadership assessment – Motivating People – Organizational strategy – Management – Team building – Delegation – Art of Interviewing People - Team Management – Rewarding - Client Relationship Management.
+Leadership styles - Developing Leadership skills - Leadership assessment - Motivating People - Organizational strategy - Management - Team building - Delegation - Art of Interviewing People - Team Management - Rewarding - Client Relationship Management.
 
 \hfill *Total: 45*
 
