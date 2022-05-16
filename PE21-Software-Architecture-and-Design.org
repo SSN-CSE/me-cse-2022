@@ -69,13 +69,13 @@ Supply chain cloud service management; Semantic Web Services.
 After the completion of this course, students will be able to: 
 
 - Explain the need of software architecture to develop sustainable dynamic systems(K2)
-- Apply sound knowledge on design principles to develop large scale systems(K3)
-- Apply deep knowledge of various design architectures to develop distributed heterogeneous systems(K3)
-- Explain the various architectures such as service oriented, aspect oriented and model driven.(K2)
+- Apply design principles to develop large scale systems(K3)
+- Apply design architectures to develop distributed heterogeneous systems (K3)
+- Explain various architectures such as service oriented, aspect oriented and model driven.(K2)
 - Select appropriate software architectures to design solution for various case studies.(K3)
 
 ** References
-1. Ion Gorton, ``Essentials of Software Architecture'',  Second Edition, Springer- verlag, 2011.
+1. Ion Gorton, ``Essentials of Software Architecture'',  Second Edition, Springer- verlag, 2011. 
 2. Kai Qian, ``Software Architecture Design Illuminated'', Jones and Bartlett Publishers, Canada, 2010.
 3. David Budgen, ``Software Design'', Second Edition, Pearson Education, 2020.
 4. Len Bass, Paul Clements, Rick Kazman, ``Software Architecture in Practice'', Third Edition, Addison, Wesley, 2012.
