@@ -64,11 +64,11 @@ protection
 
 ** Course Outcomes
 After the completion of this course, students will be able to:  
-- Explain the components of the social network (K2). 
+- Explain the components of social networks (K2). 
 - Make use of the tools, to  visualize social networks (K3). 
-- Expalin the mining of communities in the social network (K2). 
+- Expalin the mining of communities in social networks (K2). 
 - Utilize the models and algorithms to find the experts and links of social networks (K3). 
-- Apply social netwoking concepts in various real time systems (K3). 
+- Apply social netwoking concepts for various real time systems (K3). 
 
       
 ** References
