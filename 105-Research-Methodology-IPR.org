@@ -53,11 +53,11 @@ patent agents, Registration of patent agents are removed
 
 ** Course Outcomes
 On successful completion of this course, the student will be able to
-- Interpret and formulate research problem (K2)
+- Interpret and formulate a research problem (K2)
 - Develop corpus to carry out research analysis (K3)
 - Develop skills on data analysis, report writing and presentation (K3)
 - Infer the basic knowledge of IPR (K2)
-- Summarize the iportance of patent and its process (K2)
+- Explain the importance of patents and understand the patenting process (K2)
 
 ** References
 1. Cooper Donald R and Schindler Pamela S, “Business Research Methods”, Tata McGraw Hill Education, 12 edition, 2014.
