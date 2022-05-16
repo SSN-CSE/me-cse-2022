@@ -23,11 +23,11 @@
 | 3 | 0 | 0 | 3 |
 
 ** Course Objectives
-- To explain the basics of IoT devices, protocols , communication APIs and deployment templates (K2)
-- To design the simple IoT systems using Raspberry Pi/Arduino Pi (K3)
-- To explain various IoT protocols (K2)
-- To design an IoT system  using cloud environments (K3)
-- To design IoT solutions for industries. (K3).
+- To explain the basics of IoT devices, protocols , communication APIs and deployment templates 
+- To design the simple IoT systems using Raspberry Pi/Arduino Pi 
+- To explain various IoT protocols
+- To design an IoT system  using cloud environments
+- To design IoT solutions for industries.
 
 {{{unit}}}
 | Unit I |  Introduction to Internet of Things | 9 |
