@@ -56,7 +56,7 @@ After the completion of this course, students will be able to:
 - Explain the concepts, basics of SDN and Openflow(K2)
 - Explain SDN Controller and programming with SDN(K2)
 - Analyse various SDN solutions for data center and about Network Function Virtualization.(K4)
-- Design an SDN Framework(K2)
+- Make use of SDN Framework(K3)
 - Analyse various use cases in implementing SDN(K4)
       
 ** References
