@@ -21,7 +21,7 @@
 
 {{{unit}}}
 |Unit I|INTRODUCTION TO DATA SCIENCE |9| 
-Introduction: Need for data science –- Benefits and uses -– Facets of data–Data science process: Retrieving data –- Cleansing, integrating and transforming data –- Exploratory Data Analysis –- Build the models –- Presenting findings and building applications.
+Introduction: Need for data science –- Benefits and uses -– Causality and Experimentation -- Facets of data–Data science process: Retrieving data –- Cleansing, integrating and transforming data –- Exploratory Data Analysis –- Build the models –- Presenting findings and building applications.
 
 {{{unit}}}
 |Unit II|PYTHON LIBRARIES FOR DATA SCIENCE |9| 
@@ -33,11 +33,11 @@ Data Cleaning and Preparation: Handling Missing Data -- Data Transformation: Rem
 
 {{{unit}}}
 |Unit IV|STATISTICAL ANALYSIS |9| 
-Introduction –- Data Preparation –- Exploratory Data Analysis: Data summarization –- Data distribution –- Outlier Treatment –- Measuring asymmetry –- Continuous distribution; Estimation: Mean –- Variance –- Sampling –- Covariance –- Correlation, Measuring the Variability in Estimates: Point estimates –- Confidence intervals; Hypothesis Testing: Using confidence intervals –- Using p-values
+Introduction –- Data Preparation –- Exploratory Data Analysis: Data summarization –- Data distribution –- Outlier Treatment –- Measuring asymmetry –- Continuous distribution -- Empirical Distribution; Estimation: Mean –- Variance –- Randomness -- Sampling –- Covariance –- Correlation, Measuring the Variability in Estimates: Point estimates –- Confidence intervals; Hypothesis Testing: Using confidence intervals –- Using p-values
 
 
 {{{unit}}}
-|Unit V|DATA ANALYSIS |9|
+|Unit V|PREDICTION AND INFERENCE WITH MACHINE LEARNING |9|
 Machine learning –- Modeling Process –- Training model –- Validating model –- Predicting new observations –- Supervised learning algorithms -– Linear Regression -- Unsupervised learning algorithms –- K Means Clustering –- Reinforcement learning.
 
 \hfill *Total: 45*
@@ -55,9 +55,10 @@ After the completion of this course, students will be able to
 1. Davy Cielen, Arno D B Meysman, Mohamed Ali, ``Introducing Data Science – Big data, Machine Learning, and more using Python tools'', Manning Publications Co, 2016. (Unit I)
 2. Wes McKinney, ``Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython”, O’Reilly, 2nd Edition,2018. (Unit II & III)
 3. Laura Igual, Santi Segua, ``Introduction to Data Science – A Python Approach to Concepts, Techniques and Applications'', Springer Nature, 2017 (Unit IV & V)
-4. Jake VanderPlas, ``Python Data Science Handbook: ``Essential Tools for Working with Data'', O'Reilly Media, 2016.
-5. Foster Provost, Tom Fawcett, ``Data Science for Business'', O'Reilly Media, 2013
-6. Rachel Schutt, Cathy O'Neil, ``Doing Data Science'', O'Reilly Media, 2016
+4. AniAdhikari, JohnDeNero,``Computational and Inferential Thinking: The Foundations of Data Scienc”, GitBook, 2017.
+5. Jake VanderPlas, ``Python Data Science Handbook: ``Essential Tools for Working with Data'', O'Reilly Media, 2016.
+6. Foster Provost, Tom Fawcett, ``Data Science for Business'', O'Reilly Media, 2013
+7. Rachel Schutt, Cathy O'Neil, ``Doing Data Science'', O'Reilly Media, 2016
 
       
    ** CO PO MAPPING 
