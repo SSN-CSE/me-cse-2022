@@ -11,19 +11,18 @@
 | 2 | 0 | 0 | 3 |
 
 ** Course Objectives
-- To study the network fundamentals. 
+- To study network fundamentals. 
 - To explore various technologies in the wireless domain. 
 - To study about 3G, 4G and cellular networks. 
 - To understand the paradigm of software defined networks. 
 
 {{{unit}}}
 | Unit I | Network Fundamentals | 9 |
-Introduction –- Networking Hardware -– Network Cabling –- Wireless Networking –- IP addressing –- Protocols –- The Internet.
+Introduction –- Networking Hardware -– Network Cabling –- Wireless Networking –- IP addressing –- Protocols –- Internet.
 
 {{{unit}}}
 | Unit II | Wireless Networks | 9 |
-IEEE802.16 and WiMAX -- Security -- Advanced 802.16 functionalities -- Mobile WiMAX:802.16e -- WiMAx Network infrastructure -- WLAN --
-Configuration -- Management operation -- IEEE 802.11e and WMM – Quality of Service.
+IEEE802.16 and WiMAX -- Security -- Advanced 802.16 functionalities -- Mobile WiMAX:802.16e -- WiMAx Network infrastructure -- WLAN -- Configuration -- Management operation -- IEEE 802.11e and WMM – Quality of Service.
 
 {{{unit}}}
 | Unit III | Cellular Networks | 9 |
