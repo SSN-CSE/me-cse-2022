@@ -12,11 +12,11 @@
 
 ** Course Objective
 
-- Understand the basic concept of project management
-- Learn the various costing and life cycle management
-- Understand the role played by risk in software project
-- Appreciate the use of metrics for software project management
-- Know the challenges in people management
+- To understand the basic concept of project management
+- To learn the various costings and life cycle management
+- To understand the role played by risk  in software projects
+- To appreciate the use of metrics for software project management
+- To know the challenges in people management
 
 
 
@@ -43,14 +43,12 @@ Leadership styles – Developing Leadership skills – Leadership assessment –
 \hfill *Total: 45*
 
 ** Course Outcome
-
-- Summarize the various steps involved in software project management(K2)
-- Choose an appropriate process model and estimate project cost and effort required(K5)
-- Identify existing risk and perform risk assessment (K3)
-- Choose appropriate software metric for software project management (K3)
+After the completion of this course, the students will be able to:
+- Summarize various steps involved in software project management (K2)
+- Choose an appropriate process model and estimate project cost and effort required (K5)
+- Identify existing risks and perform risk assessment (K3)
+- Choose appropriate metrics for software project management (K3)
 - Outline leadership styles and team building. (K2)
-
-
 
 
 ** References
