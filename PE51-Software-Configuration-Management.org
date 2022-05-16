@@ -14,10 +14,10 @@
 
 ** COURSE OBJECTIVES
 - Explain and demonstrate the key aspects of traditional configuration management
-- Understand and demonstrate the microservices application  
-- Explore and deploy the microservice in a container 
-- Install and explore Docker container networking services
-- Modify the configuration techniques using kubernetes and Docker swarm 
+- Understand and demonstrate the microservices   
+- Explore and deploy microservices in a container 
+- Install and explore networking services
+- Modify configuration techniques using kubernetes and Docker swarm 
 
 {{{unit}}}
 |UNIT I | TRADITIONAL PROCESS | 9 |
@@ -78,11 +78,11 @@ Upon completion of the course, the student should be able to
 ** REFERENCES
 1. Shirley Lacy and David Norfolk, ``CONFIGURATION MANAGEMENT, Expert
    guidance for IT service managers and practitioners``, Revised
-   edition, BCS Learning and Development Ltd, UK, 2014.
+   edition, BCS Learning and Development Ltd, UK, 2014. (Unit 1,2)
 2. Parminder Singh Kocher Boston, ``Microservices and Containers'',
-   Addison-Wesley, 2018.
+   Addison-Wesley, 2018. (Unit 1,2,3,4,5)
 3. Michael Hausenblas, ``Docker Networking and Service Discovery'',
-   O'Reilly Publication, 2016.
+   O'Reilly Publication, 2016. (Unit 4)
 4. Thomas Uphill, ``Mastering Puppet'', Second Edition,PACKT
    Publishing, 2016
 5. Scott Coulton, ``Puppet for Containerization'', PACKT Publishing,

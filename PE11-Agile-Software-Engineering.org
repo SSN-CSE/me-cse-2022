@@ -11,10 +11,10 @@
 |3|0|0|3|
 
 ** Course Objectives
- - Understand agile software development practices  
- - Demonstrate Agile development and testing techniques 
- - Know the benefits and pitfalls of working in an Agile team
- - Understand agile development and testing. 
+ - To understand agile software development practices  
+ - To demonstrate Agile development and testing techniques 
+ - To know the benefits and pitfalls of working in an Agile team
+ - To understand agile development and testing. 
 
 {{{unit}}}
 |Unit I |Agile software development|9| 
@@ -72,8 +72,8 @@ After the completion of this course, students will be able to:
   requirements for a software system. (K2)
 - Apply iterative software development process. (K3)
 - Determine the impact of social aspects on software development success. (K3)
-- Explain the approach of product development using Agile. (K2)
-- Prepare the solution using agile knowledge sharing methods. (K3)
+- Explain the approach of product development using Agile methods. (K2)
+- Develop solutions using agile methods. (K3)
       
 ** References
 1. Thomas Stober, Uwe Hansmann, Agile Software Development: Best

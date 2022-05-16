@@ -14,7 +14,7 @@
 ** COURSE OBJECTIVES
 - To understand the concept and need of Bioinformatics 
 - To transform biological data into knowledge and perform data analysis
-- To learn the machine learning algorithms for bioinformatics
+- To learn machine learning algorithms for bioinformatics
 - To learn hidden morkov modeling and probabilistic modeling 
 - To know the importance of microarray data analysis
 
@@ -27,7 +27,7 @@ bioinformatics: Organization of Structural bioinformatics -- Primary
 resource: protein data bank -- Secondary resources and applications.
 
 {{{unit}}}
-| UNIT II | DATAWAREHOUSING AND DATAMINING IN BIOINFORMATICS | 9 |
+| UNIT II | DATA WAREHOUSING AND DATA MINING IN BIOINFORMATICS | 9 |
 Data warehousing in Bioinformatics: Bioinformatics data --
 Transforming data to knowledge -- Data warehousing architecture --
 Data quality; Data mining for Bioinformatics: Biomedical data analysis
@@ -60,7 +60,7 @@ Pattern Discovery.
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to
 1. Explain the concept and need of bioinformatics (K2)
-2. Identify the genome and protein data and its equivalent storage and mining process (K3)
+2. Identify genome, protein data and their equivalent storage and mining process (K3)
 3. Apply machine learning algorithms on bioinformatics data (K3)
 4. Apply Hidden Markov Modeling and probabilistic modeling for bioinformatics data (K3)
 5. Infer the importance of microarray data analysis (K2)
