@@ -22,6 +22,13 @@
 | L | T | P | C |
 | 3 | 0 | 0 | 3 |
 
+** Course Objectives
+- To explain the basics of IoT devices, protocols , communication APIs and deployment templates (K2)
+- To design the simple IoT systems using Raspberry Pi/Arduino Pi (K3)
+- To explain various IoT protocols (K2)
+- To design an IoT system  using cloud environments (K3)
+- To design IoT solutions for industries. (K3).
+
 {{{unit}}}
 | Unit I |  Introduction to Internet of Things | 9 |
 Basic computer networking to Internet of things: Network Types -- Layered network models -- Addressing -- TCP/IP transport Layer. Definition and Characteristics of IoT -- Physical Design of IoT -- Logical Design of IoT -- IoT Enabling Technologies -- IoT Levels & Deployment Templates -- IoT and M2M
@@ -52,12 +59,11 @@ Introduction -- Industrial Process-- The Computer Integrated Manufacturing Pyram
 ** Course Outcomes
 After completion of this course, students should be able to:
 
-Course Outcomes
-- To explain the basics of IoT devices, protocols , communication APIs and deployment templates (K2)
-- To design the simple IoT systems using Raspberry Pi/Arduino Pi (K3)
-- To explain various IoT protocols (K2)
-- To design an IoT system  using cloud environments (K3)
-- To design IoT solutions for industries. (K3).
+- Explain the basics of IoT devices, protocols , communication APIs and deployment templates (K2)
+- Design the simple IoT systems using Raspberry Pi/Arduino Pi (K3)
+- Explain various IoT protocols (K2)
+- Design an IoT system  using cloud environments (K3)
+- Design IoT solutions for industries. (K3).
 
 ** References
 1. Sudip Misra, Anandarup Mukherjee and Arijit Roy, “ Introduction to IOT” Published online by Cambridge University Press:  09 January 2021 (Unit 1)
