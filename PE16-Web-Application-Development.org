@@ -52,7 +52,7 @@ After the completion of this course, students will be able to:
 - Build a website using HTML and CSS (K3). 
 - Outline client-side programming (K2)
 - Develop web application using AngularJS MVW framework (K3). 
-- Examine the web applications built NodeJS (K4).
+- Examine the web applications built using NodeJS (K4).
 - Develop web application using java script-based framework (K3). 
 
 ** REFERENCES
