@@ -11,11 +11,11 @@
 |3|0|0|3|
 
 ** Course Objectives
-- To understand the components of the social network. 
+- To understand the components of the social networks. 
 - To execute the models and visualize the social network using tools. 
 - To learn the mining of communities in the social network. 
-- To study the evolution of the social network. 
-- To know the applications in real time systems. 
+- To study evolution of the social networks. 
+- To know the applications of social networks in real time systems. 
 
 {{{unit}}}
 |Unit I | Introduction 	|9| 
@@ -36,18 +36,18 @@ Diagrams -- Matrix-based representations
 
 {{{unit}}} 
 |Unit III|Mining Communities |9| 
-Random walks in social networks and their applications: -- RandomWalks
+Random walks in social networks and their applications: Random walks
 on graphs -- Algorithms -- Applications; Detecting Communities in
 Social Networks: Core methods -- Emerging fields and problems; Node
 classification in social networks.
 
 {{{unit}}} 
-|Unit IV| Evolution   |9| 
-Evolution in Social Networks: Framework -- Tracing smoothly evolving
-communities; Models and Algorithms for Social Influence Analysis:
+|Unit IV| EVOLUTION OF SOCIAL NETWORKS  |9| 
+Evolution in Social Networks: Framework -- Tracing  evolving
+communities; Models and Algorithms for social influence analysis:
 Influence related statistics -- Social similarity and influence --
-Influence maximization in viral marketing; Algorithms and Systems for
-Expert Location in Social Networks: Expert location without graph
+Influence maximization in viral marketing; Algorithms and systems for
+expert locations in social networks: Expert location without graph
 constraints -- Score propagation -- Expert team formation; Link
 Prediction in Social Networks: Feature based link prediction --
 Bayesian probabilistic models -- Probabilistic relational models
@@ -64,25 +64,22 @@ protection
 
 ** Course Outcomes
 After the completion of this course, students will be able to:  
-- Explain the components of the social network(K2). 
-- Make use of the tools, to  visualize the social network(K3). 
-- Expalin the mining of communities in the social network(K2). 
-- Utilize the models and algorithms to find the experts and links of the social network(K3). 
-- Apply the social netwokring concepts in the various real time systems(K3). 
+- Explain the components of the social network (K2). 
+- Make use of the tools, to  visualize social networks (K3). 
+- Expalin the mining of communities in the social network (K2). 
+- Utilize the models and algorithms to find the experts and links of social networks (K3). 
+- Apply social netwoking concepts in various real time systems (K3). 
 
       
 ** References
 1. Peter Mika, ``Social Networks and the Semantic Web'', Springer, 1st
-   edition, 2007.
    edition, 2007. (Unit 1 - Chapter 1,2,3, Unit 2 -Chapter 5)
 2. Borko Furht,``Handbook of Social Network Technologies and
    Applications'', Springer, 1st edition, 2011
    Applications'', Springer, 1st edition, 2011. ( Unit 2 - Chapter  27,28)
 3. Charu C. Aggarwal, ``Social Network Data Analytics'', Springer,
-   2014
-   2014. (Unit 3 - Chapter 3 & 4, Unit 4 - Chapter 7, 8,9)
+   2014 (Unit 3 - Chapter 3 & 4, Unit 4 - Chapter 7, 8,9)
 4. Przemyslaw Kazienko, Nitesh Chawla,``Applications of Social Media
-   and Social Network Analysis'', Springer,2015
    and Social Network Analysis'', Springer,2015 (Unit 5)
 5. Giles, Mark Smith, John Yen, ``Advances in Social Network Mining
    and Analysis'', Springer, 2010.
