@@ -22,9 +22,9 @@
 | L | T | P | C |
 | 0 | 0 | 3 |1.5 |
 ** Course Objectives
-To build simple IoT systems using Arduino/Raspberry Pi and sensors.
-To build low cost embedded systems using various communication protocols and web APIs
-To develop cloud based IoT solutions for real time applications.
+- To build simple IoT systems using Arduino/Raspberry Pi and sensors.
+- To build low cost embedded systems using various communication protocols and web APIs
+- To develop cloud based IoT solutions for real time applications.
 
 ** List of Experiments
 1. Interface Arduino board to read analog and digital values using Light Dependent Resistor  and Ultrasonic sensors. 
