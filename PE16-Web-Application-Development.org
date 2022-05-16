@@ -43,7 +43,7 @@ Form Handling: Sending Client data to Server – HTML forms – Form Handling wi
 - Develop online exam web application using AngularJS
 - Develop a web application for personal website using ExpressJS
 - Develop a web application for student information system that allows to perform CRUD operations using ExpressJS and MySQL
-- Develop Library Management System using MVC Django Architecture
+- Develop Library Management System using  ExpressJS and MySQL
 
 \hfill *Total: 15*
 
@@ -52,8 +52,8 @@ After the completion of this course, students will be able to:
 - Build a website using HTML and CSS (K3). 
 - Outline client-side programming (K2)
 - Develop web application using AngularJS MVW framework (K3). 
+- Examine the web applications built NodeJS (K4).
 - Develop web application using java script-based framework (K3). 
-- Examine the web applications build using Python based framework (K4).
 
 ** REFERENCES
 1. Jeffrey C Jackson, Web Technologies A Computer Science Perspective, Pearson Education, 2011. (Unit I) 
