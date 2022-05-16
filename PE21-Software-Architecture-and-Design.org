@@ -75,8 +75,8 @@ After the completion of this course, students will be able to:
 - Select appropriate software architectures to design solution for various case studies.(K3)
 
 ** References
-1. Ion Gorton, ``Essentials of Software Architecture'',  Second Edition, Springer- verlag, 2011. 
-2. Kai Qian, ``Software Architecture Design Illuminated'', Jones and Bartlett Publishers, Canada, 2010.
+1. Ion Gorton, ``Essentials of Software Architecture'',  Second Edition, Springer- verlag, 2011. (Unit 4), (Unit 5)
+2. Kai Qian, ``Software Architecture Design Illuminated'', Jones and Bartlett Publishers, Canada, 2010.(Unit 1), (Unit 2)(Unit 3)
 3. David Budgen, ``Software Design'', Second Edition, Pearson Education, 2020.
 4. Len Bass, Paul Clements, Rick Kazman, ``Software Architecture in Practice'', Third Edition, Addison, Wesley, 2012.
 5. Mary Shaw and David Garlan, ``Software Architecture Perspectives on an emerging discipline'', Pearson education, 2015.
