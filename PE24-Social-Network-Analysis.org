@@ -81,6 +81,7 @@ After the completion of this course, students will be able to:
    2014 (Unit 3 - Chapter 3 & 4, Unit 4 - Chapter 7, 8,9)
 4. Przemyslaw Kazienko, Nitesh Chawla,``Applications of Social Media
    and Social Network Analysis'', Springer,2015 (Unit 5)
-5.Reza  Zafarani,  Mohammad  Ali  Abbasi  and  Huan  Liu,  
+5. Reza  Zafarani,  Mohammad  Ali  Abbasi  and  Huan  Liu,  
    Social  Media  Mining-An  Introduction, Cambridge University Press, 2014.
-6. Mohammad Gouse Galety, Chiai Al Atroshi, Buni Balabantaray, Sachi Nandan Mohanty, `` Social Network Analysis: Theory and Applications``, Wiley-Scrivener, 1st edition, 2022.
+6. Mohammad Gouse Galety, Chiai Al Atroshi, Buni Balabantaray, Sachi Nandan Mohanty, 
+    `` Social Network Analysis: Theory and Applications``, Wiley- Scrivener, 1st edition, 2022.
