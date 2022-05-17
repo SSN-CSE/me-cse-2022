@@ -64,7 +64,7 @@ Metrics in FDD -- Agile approach to Quality Assurance -- Test Driven
 Development -- Pair programming: Issues and Challenges -- Agile
 approach to Global Software Development.  
 
-\hfill *Total: 45*
+*Total: 45*
 
 ** Course Outcomes
 After the completion of this course, students will be able to: 
