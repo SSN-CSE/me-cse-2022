@@ -1,6 +1,6 @@
 * 
 :properties:
-:author: Dr.K.Madheswari, Dr. K R Sarath Chandran
+:author:
 :date: 05 May 2022
 :end:
 
@@ -9,23 +9,20 @@
 | CODE | COURSE TITLE         | L | T | P | C |
 |      | PROJECT WORK PHASE I | 3 | 0 | 0 | 3 |
 
-** List of Experiments
-1. Interface Arduino board to read analog and digital values using Light Dependent Resistor  and Ultrasonic sensors. 
-2. Interface Raspberry Pi board to read analog and digital values using temperature and humidity sensors. 
-3.  Construct a Raspberry Pi based system to control the LED using a switch.
-4. Interface  Arduino/Raspberry Pi with a sensor and LED to read the status in a smartphone using Bluetooth protocol. 
-5.  Develop an Arduino/Raspberry Pi based system which communicates to the cloud for sending and retrieving the temperature and humidity data.
-6.  Develop an Arduino/Raspberry Pi based system to publish/subscribe temperature data using MQTT.
-7.  Develop an Arduino/Raspberry Pi based system to measure the light intensity in the room and output the data to a web API.
-8.  Mini Project (Suggestions: Develop a system to analyse the quality of drinking water using required IoT devices, cloud, mobile and web app, Develop a basic home automation system using cloud platform, Develop a basic smart agriculture system using cloud platform)
+** COURSE OBJECTIVES
+- To develop skills to formulate a complex engineering problem with an awareness of  issues pertaining to  society, health, safety, legal, environment, culture   and examine the impact of the proposed solution on these  issues.
+- To carry out the survey on related literature and find out the research gap
+- To explore use of new tools, algorithms and techniques required to carry out the projects.
+- To enable the students to gain experience in organization and implementation of a project and acquire the necessary confidence to carry out the extensions of the project in the phase 2.
+- To follow the guidelines and prepare technical report of the project.
+- To develop team management skills and presentation skills
 
-\hfill *Total Periods: 45*
-
-** Course Outcomes
-After completion of this course, students should be able to:
-- To  build simple IoT systems using Arduino/Raspberry Pi and sensors (K3).
-- To build low cost embedded systems using various communication protocols and web APIs (K3)
-- To develop cloud based IoT solutions for real time applications (K6).
-
-
-
+  ** COURSE OUTCOMES
+At the end of this course, the students will be able to:
+1. Formulate complex engineering problems and choose suitable technologies and tools required to solve them effectively (K4)
+2. Analyse the related literature on the proposed problem and its feasibility (K4)
+3. Design high level solutions by applying software engineering principles (K6)
+4. Divide the work appropriately among the team members to manage time and complexity   
+5. Document and present the solution
+6. Analyse the issues pertaining to society, health, safety, legal, environment, culture applicable to the project and examine the impact of the proposed solution on these issues.  
+7. Apply best practices and follow ethics in developing the solutions  

@@ -1,6 +1,6 @@
 * 
 :properties:
-:author: Dr.K.Madheswari, Dr. K R Sarath Chandran
+:author:
 :date: 05 May 2022
 :end:
 
@@ -9,23 +9,21 @@
 | CODE | COURSE TITLE          | L | T | P | C |
 |      | PROJECT WORK PHASE II | 3 | 0 | 0 | 3 |
 
-** List of Experiments
-1. Interface Arduino board to read analog and digital values using Light Dependent Resistor  and Ultrasonic sensors. 
-2. Interface Raspberry Pi board to read analog and digital values using temperature and humidity sensors. 
-3.  Construct a Raspberry Pi based system to control the LED using a switch.
-4. Interface  Arduino/Raspberry Pi with a sensor and LED to read the status in a smartphone using Bluetooth protocol. 
-5.  Develop an Arduino/Raspberry Pi based system which communicates to the cloud for sending and retrieving the temperature and humidity data.
-6.  Develop an Arduino/Raspberry Pi based system to publish/subscribe temperature data using MQTT.
-7.  Develop an Arduino/Raspberry Pi based system to measure the light intensity in the room and output the data to a web API.
-8.  Mini Project (Suggestions: Develop a system to analyse the quality of drinking water using required IoT devices, cloud, mobile and web app, Develop a basic home automation system using cloud platform, Develop a basic smart agriculture system using cloud platform)
-
-\hfill *Total Periods: 45*
-
-** Course Outcomes
-After completion of this course, students should be able to:
-- To  build simple IoT systems using Arduino/Raspberry Pi and sensors (K3).
-- To build low cost embedded systems using various communication protocols and web APIs (K3)
-- To develop cloud based IoT solutions for real time applications (K6).
-
-
-
+** COURSE OBJECTIVES
+- To make use of the knowledge gained by the student at various stages
+  of the degree course.
+- To develop the ability to solve a specific problem right from its
+  identification and literature review till the successful solution of
+  the same.
+- To train the students in preparing project reports and to face
+  reviews and viva voce examination
+  
+** COURSE OUTCOMES
+After the completion of this course, students will be able to 
+1. Use suitable technologies and tools   to solve complex engineering problems effectively (K4)
+2. Analyse the related literature on the proposed problem and its feasibility (K4)
+3. Construct  suitable solutions by applying software engineering principles (K6)
+4. Divide the work appropriately among the team members to manage time and complexity
+5. Evaluate the performance of the solution using appropriate metrics (K5)
+6. Analyse the impact of the proposed solution on the issues pertaining to society, health, safety, legal, environment, culture  and apply ethical principles. 
+7. Apply ethical principles in developing the solutions and present the solution with good documentation
