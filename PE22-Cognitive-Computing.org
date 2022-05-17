@@ -1,22 +1,18 @@
-* <<<PE22>>> COGNITIVE COMPUTING 
+* 
 :properties:
 :author: Kanchana
 :date: 12 May 2022
 :end:
 
-
-
 #+startup: showall
-
-{{{credits}}}
-| L | T | P | C |
-| 3 | 0 | 0 | 3 |
+{{{title-tab}}}
+| CODE | COURSE TITLE        | L | T | P | C |
+|      | COGNITIVE COMPUTING | 3 | 0 | 0 | 3 |
 
 ** COURSE OBJECTIVES
 - To understand foundations of cognitive computing
 - To explore the role of AI, Big Data, Machine learning, NLP in cognitive systems
 - To understand business implications of cognitive computing and develop solutions.
-
 
 {{{unit}}}
 | UNIT I | FOUNDATIONS OF COGNITIVE COMPUTING | 8 |
@@ -38,19 +34,15 @@ Preparing for a change -- advantages of new disruptive models --  comparison wit
 | UNIT V | BUILDING A COGNITIVE HEALTH CARE APPLICATION | 8 |
 Foundations of cognitive computing for healthcare -- constituents in healthcare ecosystem -- learning from patterns in healthcare Data -- cognitive applications across the healthcare eco system; Smarter cities: Cognitive Computing in Government -- smarter approaches to preventative healthcare -- building a smarter transportation infrastructure --  creating a cognitive community infrastructure -- next phase of cognitive cities 
 
-
 \hfill *Total Periods: 45*
-
 
 ** COURSE OUTCOMES
 Upon completion of this course, the students should be able to:
--	Explain how Artificial Intelligence, Machine Learning and Cognitive Computing are related and are used for application development (K2)
--	Describe Cognitive computing and NLP based techniques and models (K2)
--	Apply advanced analytics to cognitive computing (K3)
--	Apply technical and managerial issues in developing applications based on cognitive computing and Artificial Intelligence techniques. (K3)
-- Apply and assess cognitive computing and Artificial Intelligence Applications in an organizational setting (K3)
-
-
+1. Explain how Artificial Intelligence, Machine Learning and Cognitive Computing are related and are used for application development (K2)
+2. Describe Cognitive computing and NLP based techniques and models (K2)
+3. Apply advanced analytics to cognitive computing (K3)
+4. Apply technical and managerial issues in developing applications based on cognitive computing and Artificial Intelligence techniques. (K3)
+5. Apply and assess cognitive computing and Artificial Intelligence Applications in an organizational setting (K3)
 
 ** REFERENCES
 1. Judith H Hurwitz, Marcia Kaufman, Adrian Bowles , ``Cognitive computing and Big Data Analytics'' , Wiley, 2015 (Units 1, 2, 3, 4, and 5)
@@ -58,25 +50,3 @@ Upon completion of this course, the students should be able to:
 3. Vishal Jain, Akash Tayal, Jaspreet Singh, Cognitive Computing Systems - Applications and Technological Advancements, Taylor & Francis, 2021 
 4. Rob High , Tanmay Bakshi, Cognitive Computing with IBM Watson, Packt, 2019
 
-
-#+begin_comment
-
-   ** CO TO PO/PSO MAPPING
-
-|  | PO1 | PO2 | PO3 | PO4 | PO5 | PO6 | PO7 | PO8 | PO9 | PO10 | PO11 | PO12 |PSO1 | PSO2 |PSO3 |
-|--------+---+---+---+---+---+---+---+---+---+----+----+----+---+---+---|
-| CO1    | 2 | 1 |   |   |   |   |   |   |   |    |    |    | 1 |   |   |
-| CO2    | 3 | 2 |   |   |   |   |   |   |   |    |    |    | 2 |   |   |
-| CO3    | 3 |   |   |   |   |   |   |   |   |    |    |    | 2 |   |   |
-| CO4    | 3 | 2 |   |   |   |   |   |   |   |    |    |    | 2 |   |   |
-| CO5    | 3 | 2 | 2 |   | 2 |   |   |   |   |    |    |    | 2 |   |   |
-
-|--------+---+---+---+---+---+---+---+---+---+----+----+----+---+---+---|
-| Course | 3 | 2 | 2 |   | 2 |   |   |   |   |    |    |    | 2 |   |   |
-#+TBLFM: @>$INVALID..$15='(ceiling (/ (+ @2..@7) 6));N
-
-# | Score|14 | 7 | 2 |   | 2 |   |   |   |   |    |    |    | 9 |   |   |
-
-
-
-#+end_comment

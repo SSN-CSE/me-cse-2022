@@ -1,17 +1,15 @@
+* 
 :properties:
 :author: V. S. Felix Enigo, A. Beulah
 :date: 27 June 2018
 :end:
 
 #+startup: showall
-#+macro: subject |Course Code| Course Title |Category | L | T | P | C |
-#+macro: unit #+attr_odt: :rel-width 100 :width 1,10,2
-#+macro: credits #+attr_odt: :rel-width 10 :center nil
+{{{title-tab}}}
+| CODE | COURSE TITLE                   | L | T | P | C |
+|      | MOBILE AND PERVASIVE COMPUTING | 3 | 0 | 0 | 3 |
 
-{{{subject}}}
-| <<<CP1331>>> | MOBILE AND PERVASIVE COMPUTING | PE | 3 | 0 | 0 | 3 |
-
-** Course Objectives
+** COURSE OBJECTIVES
 - To learn basic mobile concepts. 
 - To understand 4G telecommunication system principles.
 - To introduce broad perspective of pervasive concepts and management.
@@ -19,25 +17,25 @@
 - To apply pervasive concepts in mobile environment.
 
 {{{unit}}}
-|Unit I |Introduction|9| 		
+|UNIT I |INTRODUCTION|9| 		
 History; Telecommunications: GSM -- GPRS -- DECT -- TETRA -- UMTS and
 IMT- 2000 ; Wireless LAN: WiFi, Bluetooth, WiMAX, Wireless ATM.
 
 {{{unit}}}
-|Unit II|Overview of a Modern 4G Telecommunications System  |9| 
+|UNIT II|OVERVIEW OF A MODERN 4G TELECOMMUNICATIONS SYSTEM  |9| 
 Introduction -- LTE-A System Architecture: LTE RAN -- OFDM Air
 Interface -- Evolved Packet Core -- LTE Requirements -- LTE-Advanced
 -- Enhancements in LTE-A; Introduction to 5G.
 
 {{{unit}}}
-|Unit III|Pervasive Computing Concepts and Elements |9| 
+|UNIT III|PERVASIVE COMPUTING CONCEPTS AND ELEMENTS |9| 
 Perspectives of Pervasive Computing -- Challenges -- Technology --
 Infrastructure and Devices -- Middleware for Pervasive Computing
 Systems -- Pervasive Computing Environments -- Context Collection and
 Wireless Sensor Networks -- User Tracking -- Context Reasoning.
 
 {{{unit}}}
-|Unit IV|Human Computer Interface in Pervasive Environments |9| 
+|UNIT IV|HUMAN COMPUTER INTERFACE IN PERVASIVE ENVIRONMENTS |9| 
 HCI Service and Interaction Migration -- Context Driven HCI Service
 Selection -- Interaction Service Selection Overview -- User Devices --
 Service-Oriented Middleware Support -- User History and Preference --
@@ -47,24 +45,22 @@ Combination Selection Algorithm -- A web based HCI migration
 framework.  
 
 {{{unit}}}
-|Unit V|Pervasive Mobile Transaction |9|
+|UNIT V|PERVASIVE MOBILE TRANSACTION |9|
 Introduction to Pervasive Transactions -- Mobile Transaction Framework
 -- Context-Aware Pervasive Transaction Model -- Dynamic Transaction
 Management -- Formal Transaction Verification.
 
+\hfill *Total Periods: 45*
 
-\hfill *Total: 45*
-
-** Course Outcomes
+** COURSE OUTCOMES
 Upon the completion of the course the students should be able to: 
-- Explain the Basic architecture and concepts of Mobile Computing.  (K2)
-- Outline the functionalities of 4G Telecommunication System. (K2)
-- Identify the features of pervasive computing. (K3)
-- Apply HCI in pervasive environment. (K3)
-- Choose appropriate pervasive transactions for a pervasive environment. (K3)
+1. Explain the Basic architecture and concepts of Mobile Computing.  (K2)
+2. Outline the functionalities of 4G Telecommunication System. (K2)
+3. Identify the features of pervasive computing. (K3)
+4. Apply HCI in pervasive environment. (K3)
+5. Choose appropriate pervasive transactions for a pervasive environment. (K3)
 
-      
-** References
+** REFERENCES
 1. J. Schiller, ``Mobile Communications'', Addison Wesley, 2003.(Unit   I)
 2. Minyi Guo, Jingyu Zhou, Feilong Tang, Yao Shen, ``Pervasive    Computing: Concepts, Technologies and Applications '' CRC Press,
    2016 (Unit III, IV, V)

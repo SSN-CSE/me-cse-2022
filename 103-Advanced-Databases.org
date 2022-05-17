@@ -1,16 +1,15 @@
-* <<<CP1222>>> ADVANCED DATABASES 
+* 
 :properties:
-:author: A. Beulah & J. Suresh
+:author: A. Beulah,  J. Suresh
 :date: 13 May 2022
 :end:
 
 #+startup: showall
+{{{title-tab}}}
+| CODE | COURSE TITLE       | L | T | P | C |
+|      | ADVANCED DATABASES | 3 | 0 | 0 | 3 |
 
-{{{credits}}}
-| L | T | P | C |
-| 3 | 0 | 0 | 3 |
-
-** Course Objectives
+** COURSE OBJECTIVES
 The student should be able to:
 - Understand the concepts of distributed databases
 - Understand the data models for data lake.
@@ -20,40 +19,65 @@ The student should be able to:
 
 
 {{{unit}}}
-|Unit I |Distributed Databases|9| 	
-Distribution Models: Single Server-- Sharding-- Master--Slave Replication --Peer-to-Peer Replication -- Combining Sharding and Replication; Consistency:  Update Consistency-- Read Consistency-- Relaxing Consistency--The CAP Theorem-- Relaxing Durability-- Quorums; HDFS.
+| UNIT I | DISTRIBUTED DATABASES | 9 |
+Distribution Models: Single Server-- Sharding-- Master--Slave
+Replication --Peer-to-Peer Replication -- Combining Sharding and
+Replication; Consistency: Update Consistency-- Read Consistency--
+Relaxing Consistency--The CAP Theorem-- Relaxing Durability-- Quorums;
+HDFS.
 
 {{{unit}}}
-|Unit II|Data Models for Data Lake|9|
-Data Models -- Categorizing Data Models -- Data Model vs Data Format -- Data Stream -- Understanding Data Lake -- Inside Data Lake -- Generic Structure of Data Ponds -- Applications of Data Pond - Data Warehousing vs Data Lake -- Data Ingestion -- ETL vs ELT -- Big Data Integration with Data Lake -- Apache Sqoop.
+| UNIT II | DATA MODELS FOR DATA LAKE | 9 |
+Data Models -- Categorizing Data Models -- Data Model vs Data Format
+-- Data Stream -- Understanding Data Lake -- Inside Data Lake --
+Generic Structure of Data Ponds -- Applications of Data Pond - Data
+Warehousing vs Data Lake -- Data Ingestion -- ETL vs ELT -- Big Data
+Integration with Data Lake -- Apache Sqoop.
 
 {{{unit}}}
-|Unit III|Columnar and Key-Value Databases |9| 
-Cassandra Data Model  -- Clusters -- Keyspaces --Column Families --Columns -- Super Columns -- Design Differences Between RDBMS and Cassandra --Design Patterns -- Cassandra Architecture; Key-Value Databases: Key-Value Store -- Features -- Use Cases.
+| UNIT III | COLUMNAR AND KEY-VALUE DATABASES | 9 |
+Cassandra Data Model -- Clusters -- Keyspaces --Column Families
+--Columns -- Super Columns -- Design Differences Between RDBMS and
+Cassandra --Design Patterns -- Cassandra Architecture; Key-Value
+Databases: Key-Value Store -- Features -- Use Cases.
 
 {{{unit}}}
-|Unit IV|Document and Graph Databases |9| 
-Database for modern Web: MongoDB -- MongoDB Shell -- Creating, Updating, and Deleting Documents -- Querying; Graph Databases An Overview -- Started with Neo4j -- Modelling data for Neo4j -- Use Case Examples: Recommender Systems & Impact Analysis and Simulation --Visualization for Neo4j.
+| UNIT IV | DOCUMENT AND GRAPH DATABASES | 9 |
+Database for modern Web: MongoDB -- MongoDB Shell -- Creating,
+Updating, and Deleting Documents -- Querying; Graph Databases An
+Overview -- Started with Neo4j -- Modelling data for Neo4j -- Use Case
+Examples: Recommender Systems & Impact Analysis and Simulation
+--Visualization for Neo4j.
 
 {{{unit}}}
-|Unit V|Streaming Data|9| 
-Capture Streaming Data with Change-Data-Capture: Concepts; Strategies for Data Capture -- Types of CDC -- CDC Trade-offs --CDC Tools -- Analyzing a Centralized Data Store -- Publishing to Kafka -- AVRO Schema and Data.
+| UNIT V | STREAMING DATA | 9 |
+Capture Streaming Data with Change-Data-Capture: Concepts; Strategies
+for Data Capture -- Types of CDC -- CDC Trade-offs --CDC Tools --
+Analyzing a Centralized Data Store -- Publishing to Kafka -- AVRO
+Schema and Data.
 
-\hfill *Total: 45*
+\hfill *Total Peiods: 45*
 
-** Course Outcomes
+** COURSE OUTCOMES
 After the completion of this course, students will be able to: 
-- Make use of the methods and techniques for distributed query processing (K3)
-- Explain the data models for the data lake (K2)
-- Apply the techniques of wide-column and key-value store to create databases and run the queries (K3)
-- Apply the concepts of document and graph databases and run the queries (K3)
-- Explain the concepts of streaming data and how to make use of Kafka (K3)
+1. Make use of the methods and techniques for distributed query processing (K3)
+2. Explain the data models for the data lake (K2)
+3. Apply the techniques of wide-column and key-value store to create databases and run the queries (K3)
+4. Apply the concepts of document and graph databases and run the queries (K3)
+5. Explain the concepts of streaming data and how to make use of Kafka (K3)
 
-
-      
-** References
-- Sadalage, Pramod J., and Martin Fowler, "NoSQL distilled: a brief guide to the emerging world of polyglot persistence", Pearson Education, 2013. (Units I)
-- Bill Inmon, "Data Lake Architecture: Designing the data lake and avoiding the garbage dump", 1st Edition, Technics Publications, 2016.(Unit II)
-- Aaron Ploetz , Tejaswi Malepati , Nishant Neeraj, "Mastering Apache Cassandra 3.x", 3rd Edition, Packt Publishers, 2018.(Unit III)
-- Bradshaw, Shannon, Eoin Brazil, and Kristina Chodorow, "MongoDB: the definitive guide: powerful and scalable data storage",  O'Reilly Media, 2019. (Unit IV)
-- Gupta, Saurabh, and Venkata Giri, "Practical Enterprise Data Lake Insights: Handle Data-Driven Challenges in an Enterprise Big Data Lake", Apress, 2018. (Units V)
+** REFERENCES
+1. Sadalage, Pramod J., and Martin Fowler, "NoSQL distilled: a brief
+   guide to the emerging world of polyglot persistence", Pearson
+   Education, 2013. (Units I)
+2. Bill Inmon, "Data Lake Architecture: Designing the data lake and
+   avoiding the garbage dump", 1st Edition, Technics Publications,
+   2016.(Unit II)
+3. Aaron Ploetz , Tejaswi Malepati , Nishant Neeraj, "Mastering Apache
+   Cassandra 3.x", 3rd Edition, Packt Publishers, 2018.(Unit III)
+4. Bradshaw, Shannon, Eoin Brazil, and Kristina Chodorow, "MongoDB: the
+   definitive guide: powerful and scalable data storage", O'Reilly
+   Media, 2019. (Unit IV)
+5. Gupta, Saurabh, and Venkata Giri, "Practical Enterprise Data Lake
+   Insights: Handle Data-Driven Challenges in an Enterprise Big Data
+   Lake", Apress, 2018. (Units V)

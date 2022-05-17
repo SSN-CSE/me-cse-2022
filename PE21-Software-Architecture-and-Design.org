@@ -1,4 +1,4 @@
-* <<<CP1232>>> SOFTWARE ARCHITECTURE AND DESIGN 
+* 
 :properties:
 :author: K. Vallidevi
 :date: 12 May 2022
@@ -8,12 +8,11 @@
 
 # in the title of the subject, architectures (plural) or architecture
 # (singular)?
+{{{title-tab}}}
+| CODE | COURSE TITLE                     | L | T | P | C |
+|      | SOFTWARE ARCHITECTURE AND DESIGN | 3 | 0 | 0 | 3 |
 
-{{{credits}}}
-|L|T|P|C|
-|3|0|0|3|
-
-** Course Objectives
+** COURSE OBJECTIVES
 - To understand the need, design approaches for software architecture to bridge the dynamic requirements and implementation.
 - To learn the design principles and to apply for large scale systems. 
 - To design architectures for distributed heterogeneous systems, environment through brokerage interaction.
@@ -21,7 +20,7 @@
 - To develop appropriate architectures for various Case studies like semantic web services, supply chain cloud services.
 
 {{{unit}}}
-|Unit I|Software Architecture Basics|9| 
+|UNIT I|SOFTWARE ARCHITECTURE BASICS|9| 
 Introduction to Software Architecture -- Bridging Requirements and
 Implementation -- Design Guidelines : Software quality attributes --
 Software Architecture Design Space; Agile Approach to Software
@@ -29,7 +28,7 @@ Architecture Design; Models for Software Architecture Description
 Languages (ADL).
 
 {{{unit}}}
-|Unit II|Software Architecture Design Principles|9| 
+|UNIT II|SOFTWARE ARCHITECTURE DESIGN PRINCIPLES|9| 
 Object-Oriented Paradigm; Design Principles -- Data centered software
 architecture -- Repository architecture -- Blackboard architecture;
 Hierarchical Architecture -- Main-subroutine --Master-slave -- Layered
@@ -37,7 +36,7 @@ Hierarchical Architecture -- Main-subroutine --Master-slave -- Layered
 Model-View-Controller (MVC), Presentation-Abstraction-Control (PAC).
 
 {{{unit}}}
-|Unit III| Distributed Architecture and Adaptation|9| 
+|UNIT III| DISTRIBUTED ARCHITECTURE AND ADAPTATION|9| 
 Distributed Architecture: Client-Server, Middleware, Multi-tiers;
 Broker Architecture: MOM -- CORBA -- Message Broker Architecture -
 Service-Oriented Architecture (SOA): SOAP -- UDDI -- Grid/cloud
@@ -47,7 +46,7 @@ Architectural Adaptation: Techniques for supporting architecture
 centric change; The World Wide Web: A Case Study in Interoperability
 
 {{{unit}}}
-|Unit IV|Software Product Line Architecture|9| 
+|UNIT IV|SOFTWARE PRODUCT LINE ARCHITECTURE|9| 
 Architecture of User Interfaces Containers -- Case study -- Web
 service; Product Line Architectures: Methodologies -- Processes and
 tools; Software Reuse and Product Lines: Product line analysis --
@@ -56,25 +55,24 @@ Architectures (MDA): Why MDA -- Model transformation and software
 architecture -- SOA and MDA -- Eclipse modelling framework.
 
 {{{unit}}}
-|Unit V|Aspect Oriented Architecture|9|
+|UNIT V|ASPECT ORIENTED ARCHITECTURE|9|
 Aspect Oriented Architectures: AOP in UML -- AOP tools --
 Architectural aspects and middleware selection of architectures;
 Evaluation of Architecture Designs; Case Study: Online computer vendor
 -- Order processing -- Manufacture & shipping - Inventory --
 Supply chain cloud service management; Semantic Web Services.
 
-\hfill *Total: 45*
+\hfill *Total Periods: 45*
 
-** Course Outcomes
+** COURSE OUTCOMES
 After the completion of this course, students will be able to: 
+1. Explain the need of software architecture to develop sustainable dynamic systems(K2)
+2. Apply design principles to develop large scale systems(K3)
+3. Apply design architectures to develop distributed heterogeneous systems (K3)
+4. Explain various architectures such as service oriented, aspect oriented and model driven.(K2)
+5. Select appropriate software architectures to design solution for various case studies.(K3)
 
-- Explain the need of software architecture to develop sustainable dynamic systems(K2)
-- Apply design principles to develop large scale systems(K3)
-- Apply design architectures to develop distributed heterogeneous systems (K3)
-- Explain various architectures such as service oriented, aspect oriented and model driven.(K2)
-- Select appropriate software architectures to design solution for various case studies.(K3)
-
-** References
+** REFERENCES
 1. Ion Gorton, ``Essentials of Software Architecture'',  Second Edition, Springer- verlag, 2011. (Unit 4), (Unit 5)
 2. Kai Qian, ``Software Architecture Design Illuminated'', Jones and Bartlett Publishers, Canada, 2010.(Unit 1), (Unit 2)(Unit 3)
 3. David Budgen, ``Software Design'', Second Edition, Pearson Education, 2020.

@@ -1,16 +1,15 @@
-* <<<CP1224>>> NATURAL LANGUAGE PROCESSING
+* 
 :Properties:
 :author:  B Senthil Kumar, D Thenmozhi
 :date: 11 May 2022
 :end:
 
 #+startup: showall
+{{{title-tab}}}
+| CODE | COURSE TITLE                | L | T | P | C |
+|      | NATURAL LANGUAGE PROCESSING | 2 | 0 | 2 | 3 |
 
-{{{credits}}}
-|L|T|P|C|
-|3|0|0|3|
-
-** Course Objectives
+** COURSE OBJECTIVES
 - To learn the fundamentals in language processing.
 - To understand  syntactic parsing in language processing.
 - To understand language modeling using vector semantics.
@@ -18,54 +17,53 @@
 - To understand  information extraction techniques.
 
 {{{unit}}}
-|Unit I |Introduction|6| 
+|UNIT I |INTRODUCTION|6| 
 Knowledge in language processing -- Ambiguity; Text Normalization -- N-grams -- Evaluation -- Sampling -- 
 Generalization -- Smoothing
 
 
 {{{unit}}}
-|Unit II|Word Level and Syntactic Analysis |6| 
+|UNIT II|WORD LEVEL AND SYNTACTIC ANALYSIS |6| 
 English Word Classes -- Part-of-Speech Tagging; Constituency Grammar: Context-Free Grammar -- 
 Grammar rules for Engligh -- Treebanks; Dependency Parsing: Dependency Relations -- Formalisms -- 
 Dependency Treebanks;
 
 
 {{{unit}}}
-|Unit III|Lexical and Vector Semantics|6|
+|UNIT III|LEXICAL AND VECTOR SEMANTICS|6|
 Lexical Semantics -- Vector Semantics -- Words and vectors -- Cosine similarity -- TF-IDF -- PPMI -- Word2Vec -- Semantic properties of embeddings -- Evaluating vector model; 
 
 
 {{{unit}}}
-|Unit IV|Semantic Analysis|6|
+|UNIT IV|SEMANTIC ANALYSIS|6|
 Word Senses: Senses Relations -- WordNet -- Word Sense Disambiguation; Semantic Roles: Diathesis Alternations 
 -- Problems -- Proposition Bank -- Semantic Role Labeling
 
-
 {{{unit}}}
-|Unit V|Information Extraction|6|
+|UNIT V|INFORMATION EXTRACTION|6|
 Named Entities -- Named Entity Tagging; Relation Extraction -- Algorithms -- Extracing Times 
 -- Extracting Events and their Times -- Template Filling;
 
 
-\hfill *Total: 45*
+\hfill *Total Periods: 45*
 
-** Course Outcomes
+** COURSE OUTCOMES
 After the completion of this course, students will be able to: 
-- Apply the text normalization techniques. (K3)
-- Apply syntactic analysis in language processing (K3)
-- Apply vector semantics for word embeddings. (K3)
-- Apply semantic analysis for words and sentences. (K3)
-- Apply extraction techniques to extract the information. (K3)
+1. Apply the text normalization techniques. (K3)
+2. Apply syntactic analysis in language processing (K3)
+3. Apply vector semantics for word embeddings. (K3)
+4. Apply semantic analysis for words and sentences. (K3)
+5. Apply extraction techniques to extract the information. (K3)
  
- Suggested Exercise:
- 1) Apply Tokenizer, n-grams in text normalization.
- 2) Apply TF-IDF, Word2Vec vectors for the given text data for word similarity.
- 3) Apply treebanks for context-free and dependency parsing.
- 4) Apply semantics to find the word sense/SRL.
- 6) Apply IE techniques to extract the Named Entities/Relations.
+**  SUGGESTED EXERCISES
+1. Apply Tokenizer, n-grams in text normalization.
+2. Apply TF-IDF, Word2Vec vectors for the given text data for word similarity.
+3. Apply treebanks for context-free and dependency parsing.
+4. Apply semantics to find the word sense/SRL.
+5. Apply IE techniques to extract the Named Entities/Relations.
  
      
-** References
+** REFERENCES
 1. Daniel Jurafsky and James H Martin, ``Speech and Language Processing: An introduction to Natural Language Processing, Computational Linguistics and Speech Recognition'',3rd Edition
 2. Christopher D. Manning, Hinrich Schutze, Foundations of Statistical Natural Language Processing, MIT Press, 1999.
 3. Steven Bird, Ewan Klein, and Edward Loper, ``Natural Language Processing with Python'', O'Reilly, 2009.

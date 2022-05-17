@@ -1,16 +1,15 @@
-* <<<CP1233>>> IMAGE PROCESSING AND ANALYSIS
+* 
 :properties:
 :author: K. Lekshmi
 :date: 12 May 2022
 :end:
 
 #+startup: showall
+{{{title-tab}}}
+| CODE | COURSE TITLE                  | L | T | P | C |
+|      | IMAGE PROCESSING AND ANALYSIS | 2 | 0 | 2 | 3 |
 
-{{{credits}}}
-|L|T|P|C|
-|2|0|2|3|
-
-** Course Objectives
+** COURSE OBJECTIVES
 - To understand basics of digital images
 - To understand spatial and frequency domain processing
 - To learn image segmentation techniques
@@ -18,14 +17,14 @@
 - To learn various applications of image processing.
 
 {{{unit}}}
-|Unit I | Fundamentals of Image Processing |5| 
+|UNIT I | FUNDAMENTALS OF IMAGE PROCESSING |5| 
 Introduction -- Elements of visual perception -- Steps in Image
 Processing Systems -- Image Acquisition -- Sampling and Quantization
 -- Pixel Relationships -- Image Modalities -- File Formats; Image
 Operations: Arithmetic -- Logical -- Statistical and Spatial operations.
 
 {{{unit}}}
-|Unit II| Image Enhancement and Restoration |8| 
+|UNIT II| IMAGE ENHANCEMENT AND RESTORATION |8| 
 Spatial Domain processing: Filtering operations; Histograms; Smoothing
 filters; Sharpening filters; Frequency Domain processing: Fourier Transform --
 DFT and FFT; Filtering operations; Smoothing and Sharpening -- 
@@ -41,7 +40,7 @@ Rest of the Topics are re-ordered as Image Enhancement and Image Restoration in 
 #+END_COMMENT
 
 {{{unit}}}
-|Unit III| Image Segmentation |5| 
+|UNIT III| IMAGE SEGMENTATION |5| 
 Thresholding techniques: Region growing -- splitting and merging -- Adaptive -- Otsu method;
 Edge detection; Template matching; Gradient operation; Hysterisis Thresholding -- Canny operator -- Laplacian
 operator; Image morphology -- Binary and Gray Level morphology
@@ -59,7 +58,7 @@ Thought process
 #+END_COMMENT 
 
 {{{unit}}}
-|Unit IV| Feature Detection and Multi Resolution Analysis  |6| 
+|UNIT IV| FEATURE DETECTION AND MULTI RESOLUTION ANALYSIS  |6| 
 Features -- Corner and interest point detection -- 
 boundary representation and detections -- texture descriptors -- 
 regional descriptors and feature selection techniques;
@@ -80,37 +79,37 @@ Thought process
 #+END_COMMENT 
 
 {{{unit}}}
-|Unit V| Case Studies in Image Processing|6|
+|UNIT V| CASE STUDIES IN IMAGE PROCESSING|6|
 Image Recognition: Fingerprint Recognition; Image Classification:
 Tumor classification from Medical Images; Image Understanding: CBIR; 
 Image Fusion: Statellite image enhancement; Object tracking: Surveillance applications.
 
-\hfill *Total: 30* 
+\hfill *Total Periods: 30* 
 
-** List of Experiments:
-1.	Program to implement smoothing or averaging filter in spatial domain.
-2.	Image Processing on Histogram Processing
-	- Program to find histogram value and display histograph of a grayscale and color image.
-	- Program to obtain histogram equalization image
-3.	Image Processing on Fourier Transformation
-	- Program to discretize an image using Fourier transformation.
-	- Program to eliminate the high frequency components of an image.
-4.	Program to fill the region of interest for the image.
-5.	Image Processing on Segmentation
-	- Program for morphological operation: erosion and dilation
-	- Program for segmentation of an image using watershed transforms.
-6.	Program to determine the edge detection of an image using different operators.
-7.	Program to perform discrete wavelet transform on image.
+** SUGGESTIVE LIST OF EXPERIMENTS:
+1. Program to implement smoothing or averaging filter in spatial domain.
+2. Image Processing on Histogram Processing
+   - Program to find histogram value and display histograph of a grayscale and color image.
+   - Program to obtain histogram equalization image
+3. Image Processing on Fourier Transformation
+   - Program to discretize an image using Fourier transformation.
+   - Program to eliminate the high frequency components of an image.
+4. Program to fill the region of interest for the image.
+5. Image Processing on Segmentation
+   - Program for morphological operation: erosion and dilation
+   - Program for segmentation of an image using watershed transforms.
+6. Program to determine the edge detection of an image using different operators.
+7. Program to perform discrete wavelet transform on image.
 
-\hfill *Total: 15*
+\hfill *Total Periods: 15*
 
-** Course Outcomes
+** COURSE OUTCOMES
 After the completion of this course, students will be able to:
-- Explain the fundamental concepts of a digital image processing system (K2)
-- Apply image enhancement and restoration techniques in spatial and frequency domains (K3)
-- Make use of image segmentation techniques for object detection (K3) 
-- Analyze the multi resolution methods and image transforms for color images (K4)
-- Apply techniques of object enhancement, detection, recognition, and classification in various applications (K3)
+1. Explain the fundamental concepts of a digital image processing system (K2)
+2. Apply image enhancement and restoration techniques in spatial and frequency domains (K3)
+3. Make use of image segmentation techniques for object detection (K3) 
+4. Analyze the multi resolution methods and image transforms for color images (K4)
+5. Apply techniques of object enhancement, detection, recognition, and classification in various applications (K3)
 
 #+BEGIN_COMMENT 
 - Design and implement enhancement and segmentation algorithms for image processing application. (K4)
@@ -119,8 +118,7 @@ After the completion of this course, students will be able to:
 - Make a positive professional contribution in the field of Digital Image Processing. (K4)
 #+END_COMMENT 
 
-      
-** References
+** REFERENCES
 1. Rafael C.Gonzalez, Richard E.Woods, ``Digital Image Processing'',
    Fourth Edition, Pearson Education, 2018. (Units I, II, III, IV)
 2. Wilhelm Burger, Mark J. Burge, ``Principles of Digital Image Processing : Core Algorithms'', Springer, 2009. (Units V)

@@ -9,7 +9,7 @@
 | CODE | COURSE TITLE                            | L | T | P | C |
 |      | ADVANCED DATA STRUCTURES AND ALGORITHMS | 3 | 0 | 0 | 3 |
 
-** R2021 Changes :noexport:
+** R2021 Changes                                                   :noexport:
   1. This topic was added
   2. That topic is not important
 
@@ -53,6 +53,7 @@ programming -- Longest common subsequence problem -- Knapsack problem
 | UNIT V | NP COMPLETE AND NP HARD | 8 |
 Reductions and NP -- Completeness -- Satisfiability -- Proving
 NP-Completeness -- Circuit SAT, CNFSAT, 3SAT problems.
+
 \hfill *Total Periods: 45*
 
 ** COURSE OUTCOMES
@@ -77,13 +78,3 @@ After the completion of this course, students will be able to:
 5. S. Sridhar, ``Design and Analysis of Algorithms'', First Edition,
    Oxford University Press, 2014
 
-* COMMENT ** CO TO PO MAPPING
-| PO/PSO | 1 | 2 | 3 | 4 |
-|--------+---+---+---+---|
-| CO1    |   |   |   |   |
-| CO2    |   |   |   |   |
-| CO3    |   |   |   |   |
-| CO4    |   |   |   |   |
-| CO5    |   |   |   |   |
-|--------+---+---+---+---|
-| Course |   |   |   |   |

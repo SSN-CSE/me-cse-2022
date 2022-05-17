@@ -1,4 +1,4 @@
-
+* 
 :properties:
 :author: Suresh J
 :date: 04.05.2022										
@@ -13,7 +13,6 @@
 - To understand the concepts of web site development
 - To learn web application development using Javascript based framework
 - To learn web application development using Python based framework
-
 
 {{{unit}}}
 | UNIT I | INTRODUCTION | 5 |
@@ -35,9 +34,9 @@ Getting Started with NodeJS; Introduction to Express; Saving time with Express: 
 |Unit V|BUILDING WEB APPLICATIONS  |6|
 Form Handling: Sending Client data to Server - HTML forms - Form Handling with Express; Sending Email; Implementing MVC in Express
 
-\hfill *Total: 30*
+\hfill *Total Periods: 30*
 
-** Suggested Mini-projects
+** SUGGESTED MINI-PROJECTS
 - Create a college website using HTML5 and CSS3
 - Develop a MVC based web application for a Super Market Billing System. 
 - Develop online exam web application using AngularJS
@@ -45,20 +44,19 @@ Form Handling: Sending Client data to Server - HTML forms - Form Handling with E
 - Develop a web application for student information system that allows to perform CRUD operations using ExpressJS and MySQL
 - Develop Library Management System using  ExpressJS and MySQL
 
-\hfill *Total: 15*
+\hfill *Total Periods: 15*
 
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to:
-- Build a website using HTML and CSS (K3). 
-- Outline client-side programming (K2)
-- Develop web application using AngularJS MVW framework (K3). 
-- Examine the web applications built using NodeJS (K4).
-- Develop web application using java script-based framework (K3). 
+1. Build a website using HTML and CSS (K3). 
+2. Outline client-side programming (K2)
+3. Develop web application using AngularJS MVW framework (K3). 
+4. Examine the web applications built using NodeJS (K4).
+5. Develop web application using java script-based framework (K3). 
 
 ** REFERENCES
 1. Jeffrey C Jackson, Web Technologies A Computer Science Perspective, Pearson Education, 2011. (Unit I) 
-2.	Deitel and Deitel, Nieto, Internet and World Wide Web - How to Program, Prentice Hall, 5th Edition, 2011. (Unit II) 
-3.	Nate Murray, Felipe Coury, Ari Lerner, and Carlos , ``Ng-book: The Complete Guide to Angular'' ,  Fullstack.io, 2020 (Unit III)
-4.	Ethan Brown, ``Development with Node and Express'', O'Reilly, 1st Edition, 2014 (Unit IV)
-5.	Adrian Holovaty, Jacob K Moss, ``Django - The definitive Guide to Django'', Apress Publishers, 2008. (Unit V)
-
+2. Deitel and Deitel, Nieto, Internet and World Wide Web - How to Program, Prentice Hall, 5th Edition, 2011. (Unit II) 
+3. Nate Murray, Felipe Coury, Ari Lerner, and Carlos , ``Ng-book: The Complete Guide to Angular'' ,  Fullstack.io, 2020 (Unit III)
+4. Ethan Brown, ``Development with Node and Express'', O'Reilly, 1st Edition, 2014 (Unit IV)
+5. Adrian Holovaty, Jacob K Moss, ``Django - The definitive Guide to Django'', Apress Publishers, 2008. (Unit V)

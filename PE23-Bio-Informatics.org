@@ -1,14 +1,13 @@
-* <<<CP1236>>> BIO INFORMATICS
+* 
 :properties:
 :author: S. Kavitha
 :date: 15 May 2022
 :end:
 
 #+startup: showall
-
-{{{credits}}}
-|L|T|P|C|
-|3 |0|0|3 |
+{{{title-tab}}}
+| CODE | COURSE TITLE    | L | T | P | C |
+|      | BIO INFORMATICS | 3 | 0 | 0 | 3 |
 
 
 ** COURSE OBJECTIVES
@@ -72,4 +71,3 @@ After the completion of this course, students will be able to
    Oxford University Press, 2008
 3. Rui Jiang, Xuegong Zhang, Michael Q Zhang, ``Basics of
    Bioinformatics'', Tsinghua University Press, Springer, 2013
- 

@@ -1,16 +1,15 @@
-* <<<CP1324>>> INFORMATION RETRIEVAL TECHNIQUES
+* 
 :properties:
 :author: R. Priyadharsini
 :date: 13 May 2022
 :end:
 
 #+startup: showall
+{{{title-tab}}}
+| CODE | COURSE TITLE                     | L | T | P | C |
+|      | INFORMATION RETRIEVAL TECHNIQUES | 3 | 0 | 0 | 3 |
 
-{{{credits}}}
-|L|T|P|C|
-|3|0|0|3|
-
-** Course Objectives
+** COURSE OBJECTIVES
 - To understand the basics of information retrieval with pertinence to
   modeling techniques
 - To learn various components of IR systems 
@@ -19,7 +18,7 @@
 - To explore various IR applications using case studies
 
 {{{unit}}}
-|Unit I|Introduction and Modeling|9| 
+|UNIT I|INTRODUCTION AND MODELING|9| 
 Basic Concepts: Retrieval process -- Architecture -- Boolean
 retrieval; IR Models: Taxonomy and characterization of IR models --
 Classical IR models -- Alternative set theoretic models -- Alternative
@@ -27,7 +26,7 @@ algebraic models; Models for Browsing; Retrieval Evaluation:
 Performance evaluation
 
 {{{unit}}}
-|Unit II|Indexing and Querying|9| 
+|UNIT II|INDEXING AND QUERYING|9| 
 Indexing: Inverted indices -- Suffix trees -- Suffix arrays --
 Burrows-wheeler transform; Querying: Query languages -- Query operations: Relevance
 feedback and query expansion - Automatic local and global analysis;
@@ -35,36 +34,35 @@ Text Properties; Text Operations: Text preprocessing -- Text
 compression
 
 {{{unit}}}
-|Unit III|Searching|9| 
+|UNIT III|SEARCHING|9| 
 Searching: Sequential searching -- Pattern matching -- Compression; Searching the
 Web: Characteristizing the Web -- Search engines -- Browsing --
 Searching using hyperlinks
 
 {{{unit}}}
-|Unit IV|Classification and Clustering|9| 
-Text Classification: Naïve Bayes; Vector Space Classification: Rocchio
+|UNIT IV|CLASSIFICATION AND CLUSTERING|9| 
+Text Classification: Naive Bayes; Vector Space Classification: Rocchio
 -- k-Nearest Neighbour; Flat Clustering: K-Means -- Model-based
 clustering; Hierarchical Clustering; Matrix Decompositions and Latent
 Semantic Indexing
 
 {{{unit}}}
-|Unit V|Applications|9|
+|UNIT V|APPLICATIONS|9|
 XML Retrieval -- Multimedia IR -- Parallel and Distributed IR --
 Digital Libraries -- Social Media Retrieval -- Content-based Image
 Retrieval -- Advancements in Reference collection.
 
-\hfill *Total: 45*
+\hfill *Total Periods: 45*
 
-** Course Outcomes
+** COURSE OUTCOMES
 After the completion of this course, students will be able to: 
-- Apply information retrieval models for document retrieval. (K3)
-- Develop components of an information retrieval system. (K3)
-- Apply search strategies for information retrieval. (K3)
-- Apply machine learning techniques to text classification and clustering to improve performance of IR system. (K3)
-- Apply IR techniques for various applications. (K3)
+1. Apply information retrieval models for document retrieval. (K3)
+2. Develop components of an information retrieval system. (K3)
+3. Apply search strategies for information retrieval. (K3)
+4. Apply machine learning techniques to text classification and clustering to improve performance of IR system. (K3)
+5. Apply IR techniques for various applications. (K3)
 
-
-** References
+** REFERENCES
 1. Ricardo Baeza-Yates, Berthier Ribeiro Neto, ``Modern Information
    Retrieval: The concepts and Technology behind Search'', ACM Press
    Books, Second Edition, 2011. (Units 1, 2, 3, 5)
@@ -75,4 +73,4 @@ After the completion of this course, students will be able to:
    ``Information Retrieval - Implementing and Evaluating Search
    Engines'', The MIT Press, Cambridge, Massachusetts London, England,
    2010
-
+   

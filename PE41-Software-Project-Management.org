@@ -1,16 +1,15 @@
-* <<<CP1322>>> SOFTWARE PROJECT MANAGEMENT
+* 
 :properties:
 :author:  Angel Deborah S
 :date: 27 April 2022   
 :end:
 
 #+startup: showall
+{{{title-tab}}}
+| CODE | COURSE TITLE                | L | T | P | C |
+|      | SOFTWARE PROJECT MANAGEMENT | 3 | 0 | 0 | 3 |
 
-{{{credits}}}
-| L | T | P | C |
-| 3 | 0 | 0 | 3 |
-
-** Course Objective
+** COURSE OBJECTIVE
 
 - To understand the basic concept of project management
 - To learn the various costings and life cycle management
@@ -21,41 +20,39 @@
 
 
 {{{unit}}}
-|Unit I|Project Management |9|
+|UNIT I|PROJECT MANAGEMENT |9|
 Software Project Management: Approaches - Project acquisition - Initiation - Planning - Execution - Execution control - Change management - Scheduling - Project closure
 {{{unit}}}
-|Unit II|Process Models & Lifecycle Management|9|
+|UNIT II|PROCESS MODELS & LIFECYCLE MANAGEMENT|9|
 Introduction to life cycle models - Agile development models - Extreme programming - Scrum; Project planning - Metrics of project size estimation - Project estimation techniques - Empirical estimation techniques - COCOMO  - Halstead - Staffing level; ISO 9000 - SEI CMM -SPICE - PSP
 
 {{{unit}}}
-|Unit III|Risk Management|9|
+|UNIT III|RISK MANAGEMENT|9|
 Perspectives of Risk Management - Risk Definition - Risk Categories - Risk Assessment: Approaches, techniques and good practices - Risk Identification / Analysis / Prioritization - Risk Control (Planning / Resolution / Monitoring) - Risk Retention - Risk Transfer - Failure Mode and Effects Analysis (FMEA) - Operational Risks - Supply Chain Risk Management.
 
 {{{unit}}}
-|Unit IV|Metrics|9|
+|UNIT IV|METRICS|9|
 Need for Software Metrics: scope, basics, framework for software measurement - Product Metrics: Size Metrics, Complexity Metrics, Halsteads Product Metrics, Quality Metrics- Process metrics: Empirical Models, Statistical Models,Theory based Models,Composite Models, Reliability Models- Measuring Internal and External
 Product Attributes.
 
 {{{unit}}}
-|Unit V|People Management|9|
+|UNIT V|PEOPLE MANAGEMENT|9|
 Leadership styles - Developing Leadership skills - Leadership assessment - Motivating People - Organizational strategy - Management - Team building - Delegation - Art of Interviewing People - Team Management - Rewarding - Client Relationship Management.
 
-\hfill *Total: 45*
+\hfill *Total Periods: 45*
 
-** Course Outcome
+** COURSE OUTCOMES
 After the completion of this course, the students will be able to:
-- Summarize various steps involved in software project management (K2)
-- Choose an appropriate process model and estimate project cost and effort required (K5)
-- Identify existing risks and perform risk assessment (K3)
-- Choose appropriate metrics for software project management (K3)
-- Outline leadership styles and team building. (K2)
+1. Summarize various steps involved in software project management (K2)
+2. Choose an appropriate process model and estimate project cost and effort required (K5)
+3. Identify existing risks and perform risk assessment (K3)
+4. Choose appropriate metrics for software project management (K3)
+5. Outline leadership styles and team building. (K2)
 
-
-** References
+** REFERENCES
 1. Murali Chemuturi, Thomas M. Cagley, ``Mastering Software Project Management: Best Practices, Tools and Techniques'', J. Ross Publishing, 2010.(UNIT I)
 2. Rajib Mall, ``Fundamentals of Software Engineering'', 3rd edition, PHI Learning Pvt. Ltd., 2009.(UNIT II)
 3. Ravindranath Pandian, ``Applied Software Risk Management A Guide for Software Project Managers'', Auerbach Publication, 2007. (UNIT III)
 4. Antonio Borghesi, Barbara Gaudenzi, ``Risk Management: How to Assess, Transfer and Communicate Critical Risks: Perspectives in Business Culture'',Illustrated Edition, Springer, 2012. (UNIT III)
 5. Norman Fenton, James Bieman, ``Software Metrics: A Rigorous and Practical Approach'', 3rd edition, CRC Press, 2015.(UNIT IV)
 6. Bob Hughes, Mike Cotterell, Rajib Mall, ``Software Project Management'', Sixth  Edition, Tata McGraw Hill, 2018.(UNIT I, V)
-

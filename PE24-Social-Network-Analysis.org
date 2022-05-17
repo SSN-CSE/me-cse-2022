@@ -1,16 +1,15 @@
-* <<<CP1333>>> SOCIAL NETWORK ANALYSIS 
+* 
 :properties:
 :author: S V Jansi Rani
 :date: 12 May 2022
 :end:
 
 #+startup: showall
+{{{title-tab}}}
+| CODE | COURSE TITLE            | L | T | P | C |
+|      | SOCIAL NETWORK ANALYSIS | 3 | 0 | 0 | 3 |
 
-{{{credits}}}
-|L|T|P|C|
-|3|0|0|3|
-
-** Course Objectives
+** COURSE OBJECTIVES
 - To understand the components of the social networks. 
 - To execute the models and visualize the social network using tools. 
 - To learn the mining of communities in the social network. 
@@ -18,7 +17,7 @@
 - To know the applications of social networks in real time systems. 
 
 {{{unit}}}
-|Unit I | Introduction 	|9| 
+|UNIT I | INTRODUCTION 	|9| 
 The Semantic Web: Limitations of current web -- Development of
 semantic web -- Emergence of the social web; Statistical properties of
 social networks; Social Network Analysis: Development of social
@@ -27,7 +26,7 @@ Discussion; Blogs and online communities -- Web-based networks.
 
 
 {{{unit}}} 
-|Unit II|Modeling and Visualization |9| 
+|UNIT II|MODELING AND VISUALIZATION |9| 
 Modelling and aggregating social network data: Aggregating and
 reasoning with social network data -- Advanced representations;
 Visualization of Social Networks: Centrality -- Clustering --
@@ -35,14 +34,14 @@ Node-Edge diagrams; Visualizing online social networks: Node-Link
 Diagrams -- Matrix-based representations
 
 {{{unit}}} 
-|Unit III|Mining Communities |9| 
+|UNIT III|MINING COMMUNITIES |9| 
 Random walks in social networks and their applications: Random walks
 on graphs -- Algorithms -- Applications; Detecting Communities in
 Social Networks: Core methods -- Emerging fields and problems; Node
 classification in social networks.
 
 {{{unit}}} 
-|Unit IV| EVOLUTION OF SOCIAL NETWORKS  |9| 
+|UNIT IV| EVOLUTION OF SOCIAL NETWORKS  |9| 
 Evolution in Social Networks: Framework -- Tracing  evolving
 communities; Models and Algorithms for social influence analysis:
 Influence related statistics -- Social similarity and influence --
@@ -53,25 +52,24 @@ Prediction in social networks: Feature based link prediction --
 Bayesian probabilistic models -- Probabilistic relational models
 
 {{{unit}}} 
-|Unit V|Applications |9|
+|UNIT V|APPLICATIONS |9|
 A learning based approach for real time emotion classification of
 tweets; A new linguistic approach to assess the opinion of users in
 social network environments; Explaining scientific and technical
 emergence forecasting; Social network analysis for biometric template
 protection
 
-\hfill *Total:45*
+\hfill *Total Periods:45*
 
-** Course Outcomes
+** COURSE OUTCOMES
 After the completion of this course, students will be able to:  
-- Explain the components of social networks (K2). 
-- Make use of the tools, to  visualize social networks (K3). 
-- Expalin the mining of communities in social networks (K2). 
-- Utilize the models and algorithms to find the experts and links of social networks (K3). 
-- Apply social netwoking concepts for various real time systems (K3). 
+1. Explain the components of social networks (K2). 
+2. Make use of the tools, to  visualize social networks (K3). 
+3. Expalin the mining of communities in social networks (K2). 
+4. Utilize the models and algorithms to find the experts and links of social networks (K3). 
+5. Apply social netwoking concepts for various real time systems (K3). 
 
-      
-** References
+** REFERENCES
 1. Peter Mika, ``Social Networks and the Semantic Web'', Springer, 1st
    edition, 2007. (Unit 1 - Chapter 1,2,3, Unit 2 -Chapter 5)
 2. Borko Furht,``Handbook of Social Network Technologies and

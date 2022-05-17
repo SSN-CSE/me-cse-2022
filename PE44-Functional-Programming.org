@@ -1,24 +1,13 @@
-* <<<PE107>>> FUNCTIONAL PROGRAMMING
+* 
 :properties:
 :author: S.Rajalakshmi, R Kanchana
 :date: 
 :end:
+
 #+startup: showall
-   
-#+BEGIN_COMMENT
-|                |    | PO1 | PO2 | PO3 | PO4 | PO5 | PO6 | PO7 | PO8 | PO9 | PO10 | PO11 | PO12 | PSO1 | PSO2 | PSO3 |
-|                |    |  K3 |  K4 |  K5 |  K5 |  K6 |   - |   - |   - |   - |    - |    - |    - |   K5 |   K3 |   K6 |
-| CO1            | K3 |   3 |   2 |   2 |   2 |   1 |   0 |   0 |   2 |   3 |    2 |    0 |    3 |    2 |    3 |    1 |
-| CO2            | K3 |   3 |   2 |   2 |   2 |   1 |   0 |   0 |   2 |   3 |    2 |    0 |    3 |    2 |    3 |    1 |
-| CO3            | K3 |   3 |   2 |   2 |   2 |   1 |   0 |   0 |   2 |   3 |    2 |    0 |    3 |    2 |    3 |    1 |
-| CO4            | K3 |   3 |   2 |   2 |   2 |   1 |   0 |   0 |   2 |   3 |    2 |    0 |    3 |    2 |    3 |    1 |
-| CO5            | K3 |   3 |   2 |   2 |   2 |   1 |   0 |   0 |   2 |   3 |    2 |    0 |    3 |    2 |    3 |    1 |
-| Score          |    |  15 |  10 |  10 |  10 |   5 |   0 |   0 |  10 |  15 |   10 |    0 |   15 |   10 |   15 |    5 |
-| Course Mapping |    |   3 |   2 |   2 |   2 |   1 |   0 |   0 |   2 |   3 |    2 |    0 |    3 |    2 |    3 |    1 |
-#+END_COMMENT
-{{{credits}}}
-| L | T | P | C |
-| 3 | 0 | 0 | 3 |
+{{{title-tab}}}
+| CODE | COURSE TITLE           | L | T | P | C |
+|      | FUNCTIONAL PROGRAMMING | 3 | 0 | 0 | 3 |
 
 ** COURSE OBJECTIVES
 - To introduce various programming paradidgms
@@ -58,106 +47,22 @@ Liveness -- Safe access to shared data -- Examples in Java.
 
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to: 
-- Develop programs in C using imperative programming paradigm (K3)
-- Apply object-oriented programming paradigm and explore some
-  examples in C++ or Java or Python (K3)
-- Apply functional programming paradigm in Haskell (K3)
-- Develop programs in Prolog using logic programming paradigm (K3)
-- Solve Java programs using concurrent programming paradigm (K3).
+1. Develop programs in C using imperative programming paradigm (K3)
+2. Apply object-oriented programming paradigm and explore some
+   examples in C++ or Java or Python (K3)
+3. Apply functional programming paradigm in Haskell (K3)
+4. Develop programs in Prolog using logic programming paradigm (K3)
+5. Solve Java programs using concurrent programming paradigm (K3).
 
-** TEXT BOOKS
+** REFERENCES
 1. Ravi Sethi, Viswanatha K V, ``Programming Languages : Concepts and
    constructs'', 2nd Edition, Pearson, 2011 (Unit I, III, IV, V)
 2. Allan B Tucker, Robert E Noonan, ``Programming Languages:
    Principles and Paradigms'', 2nd Edition, McGraw Hill, 2012 - (Unit II, III, IV)
-
-** REFERENCES
-1. Michael Scott, ``Programming Language Pragmatics'', 4th Edition,
+3. Michael Scott, ``Programming Language Pragmatics'', 4th Edition,
    Morgan Kaufmann, 2015
-2. Robert W Sebesta,``Concepts of Programming Languages'', 11th
+4. Robert W Sebesta,``Concepts of Programming Languages'', 11th
    Edition, Pearson, 2016
-3. Maurizio Gabbrielli, Simone Martini, ``Programming Languages:
+5. Maurizio Gabbrielli, Simone Martini, ``Programming Languages:
    Principles and Paradigms'', Springer, 2010
    
-#+BEGIN_COMMENT
-   
-
-* <<<CP1335>>> FORMAL VERIFICATION
-:properties:
-:author: S Sheerazuddin
-:date: 11 July 2018
-:end:
-
-#+startup: showall
-
-{{{credits}}}
-| L | T | P | C |
-| 3 | 0 | 0 | 3 |
-
-** Course Objectives
-- To understand the need of logics for specification and verification
-  of computer systems.
-- To learn program correctness using Hoare Logic.
-- To learn the skill of writing formal specifications in LTL and CTL.
-- To learn model checking algorithms for LTL and CTL.
-- To learn symbolic model checking for LTL and CTL.
-- To learn Bounded model checking for LTL.
-
-{{{unit}}}
-| Unit I | Foundations | 9 |
-Foundations; Propositional Logic: Syntax -- Semantics -- Resolution;
-Predicate Logic: Syntax -- Semantics -- Resolution; LTL; Syntax --
-Semantics -- Specifications in LTL; CTL: Syntax -- Semantics --
-Specifications in CTL; CTL* and the expressive powers of LTL and CTL
-
-{{{unit}}}
-| Unit II | Hoare Logic and Program Correctness | 9 |
-Foundations; A framework for program correctness: A core programming
-language -- Hoare triples -- Partial and total correctness -- Program
-variables and logical variables; Proof calculus for partial
-correctness: Proof rules -- Proof tableaux; Proof calculus for total
-correctness.
-
-{{{unit}}}
-| Unit III | Model Checking | 9 |
-Foundations; Model-checking algorithms: The CTL model-checking
-algorithm -- CTL model checking with fairness -- The LTL
-model-checking algorithm; CTL* Model-checking algorithm; Model
-Checking using Automata; Checking Emptiness; Translating LTL into
-Automata; On-the-fly Model checking.
-
-{{{unit}}}
-|Unit IV|Symbolic Model Checking|9|
-Binary Decision Diagrams: Representing Boolean formulas --
-Representing Kripke Structures; Fixpoint Representations; Symbolic
-Model Checking for CTL; Fairness in Symbolic Model Checking;
-Counterexamples and Witnesses; Relational Product Computations;
-Symbolic Model Checking for LTL; NuSMV.
-
-{{{unit}}}
-| Unit V | Bounded Model Checking | 9 |
-Foundations; SAT/SMT Solvers; Bounded Semantics of LTL; Propositional
-Encodings of LTL; Completeness; Induction; Interpolation; Completeness
-with Interpolation; Invariant Strengthening; Bounded Model Checking
-for Hybrid Automata.
-
-\hfill *Total: 45*
-
-** Course Outcomes
-After the completion of this course, students will be able to:
-- Prove partial correctness of simple programs using Hoare logic. (K3)
-- Write formal specifications in CTL and LTL. (K3)
-- Specify and Verify simple systems using NuSMV. (K3)
-- Write programs using SAT/SMT solvers. (K3)
-
-** References
-1. Edmund Clarke, Orna Grumberg, and Doron Peled, ``Model Checking'',
-   The MIT Press, 1999. (Units III and IV)
-2. M. Huth and M. Ryan, ``Logic in Computer Science--Modeling and
-   Reasoning about systems'', Second Edition, Cambridge University
-   Press, 2004. (Units I,II and III)
-3. Armin Biere ``Bounded Model Checking'', Handbook of Satisfiability,
-   IOS Press, 2009. (Unit V)
-4. C Baier and J Katoen, ``Principles of Model checking'', The MIT
-   Press, 2008.
-#+END_COMMENT

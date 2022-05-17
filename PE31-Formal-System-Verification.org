@@ -7,8 +7,8 @@
 
 #+startup: showall
 {{{title-tab}}}
-| CODE    | COURSE TITLE               | L | T | P | E | C |
-| UCS2822 | FORMAL SYSTEM VERIFICATION | 3 | 0 | 0 | 0 | 3 |
+| CODE | COURSE TITLE               | L | T | P | C |
+|      | FORMAL SYSTEM VERIFICATION | 3 | 0 | 0 | 3 |
 
 ** COURSE OBJECTIVES
 - To understand the need of logics for specification and verification of computer systems
@@ -58,7 +58,6 @@ Eliminating timing parameters -- Region transition systems -- The TCTL
 model-checking algorithm; Model checkers for Timed Automata: UPPAAL --
 KRONOS.
 
-
 \hfill *Total Periods: 45*
 
 ** COURSE OUTCOMES
@@ -68,7 +67,6 @@ After the completion of this course, students will be able to
 3. Develop formal properties and specifications in CTL and LTL (K3)
 4. Develop and verify simple systems using NuSMV (K3)
 5. Develop and verify simple systems using UPPAAL (K3)
-
 
 ** REFERENCES
 1. M Huth, M Ryan, ``Logic in Computer Science -- Modeling and
@@ -88,15 +86,4 @@ After the completion of this course, students will be able to
    ``Verification of Sequential and Concurrent Programs'', Springer,
    3rd edition, 2009.
 
-* COMMENT ** CO TO PO/PSO MAPPING
 
-| PO/PSO |  1 |  2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 |  1 | 2 |
-|--------+----+----+---+---+---+---+---+---+---+----+----+----+----+---|
-| CO1    |  3 |  2 |   |   |   |   |   |   |   |    |    |  2 |  2 |   |
-| CO2    |  3 |  2 |   |   |   |   |   |   |   |    |    |    |  2 |   |
-| CO3    |  3 |  2 |   |   |   |   |   |   |   |    |    |    |  2 |   |
-| CO4    |  3 |  2 |   |   |   |   |   |   |   |    |    |    |  2 |   |
-| CO5    |  3 |  2 |   |   |   |   |   |   | 3 |  3 |    |    |  3 |   |
-|--------+----+----+---+---+---+---+---+---+---+----+----+----+----+---|
-| Score  | 15 | 10 |   |   |   |   |   |   | 3 |  3 |    |  2 | 11 |   |
-| Course |  3 |  2 |   |   |   |   |   |   | 3 |  3 |    |  2 |  3 |   |

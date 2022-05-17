@@ -1,4 +1,4 @@
-* 
+*  
 :properties:
 :author: Dr. V. Balasubramanian and Dr. J. Bhuvana
 :date: 12-04-2021
@@ -6,13 +6,11 @@
 
 #+startup: showall
 {{{title-tab}}}
-| CODE    | COURSE TITLE                     | L | T | P | E | C |
-| UCS2602 | SECURITY PRINCIPLES AND PRACTICE | 0 | 0 | 0 | 0 | 3 |
+| CODE | COURSE TITLE                     | L | T | P | C |
+|      | SECURITY PRINCIPLES AND PRACTICE | 3 | 0 | 0 | 3 |
 
 ** R2021 CHANGES :noexport:
 New Syllabus
-
-#+tblfm: @>$3..@>$>='(ceiling (/ (* 1.0 (apply '+ '(@<<..@>>)))(length '(@<<..@>>))));N
 
 ** COURSE OBJECTIVES
 - To study about the essentials of computer security
@@ -40,7 +38,7 @@ Authentication: Secure Hash Functions -- HMAC -- RSA -- Diffie-Hellman
 -- Elliptic curve arithmetic -- Elliptic curve cryptography
 
 {{{unit}}}      
-| UNIT III | Network Protocols | 9 |
+| UNIT III | NETWORK PROTOCOLS | 9 |
 Protocols Using Shared Key Cryptography: Entity Authentication
 Protocols -- Server-Less Key Establishment -- Server-Based Key
 Establishment; Authentication and Key Transport Using Public Key
@@ -49,7 +47,7 @@ Protocols; Key Agreement Protocols: Diffie-Hellman Key Agreement --
 Diffie-Hellman Protocols with Explicit Authentication
 
 {{{unit}}}
-| UNIT IV | IoT and Cloud Security  | 9 |
+| UNIT IV | IOT AND CLOUD SECURITY  | 9 |
 Cloud and IoT security: Cloud Computing -- Cloud Security Concepts --
 Cloud Security Approaches; Transport Layer Security: TLS -- HTTPS --
 SSH; Electronic Mail security: PGP, S/MIME -- IP security -- Web
@@ -57,12 +55,11 @@ Security; IP Security: IPSec
 
 
 {{{unit}}}
-| UNIT V |  Information Security                          | 9 |
+| UNIT V | INFORMATION SECURITY | 9 |
 The Nature of Security Policies -- Types of Security Policies -- The
 Role of Trust; Confidentiality policy:The Bell-LaPadula Model;
 Integrity policy: Clark-Wilson Integrity Model; Availability policy:
 Denial of Service Models; Hybrid policy: Chinese Wall Model
-
 
 \hfill *Total Periods: 45*
 
@@ -75,7 +72,6 @@ After the completion of this course, students will be able to
 5. Explain the functionality of access control mechanisms, Compare and contrast various security policies  (K3).
 
 ** REFERENCES
-
 1. William Stallings, Lawrie Brown, ``Computer Security Principles and
    Practice'', Seventh Edition, Pearson, 2019. (Unit I, II)
 2. William Stallings, "Network Security Essentials: Applications and
@@ -92,15 +88,3 @@ After the completion of this course, students will be able to
 11. William Stallings, ``Network Security Essentials: Applications and    Standards'', Sixth Edition, Pearson, 2017.
 12. Mauricio Arregoces, Maurizio Portolani, ``Data Center    Fundamentals'', Cisco Press, 2003.
 
-    
-* COMMENT ** CO TO PO/PSO MAPPING
-| PO/PSO |  1 |  2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 |  1 | 2 |
-|--------+----+----+---+---+---+---+---+---+---+----+----+----+----+---|
-| CO1    |  3 |  2 |   |   |   |   |   |   |   |    |    |    |  2 |   |
-| CO2    |  2 |  2 |   |   |   |   |   |   |   |    |    |    |  2 |   |
-| CO3    |  2 |  2 |   |   |   |   |   |   |   |    |    |    |  2 |   |
-| CO4    |  2 |  2 |   |   |   |   |   |   |   |    |    |    |  2 |   |
-| CO5    |  2 |  2 |   |   |   |   |   |   |   |    |    |    |  2 |   |
-|--------+----+----+---+---+---+---+---+---+---+----+----+----+----+---|
-| Score  | 11 | 10 |   |   |   |   |   |   |   |    |    |    | 10 |   |
-| Course |  3 |  2 |   |   |   |   |   |   |   |    |    |    |  2 |   |

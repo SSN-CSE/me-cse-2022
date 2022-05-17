@@ -1,23 +1,22 @@
-* <<<PCP1178>>> MACHINE LEARNING 
+* 
 :properties:
 :author: S Kavitha
 :date: 05 May 2022
 :end:
 
 #+startup: showall
+{{{title-tab}}}
+| CODE | COURSE TITLE     | L | T | P | C |
+|      | MACHINE LEARNING | 3 | 0 | 0 | 3 |
 
-{{{credits}}}
-| L | T | P | C |
-| 3 | 0 | 0 | 3 |
-
-** Course Objectives
+** COURSE OBJECTIVES
 - To have a basic knowledge of the concepts and techniques of machine learning.
 - To learn the working of various machine learning algorithms on different learning types.
 - To understand the evolution and need of deep learning from machine learning.
 - To learn the basis of machine learning with python and H2O library.
 
 {{{unit}}}
-|Unit I |Introduction and Mathematical Foundation |8|
+|UNIT I |INTRODUCTION AND MATHEMATICAL FOUNDATION |8|
 Machine Learning: History -- Applications; Types of machine learning -- Design of a learning system -- Perspectives and issues in machine learning; 
 Basic statitics: Variance and Covariance -- Bias Variance tradeoff -- Curse of dimensionality -- Conditional Probability -- Naive Bayes Classifier; 
 Testing ML algorithms.
@@ -27,7 +26,7 @@ Introduction topics and chapters 1 & 2
 #+end_comment
 
 {{{unit}}}
-|Unit II| Supervised Learning |10| 
+|UNIT II| SUPERVISED LEARNING |10| 
 Regression: Introduction -- Linear Regression -- Least Squares -- Under fitting and Overfitting -- Cross-Validation - Lasso Regression -- Logistic Regression;
 Classification: Linear and Non-linear models -- Support Vector Machines -- Kernel Methods; K-Nearest Neighbours;
 Learning with Trees: constructing Decision Tree using ID3 - Classification and regression trees (CART);
@@ -38,7 +37,7 @@ Algorithms related to SL are in Unit2, Chapters 3, 8, 12 and 13
 #+end_comment
 
 {{{unit}}}
-|Unit III| Unsupervised Learning and Reinforcement Learning |9| 
+|UNIT III| UNSUPERVISED LEARNING AND REINFORCEMENT LEARNING |9| 
 Unsupervised Learning: Clustering Algorithms -- K-Means -- Hierarchical Clustering -- Cluster Validity;
 Dimensionality Reduction: Linear discriminant analysis -- Principal component analysis; 
 Reinforcement Learning: Terminoligies -- Markov decision process -- Sarsa and Q-learning Algorithms.
@@ -48,7 +47,7 @@ Algorithms related to USL are in Unit3, Chapters 6 and 11
 #+end_comment
 
 {{{unit}}}
-|Unit IV| Neural Networks and Deep Learning |9| 
+|UNIT IV| NEURAL NETWORKS AND DEEP LEARNING |9| 
 Neural Networks: The Brain and the Neuron -- Perceptron learning algorithm;
 Multi-Layer Perceptron: Going forwards -- Going backwards -- Back propagation error -- Multi-layer perceptron in Practice -- Examples of using the MLP;
 Deep Learning: Introduction -- Convolution Neural Networks -- Recurrent Neural Networks -- Use cases.
@@ -58,16 +57,16 @@ DL is introduced as an extension of ML
 #+end_comment
 
 {{{unit}}}
-|Unit V| ML using Python and H2O |9|
+|UNIT V| ML USING PYTHON AND H2O |9|
 ML Libraries: Introduction -- H2O -- Installation; Data preparation; Modelling, Running model; Grid search; Integration with Scikit learn.
 
 #+begin_comment
 Modofied to one lbrary as per suggestion with tpoics -- 3 chapters 
 #+end_comment
 
-\hfill *Total: 45*
+\hfill *Total Period: 45*
 
-** Course Outcomes
+** COURSE OUTCOMES
 On successful completion of this course, the student will be able to
 - Explain the basic concepts of machine learning (K2)
 - Analyze linear and non-linear techniques for classification problems (K4)
@@ -75,7 +74,7 @@ On successful completion of this course, the student will be able to
 - Analyze importance of neural networks in machine learning and deep learning (K4)
 - Develop a simple application using H2O (K3)
       
-** References
+** REFERENCES
 1. Stephen Marsland, ``Machine Learning - An Algorithmic
    Perspective'', Second Edition, Chapman and Hall/CRC Machine
    Learning and Pattern Recognition Series, 2015.
@@ -88,18 +87,4 @@ On successful completion of this course, the student will be able to
 5. Peter Flach, ``Machine Learning: The Art and Science of Algorithms
    that Make Sense of Data'', First Edition, Cambridge University
    Press, 2012. 
-
-#+begin_comment  
-** CO PO MAPPING 
-#+NAME: co-po-mapping
-|                |    |PO1 | PO2 | PO3 | PO4 | PO5 | PO6 | PO7 | PO8 | PO9 | PO10 | PO11 | 
-|                |    | K3 | K6  |  K6 |  K6 | K6  |     |     |     |     |      |      |     
-| CO1            | K2 |  2 |     |     |     |     |     |     |     |     |      |   2  |    
-| CO2            | K4 |  3 |  2  |  2  |  2  |  2  |     |     |     |     |      |      |  
-| CO3            | K3 |  3 |  2  |  2  |  2  |  2  |     |     |     |     |      |      |    
-| CO4            | K3 |  3 |  2  |  2  |  2  |  2  |     |     |     |     |      |      |    
-| CO5            | K2 |  2 |     |     |     |     |     |     |     |     |      |      |    
-| Total          |    | 13 |  6  |  6  |  6  |  6  |     |     |     |     |      |   2  |   
-| Course Mapping |    |  3 |  2  |  2  |  2  |  2  |     |     |     |     |      |   2  | 
-#+end_comment
 

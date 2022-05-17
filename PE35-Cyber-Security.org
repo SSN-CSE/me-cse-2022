@@ -1,4 +1,4 @@
-* <<<CP1204>>> CYBER SECURITY
+* 
 :properties:
 :author: Dr. S. Saraswathi 
 :date: 09-05-2022 
@@ -6,8 +6,8 @@
 
 #+startup: showall
 {{{title-tab}}}
-| CODE    | COURSE TITLE    | L | T | P | E | C |
-| 103 | CYBER SECURITY  | 3 | 0 | 3 | 0 | 4 |
+| CODE | COURSE TITLE   | L | T | P | C |
+|      | CYBER SECURITY | 2 | 0 | 2 | 3 |
 
 
 ** COURSE OBJECTIVES
@@ -37,10 +37,6 @@ Intrusion Detection: Host-Based Intrusion Detection -- Network-Based Intrusion D
 |UNIT V | INTRUSION PREVENTION   | 5 |
  Firewalls and Intrusion Prevention Systems:The Need for Firewalls -- Firewall Characteristics and Access Policy -- Types of Firewalls -- Firewall Basing -- Firewall Location and Configurations -- Intrusion Prevention Systems -- Example Unified Threat Management Products.
 
-#+begin_comment
-
-#+end_comment
-
 \hfill *Theory Periods: 30* 
 
 ** SUGGESTIVE EXPERIMENTS
@@ -66,7 +62,7 @@ After the completion of this course, students will be able to
 4. Apply intrusion detection system (K3)
 5. Apply intrusion prevention system (K3)
 
-** REFERENCE BOOKS
+** REFERENCES
 1. Anand Shinde, ``Introduction to Cyber Security Guide to the World of Cyber Security'', Notion Press, 2021. 
 2. Nina Godbole, Sunit Belapure, ``Cyber Security: Understanding Cyber Crimes, Computer Forensics and Legal Perspectives'', Wiley publisher, 2011.
 3. David Kim, Michael G. Solomon, ``Fundamentals of Information Systems Security'', Jones & Bartlett Learning publisher, 2013, 2021.
@@ -76,17 +72,14 @@ After the completion of this course, students will be able to
 7. Georgia Weidman, ``Penetration testing A Hands-On Introduction to Hacking'' San Francisco, 2014.
 
 #+begin_comment
-BOOK 1: Introduction to Cyber Security Guide to the World of Cyber Security By Anand Shinde • 2021 
+BOOK 1: Introduction to Cyber Security Guide to the World of Cyber Security By Anand Shinde 2021 
 unit 1: chapter 1( 1.1,1.2,1.3) and 2(2.2,2.3,2.4)
 BOOK 2: Cyber Security Nina Godbole, Sunit Belapure
 Chapter1(Who are Cybercriminals?  Classifications of Cybercrimes, A Global Perspective on Cybercrimes)   unit 1:Chapter 5(Need Cyberlaws, The Indian IT Act, Cybercrime and Punishment )
-Book3.1: Fundamentals of Information Systems Security By David Kim, Michael G. Solomon • 2013
-Book 3.2: Fundamentals of Information Systems Securityn By David Kim, Michael G. Solomon •  unit 2 (Chapter 3 -40 pages) 2021
+Book3.1: Fundamentals of Information Systems Security By David Kim, Michael G. Solomon 2013
+Book 3.2: Fundamentals of Information Systems Securityn By David Kim, Michael G. Solomon unit 2 (Chapter 3 -40 pages) 2021
 Book 4 : The Basics of Hacking and Penetration Testing Authors: Patrick Engebretson (unit 3 downloaded chapter 2- 14 pages)
 BOOK 5:  CEH Official Certified Ethical Hacker Review Guide, Kimberly Graves ( unit 3: chapter 3 - 10 pages)
 Book 6: Computer Security Principles and Practice Third Edition William Stallings  (unit 4 -chapter 8 unit 5- chapter 9)
- 
 Book7: Penetration testing A Hands-On Introduction to Hacking San Francisco by Georgia Weidman 2014 (Lab)
-
 #+end_comment
-

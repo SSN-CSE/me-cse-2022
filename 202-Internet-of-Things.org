@@ -1,28 +1,15 @@
-* <<<CP1202>>> INTERNET OF THINGS
+* 
 :properties:
 :author: Dr.K.Madheswari, Dr. K R Sarath Chandran
 :date: 06 May 2022
 :end:
 
 #+startup: showall
+{{{title-tab}}}
+| CODE | COURSE TITLE       | L | T | P | C |
+|      | INTERNET OF THINGS | 3 | 0 | 0 | 3 |
 
-   ** CO PO MAPPING 
-#+NAME: co-po-mapping
-|                |    |PO1 | PO2 | PO3 | PO4 | PO5 | PO6 | PO7 | PO8 | PO9 | PO10 | PO11 | 
-|                |    | K3 | K6  |  K6 |  K6 | K6  |     |     |     |     |      |      |     
-| CO1            | K2 |  2 |     |     |     |     |     |     |     |     |      |      |    
-| CO2            | K2 |  2 |     |     |     |     |     |     |     |     |      |      |  
-| CO3            | K2 |  2 |     |     |     |     |     |     |     |     |      |      |    
-| CO4            | K3 |  3 |  2  |  2  |  2  |  2  |     |     |     |     |      |      |    
-| CO5            | K3 |  3 |  2  |  2  |  2  |  2  |     |     |     |     |      |      |    
-| Total          |    | 12 |  4  |  4  |  4  |  4  |     |     |     |     |      |      |   
-| Course Mapping |    |  3 |  2  |  2  |  2  |  2  |     |     |     |     |      |      |    
-
-{{{credits}}}
-| L | T | P | C |
-| 3 | 0 | 0 | 3 |
-
-** Course Objectives
+** COURSE OBJECTIVES
 - To explain the basics of IoT devices, protocols , communication APIs and deployment templates 
 - To design the simple IoT systems using Raspberry Pi/Arduino Pi 
 - To explain various IoT protocols
@@ -30,49 +17,41 @@
 - To design IoT solutions for industries.
 
 {{{unit}}}
-| Unit I |  Introduction to Internet of Things | 9 |
+| UNIT I |  INTRODUCTION TO INTERNET OF THINGS | 9 |
 Basic computer networking to Internet of things: Network Types -- Layered network models -- Addressing -- TCP/IP transport Layer. Definition and Characteristics of IoT -- Physical Design of IoT -- Logical Design of IoT -- IoT Enabling Technologies -- IoT Levels & Deployment Templates -- IoT and M2M
 
 
 {{{unit}}}
-| Unit II | Building IOT Systems | 9 |
+| UNIT II | BUILDING IOT SYSTEMS | 9 |
 IoT Physical devices and Endpoints: Basic building blocks of IoT Device -- Raspberry Pi -- Linux on Raspberry Pi -- Interfaces -- Programming Raspberry Pi with Python --Python packages for IOT: JSON -- XML -- HTTPLib -- URLLib -- SMTPLib -- XMPP -- Contiki OS -- Other IoT Platform: Arduino -- Intel Galileo and  Beaglebone boards. RFID--sensors. 
 
 {{{unit}}}
-| Unit III | IoT Protocols  | 9 |
+| UNIT III | IOT PROTOCOLS  | 9 |
 Introduction to IoT Protocols -- 6LoWPAN -- IEEE 802.11 -- WiFi -- 802.15 Bluetooth -- 802.15.4 -- Zigbee-- CoAP.
 
 {{{unit}}}
-| Unit IV | IoT Servers  | 9 |
+| UNIT IV | IOT SERVERS  | 9 |
 Cloud Storage Models and Communication APIs for IoT-- WAMP-Xively Cloud-- Python Web Application framework-- Designing a RESTful Web API-- Amazon Web Services for IoT-- MQTT  --Case studies for IoT Design : Home automation-- Smart Agriculture.
 
 
 {{{unit}}}
-| Unit V | Industrial Internet of Things (IIoT) | 9|
+| UNIT V | INDUSTRIAL INTERNET OF THINGS (IIOT) | 9|
 Introduction -- Industrial Process-- The Computer Integrated Manufacturing Pyramid (CIM)-- IIoT data flow-- Understanding the IIoT edge: features of the edge -- architecture and implementations. Implementing IOT industrial solution with cloud services.  
 
+\hfill *Total Period: 45*
 
-
-
-\hfill *Total: 45*
-
-** Course Outcomes
+** COURSE OUTCOMES
 After completion of this course, students should be able to:
+1. Explain the basics of IoT devices, protocols , communication APIs and deployment templates (K2)
+2. Design the simple IoT systems using Raspberry Pi/Arduino Pi (K3)
+3. Explain various IoT protocols (K2)
+4. Design an IoT system  using cloud environments (K3)
+5. Design IoT solutions for industries. (K3).
 
-- Explain the basics of IoT devices, protocols , communication APIs and deployment templates (K2)
-- Design the simple IoT systems using Raspberry Pi/Arduino Pi (K3)
-- Explain various IoT protocols (K2)
-- Design an IoT system  using cloud environments (K3)
-- Design IoT solutions for industries. (K3).
-
-** References
+** REFERENCES
 1. Sudip Misra, Anandarup Mukherjee and Arijit Roy, `` Introduction to IOT'' Published online by Cambridge University Press:  09 January 2021 (Unit 1)
 2. Arshdeep Bahga, Vijay Madisetti, Internet of Things: A hands-on Approach, UniversityPress, 2015 (1st edition) (Unit 1,2,3,4)
 3. Giacomo Veneri, "Antonio Capasso, "Hands-On Industrial Internet of Things Create a Powerful Industrial IoT Infrastructure Using Industry 4.0",  2018 (Unit 5)
 4. Adrian McEwen Hakim Cassimally, Designing the Internet of Things,Wiley, Nov2013, (1st edition)
 5. Olivier Hersent, David Boswarthick, Omar Elloum, ``The Internet of Things - Key applications and Protocols'', Wiley, 2012.
 6. Jan Holler, VlasiosTsiatsis, Catherine Mulligan, Stamatis , Karnouskos, Stefan Avesand, David Boyle,"From Machine - to-Machine to the Internet of Things - Introduction to a New Age of Intelligence", Elsevier, 2014.
- 
-
-
-

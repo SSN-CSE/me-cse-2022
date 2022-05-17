@@ -1,4 +1,4 @@
-*
+* 
 :properties:
 :author: J. SURESH & S LAKSHMI PRIYA
 :date: 26 April 2022
@@ -43,7 +43,7 @@ Big Data Analytics - Use Case: Prediction of diabetics.
 
 \hfill *Total Periods: 30*
 
-Suggestive Experiments (Python)
+** SUGGESTIVE EXPERIMENTS (Python)
 1. Text Classification on Medical-Data (EHR)
 2. Healthcare Recommendation Evaluator (Decision Support)
 3. Breast Cancer Detection
@@ -54,28 +54,17 @@ Suggestive Experiments (Python)
 
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to:
-- Explain the basic and advanced data analytics in public health (K2)
-- Utilize the available data sources for healthcare and develop a decision support system (K3)
-- Explain the predictive models and ways for processing healthcare data (K2)
-- Develop a model for diagnosing and predicting health issues using AI and machine learning (K3)
-- Analyze big data in healthcare using machine learning techniques (K4) 
+1. Explain the basic and advanced data analytics in public health (K2)
+2. Utilize the available data sources for healthcare and develop a decision support system (K3)
+3. Explain the predictive models and ways for processing healthcare data (K2)
+4. Develop a model for diagnosing and predicting health issues using AI and machine learning (K3)
+5. Analyze big data in healthcare using machine learning techniques (K4) 
 
 ** REFERENCES
-1.	Chandan K. Reddy and Charu C. Aggarwal, ``Healthcare Data Analytics'', CRC Press, Taylor & Francis Group, LLC., 2020 (Unit I & II)
+1. Chandan K. Reddy and Charu C. Aggarwal, ``Healthcare Data Analytics'', CRC Press, Taylor & Francis Group, LLC., 2020 (Unit I & II)
 2. Vikas, "Healthcare Analytics Made Simple: Techniques in Healthcare Computing using Machine Learning", PACKT publishers, 2018 (Unit III)
 3. Eduonix Learning Solutions, "Machine Learning for Healthcare Analytics Projects", PACKT Publishers, 1st Edition, 2018. (Unit IV) 
 4. Panta Keikhosrokiani, "Big Data Anlytics for Healthcare", Academic Press, 1st Edition, 2022. (Unit V)
 5. Arjun Panesar, "Machine Learning and AI for Healthcare", APress publications, 2nd Edition, 2020.
 
-
-** CO TO PO MAPPING
-| PO/PSO | 1 | 2 | 3 | 4 |
-|--------+---+---+---+---|
-| CO1    |   |   |   |   |
-| CO2    |   |   |   |   |
-| CO3    |   |   |   |   |
-| CO4    |   |   |   |   |
-| CO5    |   |   |   |   |
-|--------+---+---+---+---|
-| Course |   |   |   |   |
    

@@ -1,4 +1,4 @@
-* 
+*  
 :properties:
 :author: Praba, Maths
 :date: 16 May 2022
@@ -25,38 +25,56 @@ theory, estimation theory and multivariate analysis.
 
 {{{unit}}}
 | UNIT I | VECTOR SPACES  | 12 |
-Vector spaces -- Subspaces -- Linear combinations and system of Linear equations -- Linear Independence and Linear dependence – Basis and Dimensions  -- Applications in data science.
+Vector spaces -- Subspaces -- Linear combinations and system of Linear
+equations -- Linear Independence and Linear dependence - Basis and
+Dimensions -- Applications in data science.
 
 {{{unit}}}
 | UNIT II | LINEAR TRANSFORMATIONS | 12 |
-Linear transformations -- Null spaces Range -- Matrix representation of linear transformation –-- Eigenvalues --Eigenvectors -- Diagonalization.
+Linear transformations -- Null spaces Range -- Matrix representation
+of linear transformation --- Eigenvalues --Eigenvectors --
+Diagonalization.
 
 {{{unit}}}
 | UNIT III | ESTIMATION THEORY | 12 |
-Unbiased estimators -- Maximum likelihood estimation -- Curve fitting by principle of least squares -- Regression lines -- Applications in data science
+Unbiased estimators -- Maximum likelihood estimation -- Curve fitting
+by principle of least squares -- Regression lines -- Applications in
+data science
 
 {{{unit}}}
 | UNIT IV | TESTING OF HYPOTHESIS | 12 |
-Large sample test based on Normal distribution for single mean and difference of means -- Tests based on t, and F distributions for testing means and variances -- Contingency table (Test for Independency) -- Goodness of fit.
+Large sample test based on Normal distribution for single mean and
+difference of means -- Tests based on t, and F distributions for
+testing means and variances -- Contingency table (Test for
+Independency) -- Goodness of fit.
 
 {{{unit}}}
 | UNIT V | MULTIVARIATE ANALYSIS | 12 |
-Random vectors and matrices -- Mean vectors and covariance matrices -- Multivariate normal density and its properties -- Principal components -- Population principal components -- Principal components from standardized variables
+Random vectors and matrices -- Mean vectors and covariance matrices --
+Multivariate normal density and its properties -- Principal components
+-- Population principal components -- Principal components from
+standardized variables
 
 \hfill *Total Periods: 45*
 
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to:
-- Solve the problems using the concepts of vector spaces, and subspaces.(K3).
-- Apply linear transformation to diagonalise a given matrix and hence to find the eigen values of the given matrix. (K3).
-- Evaluate the consistency, efficiency and unbiasedness of estimators and apply for problems in data science. (K3)
-- Use statistical tests in testing hypotheses on data (K3).
-- Develop exploratory analysis of multivariate data, such as multivariate normal density and Population principal components.(K3)
+1. Solve the problems using the concepts of vector spaces, and
+   subspaces.(K3).
+2. Apply linear transformation to diagonalise a given matrix and hence
+   to find the eigen values of the given matrix. (K3).
+3. Evaluate the consistency, efficiency and unbiasedness of estimators
+   and apply for problems in data science. (K3)
+4. Use statistical tests in testing hypotheses on data (K3).
+5. Develop exploratory analysis of multivariate data, such as
+   multivariate normal density and Population principal
+   components.(K3)
  
-
 ** REFERENCES
-   1. Friedberg A.H, Insel A.J. and Spence L, Linear Algebra, Prentice Hall of India, New Delhi, 2004.
-2.	Strang G, Linear Algebra and its applications, Thomson (Brooks/Cole), New Delhi, 2005.
-3.	Narsingh Deo, Graph Theory with Applications to Engineering & Computer Science, Dover Publications, Inc. Mineola, New York , 2016.
-4.	Gupta S. C., Kapoor V. K., Fundamentals of Mathematical Statistics, Sultan and Sons, New Delhi, 2001.
+1. Friedberg A H, Insel A J, Spence L, ``Linear Algebra'', Prentice
+   Hall of India, New Delhi, 2004
+2. Strang G, ``Linear Algebra and its Applications'', Thomson
+   (Brooks/Cole), New Delhi, 2005
+3. Gupta S C, Kapoor V K, ``Fundamentals of Mathematical Statistics'',
+   Sultan and Sons, New Delhi, 2001.
  

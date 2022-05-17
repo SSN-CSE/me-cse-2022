@@ -1,4 +1,4 @@
-* 
+*  
 :properties:
 :author: J. SURESH
 :date: 26 April 2022
@@ -41,29 +41,18 @@ Compilers: Solidity - Ganache - Metamask - Truffle; Languages: Solidity - Go - J
 
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to:
-- Explain the  importance of distributed ledgers and need of blockchain (K2)
-- Describe decentralisation concepts and apply consensus algorithms (K3)
-- Explain the basics of cryptography and its applications in cryptocurrencies (K2)
-- Apply various distributed ledgers for business (K3)
-- Analyse appropriate techniques for designing trust-based business networks (K4)
+1. Explain the  importance of distributed ledgers and need of blockchain (K2)
+2. Describe decentralisation concepts and apply consensus algorithms (K3)
+3. Explain the basics of cryptography and its applications in cryptocurrencies (K2)
+4. Apply various distributed ledgers for business (K3)
+5. Analyse appropriate techniques for designing trust-based business networks (K4)
 
 
 ** REFERENCES
-- Nitin Gaur, Luc Desrosiers, Petr Novotny, Venkatraman Ramakrishna, "Hands-on Blockchain with Hyperledger", Packt Publishers, 2018. (Unit I & IV)
-- Antony Lewis, "The basics of Bitcoins and Blockchains", Mango Publishing, Coral Gabels (Unit III)
-- Imran Bashir, ``Mastering Blockchain'' Packt 2nd Edition, 2018. (Unit II, IV & V)
-- Kevin Solorio, Randall Kanna, David H. Hoover, "Hands-On Smart Contract Development with Solidity and Ethereum: From Fundamentals to Deployment", First Edition, OReilly Publications, 2019.
-- Will Button, "Hands-On Blockchain Development in 7 Days: Create a decentralized gaming application using Ethereum Paperback", Packt Publishers, 2019.
+1. Nitin Gaur, Luc Desrosiers, Petr Novotny, Venkatraman Ramakrishna, "Hands-on Blockchain with Hyperledger", Packt Publishers, 2018. (Unit I & IV)
+2. Antony Lewis, "The basics of Bitcoins and Blockchains", Mango Publishing, Coral Gabels (Unit III)
+3. Imran Bashir, ``Mastering Blockchain'' Packt 2nd Edition, 2018. (Unit II, IV & V)
+4. Kevin Solorio, Randall Kanna, David H. Hoover, "Hands-On Smart Contract Development with Solidity and Ethereum: From Fundamentals to Deployment", First Edition, OReilly Publications, 2019.
+5. Will Button, "Hands-On Blockchain Development in 7 Days: Create a decentralized gaming application using Ethereum Paperback", Packt Publishers, 2019.
 
-
-** CO TO PO MAPPING
-| PO/PSO | 1 | 2 | 3 | 4 |
-|--------+---+---+---+---|
-| CO1    |   |   |   |   |
-| CO2    |   |   |   |   |
-| CO3    |   |   |   |   |
-| CO4    |   |   |   |   |
-| CO5    |   |   |   |   |
-|--------+---+---+---+---|
-| Course |   |   |   |   |
    

@@ -1,4 +1,4 @@
-* 
+*  
 :properties:
 :author:
 :date:
@@ -6,8 +6,8 @@
 
 #+startup: showall
 {{{title-tab}}}
-| CODE | COURSE TITLE                      | L | T | P | E | C |
-|      | SOFTWARE CONFIGURATION MANAGEMENT | 3 | 0 | 0 | 0 | 3 |
+| CODE | COURSE TITLE                      | L | T | P | C |
+|      | SOFTWARE CONFIGURATION MANAGEMENT | 3 | 0 | 0 | 3 |
 
 ** R2021 CHANGES :noexport:
 1. A new syllabus
@@ -90,5 +90,4 @@ Upon completion of the course, the student should be able to
 6. Cesar de la Torre, Bill Wagner, Mike Rouses, ``.NET Microservices:
    Architecture for Containerized .NET Applications'', Microsoft
    Corporation, V5.) Edition, 2020.
-
-
+   

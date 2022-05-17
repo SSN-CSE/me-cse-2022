@@ -1,16 +1,15 @@
-* <<<CP1323>>> COMPUTER VISION
+* 
 :properties:
 :author: S. Manisha
 :date: 06 May 2022
 :end:
 
 #+startup: showall
+{{{title-tab}}}
+| CODE | COURSE TITLE    | L | T | P | C |
+|      | COMPUTER VISION | 3 | 0 | 0 | 3 |
 
-{{{credits}}}
-|L|T|P|C|
-|3|0|0|3|
-
-** Course Objectives
+** COURSE OBJECTIVES
 - To review image processing techniques for computer vision.
 - To understand shape and region analysis.
 - To understand Hough Transform and its applications to detect lines, circles, ellipses.
@@ -57,22 +56,20 @@ locating roadway -- road markings -- identifying road signs --
 locating pedestrians.
 
 
-\hfill *Total: 45*
+\hfill *Total Periods: 45*
 
-** Course Outcomes
+** COURSE OUTCOMES
 After the completion of this course, students will be able to: 
+1. Apply fundamental image processing techniques required for computer vision. (K3)
+2. Apply boundary and region descriptors and hough transforms. (K3)
+3. Apply 3D vision techniques. (K3)
+4. Apply image registration and transormation of image and perform camera calibration (K3)
+5. Analyze and develop applications using computer vision techniques. (K4)
 
-- Apply fundamental image processing techniques required for computer vision. (K3)
-- Apply boundary and region descriptors and hough transforms. (K3)
-- Apply 3D vision techniques. (K3)
-- Apply image registration and transormation of image and perform camera calibration (K3)
-- Analyze and develop applications using computer vision techniques. (K4)
-
-  
-** References
-1. E. R. Davies, ―Computer & Machine Vision‖, Fifth Edition, Academic Press, 2017.  (Units 1 to 5)
-2. D. L. Baggio et al., ―Mastering OpenCV with Practical Computer Vision Projects‖, Packt Publishing, 2012.
-3. Jan Erik Solem, ―Programming Computer Vision with Python: Tools and algorithms for analyzing images‖, O'Reilly Media, 2012. 
-4. Mark Nixon and Alberto S. Aquado, ―Feature Extraction & Image Processing for Computer Vision‖, Third Edition, Academic Press, 2012. 
-5. R. Szeliski, ―Computer Vision: Algorithms and Applications‖, Second edition, Springer 2022. 
-6. Simon J. D. Prince, ―Computer Vision: Models, Learning, and Inference‖, Cambridge University Press, 2012.
+** REFERENCES
+1. E R Davies, ``Computer and Machine Vision'', Fifth Edition, Academic Press, 2017.  (Units 1 to 5)
+2. D L Baggio et al., ``Mastering OpenCV with Practical Computer Vision Projects'', Packt Publishing, 2012.
+3. Jan Erik Solem, ``Programming Computer Vision with Python: Tools and Algorithms for Analyzing Images'', O'Reilly Media, 2012. 
+4. Mark Nixon, Alberto S Aquado, ``Feature Extraction & Image Processing for Computer Vision'', Third Edition, Academic Press, 2012. 
+5. R Szeliski, ``Computer Vision: Algorithms and Applications'', Second edition, Springer 2022. 
+6. Simon J D Prince, ``Computer Vision: Models, Learning, and Inference'', Cambridge University Press, 2012.

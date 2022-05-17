@@ -1,49 +1,57 @@
-* <<<CP1325>>> DATA VISUALIZATION TECHNIQUES 
+* 
 :properties:
 :author: M Saritha
 :date: 05 May 2022
 :end:
 
 #+startup: showall
+{{{title-tab}}}
+| CODE | COURSE TITLE                  | L | T | P | C |
+|      | DATA VISUALIZATION TECHNIQUES | 3 | 0 | 0 | 3 |
 
-{{{credits}}}
-|L|T|P|C|
-|3|0|0|3|
-
-** Course Objectives
+** COURSE OBJECTIVES
 - To introduce visual perception and core skills for visual analysis.
 - To visualize time-series, part-to-whole and ranking Analysis patterns.
 - To analyze the deviation and distribution of data in real time. 
 - To analyze correlation and multivariate patterns of data. 
 - To understand issues and best practices in information dashboard design. 
 
-|Unit I| Building Core Skills for Visual Analysis|10| 
+{{{unit}}}  
+|UNIT I| BUILDING CORE SKILLS FOR VISUAL ANALYSIS|10| 
 Information Visualization -- Prerequisites for Enlightening Analysis: Aptitudes and attitudes of effective Analysts -- Traits of meaningful data; Power of Visual Perception -- How Visual Perception Works -- Making Abstract Data Visible -- Analytical Interaction -- Analytical Navigation -- Optimal Quantitative Scales -- Reference Lines and Regions -- Trellises and Crosstabs -- Multiple Concurrent Views -- Focus and Context -- Details on Demand -- Over-plotting reduction 
 
-|Unit II| Time-Series Analysis, Part-to-whole and Ranking Analysis|9| 
+{{{unit}}}  
+|UNIT II| TIME-SERIES ANALYSIS, PART-TO-WHOLE AND RANKING ANALYSIS|9| 
 Time-series Analysis: Introduction -- Time-series patterns -- Time-series displays -- Time-series analysis techniques and best practices; Part-to-whole and Ranking Analysis: Introduction -- Part-to-whole and ranking patterns -- Part-to-whole and ranking displays -- Part-to-whole and ranking techniques and best practices; Creating graphs for time-series and ranking analysis (e.g. sales revenue)
 
-|Unit III| Deviation Analysis and Distribution Analysis|9| 
+{{{unit}}}  
+|UNIT III| DEVIATION ANALYSIS AND DISTRIBUTION ANALYSIS|9| 
 Deviation Analysis: Introduction -- Deviation analysis displays -- Deviation analysis techniques and best practices; Distribution Analysis: Introduction -- Describing distributions - Distribution patterns -- Distribution displays -- Distribution analysis techniques and best practices; Creating plots for deviation and distribution analysis (e. g. salary ditribution of employees)
 
-|Unit IV| Correlation Analysis and Multivariate Analysis|9| 
+{{{unit}}}  
+|UNIT IV| CORRELATION ANALYSIS AND MULTIVARIATE ANALYSIS|9| 
 Correlation Analysis: Introduction -- Describing correlations -- Correlation patterns -- Correlation displays -- Correlation analysis techniques and best practices; Multivariate Analysis: Introduction -- Multivariate patterns -- Multivariate displays -- Multivariate analysis techniques and best practices; Creating graphs and heatmaps for correlation and multivariate analysis of data (e. g. Marketing expenses)
 
-|Unit V| Information Dashboard Design|8| 
-Information Dashboard: What is a dashboard? -- Thirteen Common Mistakes in Dashboard Design -- Gestalt Principles of Visual Perception -- Characteristics of Well-designed Dashboard -- Designing Dashboards for Usability -- Creating a Simple Dashboard using Metabase (e. g. Sales, Marketing Anlaysis)
+{{{unit}}}  
+|UNIT V| INFORMATION DASHBOARD DESIGN|8| 
+Information Dashboard: Definition -- Thirteen Common
+Mistakes in Dashboard Design -- Gestalt Principles of Visual
+Perception -- Characteristics of Well-designed Dashboard -- Designing
+Dashboards for Usability -- Creating a Simple Dashboard using Metabase
+(e. g. Sales, Marketing Anlaysis)
 
 
-\hfill *Total: 45*
+\hfill *Total Periods: 45*
 
-** Course Outcomes
+** COURSE OUTCOMES
 After the completion of this course, students will be able to: 
-- Explain the core skills for visual analysis (K2)
-- Apply visualization techniques for time-series data and ranking patterns (K3)
-- Apply visualization techniques for finding the deviation and distribution of data patterns (K3)
-- Analyze correlation and multivariate patterns among data (K4)
-- Explain the characteristics of dashboard and develop dashboard for simple applications (K3)
+1. Explain the core skills for visual analysis (K2)
+2. Apply visualization techniques for time-series data and ranking patterns (K3)
+3. Apply visualization techniques for finding the deviation and distribution of data patterns (K3)
+4. Analyze correlation and multivariate patterns among data (K4)
+5. Explain the characteristics of dashboard and develop dashboard for simple applications (K3)
       
-**  References
+** REFERENCES
 1. Stephen Few, ``Now you see it: Simple Visualization techniques for quantitative analysis'', Analytics Press, 2009. (Units I, II, III, IV)
 2. Stephen Few, ``Information dashboard design: The Effective Visual Communication of Data'', first edition, O'Reilly, 2006. (Unit V)
 3. Tim Abraham, ``Metabase Up and Running'', Packt Publishing Limited, 2020.

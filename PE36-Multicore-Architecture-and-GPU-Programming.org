@@ -1,4 +1,4 @@
-*
+* 
 :properties:
 :author: DVV Prasad
 :date: 12 May 2022
@@ -14,7 +14,6 @@
 - To understand the architectures of SIMD and MIMD systems
 - To learn CUDA programming constructs, and solutions.
  
-
 {{{unit}}}
 | UNIT I | MULTICORE PROCESSORS | 9 |
 Single core to multicore architectures; Homogeneous and heterogeneous
@@ -45,15 +44,15 @@ Scheduling; Memory handling with CUDA: Shared memory -- Global memory
 Common Problems: CUDA error handling -- Parallel programming issues --
 Synchronization -- Algorithmic issues -- Finding and avoiding Errors.
 
-\hfill *Total: 45*
+\hfill *Total Periods: 45*
 
 ** COURSE OUTCOMES
 After the completion of this course, the students will be able to:
-- Apply the concepts of different multicore architectures in exploiting parallelism (K3)
-- Interpret the features and issues of MIMD systems (K2)
-- Explain the features of SIMD systems (K2)
-- Develop  programs using CUDA (K3)
-- Apply and identify issues in CUDA programming (K3)
+1. Apply the concepts of different multicore architectures in exploiting parallelism (K3)
+2. Interpret the features and issues of MIMD systems (K2)
+3. Explain the features of SIMD systems (K2)
+4. Develop  programs using CUDA (K3)
+5. Apply and identify issues in CUDA programming (K3)
 
       
 ** REFERENCES
@@ -70,14 +69,5 @@ After the completion of this course, the students will be able to:
 5. Nicholas Wilt, ``CUDA Handbook: A Comprehensive Guide to GPU
    Programming'', Addison - Wesley, 2013.
 
-** CO TO PO MAPPING
-| PO/PSO | 1 | 2 | 3 | 4 |
-|--------+---+---+---+---|
-| CO1    | 2 | 1 | 1 |   |
-| CO2    | 2 | 1 | 1 |   |
-| CO3    | 2 | 1 | 1 |   |
-| CO4    | 3 | 2 | 2 |   |
-| CO5    | 3 | 2 | 2 |   |
-|--------+---+---+---+---|
-| Course | 3 | 2 | 2 |   |
+
 

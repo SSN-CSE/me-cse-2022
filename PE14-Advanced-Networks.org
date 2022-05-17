@@ -1,55 +1,53 @@
-* <<<PCP1102>>> ADVANCED NETWORKS
+* 
 :properties:
 :author: V.S.Felix Enigo
 :date: 12 May 2022
 :end:
 
 #+startup: showall
+{{{title-tab}}}
+| CODE | COURSE TITLE      | L | T | P | C |
+|      | ADVANCED NETWORKS | 3 | 0 | 0 | 3 |
 
-{{{credits}}}
-| L | T | P | C |
-| 2 | 0 | 0 | 3 |
-
-** Course Objectives
+** COURSE OBJECTIVES
 - To study network fundamentals. 
 - To explore various technologies in the wireless domain. 
 - To study about 3G, 4G and cellular networks. 
 - To understand the paradigm of software defined networks. 
 
 {{{unit}}}
-| Unit I | Network Fundamentals | 9 |
+| UNIT I | NETWORK FUNDAMENTALS | 9 |
 Introduction -- Networking Hardware -- Network Cabling -- Wireless Networking -- IP addressing -- Protocols -- Internet.
 
 {{{unit}}}
-| Unit II | Wireless Networks | 9 |
+| UNIT II | WIRELESS NETWORKS | 9 |
 IEEE802.16 and WiMAX -- Security -- Advanced 802.16 functionalities -- Mobile WiMAX:802.16e -- WiMAx Network infrastructure -- WLAN -- Configuration -- Management operation -- IEEE 802.11e and WMM - Quality of Service.
 
 {{{unit}}}
-| Unit III | Cellular Networks | 9 |
+| UNIT III | CELLULAR NETWORKS | 9 |
 GSM -- Mobility management and call control -- GPRS -- GPRS State model -- Network elements -- Mobility management and session management -- Small Screen Web Browsing over GPRS and EDGE -- MMS over GPRS.
 
 {{{unit}}}
-| Unit IV | 4G Networks | 9 |
+| UNIT IV | 4G NETWORKS | 9 |
 LTE -- Network architecture and interfaces -- Mobility management and power optimization -- LTE security architecture -- Interconnection with UMTS and GSM -- 4G networks and composite radio environment -- Protocol boosters -- Hybrid 4G wireless networks protocols.
 
 {{{unit}}}
-| Unit V | Software Defined Networks | 9 |
+| UNIT V | SOFTWARE DEFINED NETWORKS | 9 |
 Introduction -- Centralized and distributed control and data planes -- Open flow -- Wire protocol -- Architecture -- Hybrid approaches - SDN controllers.
 
 
-\hfill *Total: 45*
+\hfill *Total Periods: 45*
   
-** References
+** COURSE OUTCOMES
+After the completion of this course, students will be able to: 
+1. Explain the fundamentals of networking (K2).
+2. Develop networks using different wireless network technologies (K3).
+3. Analyse the working of GSM network (K4)
+4. Analyse the use of various 4G Networks (K4).
+5. Demonstrate the working of software defined networks (K2).
+
+** REFERENCES
 1. James Bernstein, ``Networking made Easy'', 2018. (Unit - I) 
 2. Martin Sauter, ``From GSM to LTE, An Introduction to Mobile Networks and Mobile Broadband'', Wiley, 2014.(Unit - II, III, IV)
 3. Savo G Glisic, ``Advanced Wireless Networks -- 4G Technologies'', John Wiley & Sons, 2007. (Unit - IV)
 4. Thomas D. Nadeau and Ken Gray, ``SDN -- Software Defined Networks'', O'Reilly Publishers, 2013.  (Unit - V)
-   
-** Course Outcomes
-After the completion of this course, students will be able to: 
-- Explain the fundamentals of networking (K2).
-- Develop networks using different wireless network technologies (K3).
-- Analyse the working of GSM network (K4)
-- Analyse the use of various 4G Networks (K4).
-- Demonstrate the working of software defined networks (K2).
-

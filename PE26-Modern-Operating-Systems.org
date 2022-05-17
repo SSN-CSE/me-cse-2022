@@ -1,16 +1,15 @@
-* <<<CP1201>>> MODERN OPERATING SYSTEMS
+* 
 :properties:
 :author: Chitra Babu
 :date: 5 May 2022
 :end:
 
 #+startup: showall
+{{{title-tab}}}
+| CODE | COURSE TITLE             | L | T | P | C |
+|      | MODERN OPERATING SYSTEMS | 3 | 0 | 0 | 3 |
 
-{{{credits}}}
-| L | T | P | C |
-| 3 | 0 | 0 | 3 |
-
-** Course Objectives
+** COURSE OBJECTIVES
 - To understand virtualization and setup a cloud environment
 - To learn the design of Android mobile operating system
 - To apply the scheduling algorithms in real-time systems 
@@ -19,20 +18,20 @@
  
 
 {{{unit}}}
-| Unit I | Virtualization and the Cloud | 9 |
+| UNIT I | VIRTUALIZATION AND THE CLOUD | 9 |
 History -- Requirements -- Type 1 and Type 2 Hypervisors -- Techniques for
 Efficient Virtualization -- Microkernels -- Memory and I/O
 Virtualizations -- Clouds -- Case Study: VMware.
 
 {{{unit}}}
-| Unit II | Design of Mobile OS | 9 |
+| UNIT II | DESIGN OF MOBILE OS | 9 |
 Android and Google -- History of Android -- Design Goals --
 Architecture -- Linux Extensions -- Dalvik -- Binder IPC -- Android
 Applications -- Intents -- Application Sandboxes-- Security -- Process
 Model 
 
 {{{unit}}}
-| Unit III | Scheduling in Real-time Systems | 9 |
+| UNIT III | SCHEDULING IN REAL-TIME SYSTEMS | 9 |
 Introduction -- Applications -- Basic Model -- Characteristics of Real
 time system -- Safety -- Task types -- Timing Constraints -- Concepts
 and Characteristics of types of Real Time Task Scheduling -- Clock
@@ -40,31 +39,29 @@ Driven Scheduling -- Event Driven Scheduling -- Earliest Deadline
 First -- Rate Monotonic Algorithm.
 
 {{{unit}}}
-| Unit IV | Resource Handling Techniques in Real-time Systems | 9 |
+| UNIT IV | RESOURCE HANDLING TECHNIQUES IN REAL-TIME SYSTEMS | 9 |
 Resource Sharing -- Priority Inversion -- Priority Inheritance
 Protocol -- Highest Locker Protocol -- Priority Ceiling Protocol--
 Types of Priority Inversions -- Important Features -- Issues and Task
 Dependencies.
 
 {{{unit}}}
-| Unit V | Operating Sytem Design | 9  |
+| UNIT V | OPERATING SYTEM DESIGN | 9  |
 The Nature of the design Problem -- Interface Design --
 Implementation-- Performance -- Project Management -- Trends in
 Operating System Design
 
+\hfill *Total Periods: 45*
 
-
-\hfill *Total: 45*
-
-** Course Outcomes
+** COURSE OUTCOMES
 After the completion of this course, students will be able to: 
-- Apply virtualization techniques and setup a cloud environment(K3).
-- Define the design of the Android Operating System (K2).
-- Apply scheduling algorithms for real time systems (K3).
-- Apply resource handling techniques in real time environment (K3).
-- Outline the alternatives and tradeoffs in operating system design (K2).
+1. Apply virtualization techniques and setup a cloud environment(K3).
+2. Define the design of the Android Operating System (K2).
+3. Apply scheduling algorithms for real time systems (K3).
+4. Apply resource handling techniques in real time environment (K3).
+5. Outline the alternatives and tradeoffs in operating system design (K2).
       
-** References
+** REFERENCES
 1. Andrew S. Tanenbaum and Herbert Bos, ``Modern Operating Systems'',
    4th Edition, Pearson, 2015 (Units 1, 2 and 5)
 2. Rajib Mall, ``Real Time Systems: Theory and Practice'', Pearson,

@@ -1,25 +1,23 @@
-* <<<PCP1177>>> ADVANCED SOFTWARE ENGINEERING
+* 
 :properties:
 :author: Chitra Babu
 :date: 30 April 2022
 :end:
 
 #+startup: showall
+{{{title-tab}}}
+| CODE | COURSE TITLE                  | L | T | P | C |
+|      | ADVANCED SOFTWARE ENGINEERING | 3 | 0 | 0 | 3 |
 
-{{{credits}}}
-|L|T|P|C|
-|3|0|0|3|
-
-** Course Objectives
+** COURSE OBJECTIVES
 - To review the best practices in the various phases of the software engineering lifecycle
 - To learn selection of suitable software architectural styles and tactics to achieve software quality requirements
 - To learn selection of appropriate object-oriented design patterns to improve maintainability and software evolution
 - To understand the DevOps Practices
 - To understand MLOps practices
   
-
 {{{unit}}}
-|Unit I | Software Engineering LifeCycle Review  |9| 
+|UNIT I | SOFTWARE ENGINEERING LIFECYCLE REVIEW  |9| 
 Requirement Analysis and Specification --  
 Software Requirements Specification Document -- Object Oriented Design using UML Diagrams-- 
 Best Practices of Module Design: Coupling and Cohesion --
@@ -27,43 +25,41 @@ Testing: Blackbox and Whitebox Techniques
 Agile Methodology: Pair Programming -- Test-Driven Development
 
 {{{unit}}}
-|Unit II|Software Architecture |9| 
+|UNIT II|SOFTWARE ARCHITECTURE |9| 
 Architectural styles: Layered -- Client/server -- Tiered -- Pipe and
 filter- Event Driven -- Understanding Quality attributes -- Tactics for achieving qualities in software  
 
 {{{unit}}}
-|Unit III| Software Design |9| 
+|UNIT III| SOFTWARE DESIGN |9| 
 Object Oriented Design patterns --
 Model-View-Controller -- Behavioural Patterns:
 Strategy -- Observer -- Structural patterns: Adapter -- Proxy -- Facade -- 
 Creational Patterns: Factory Method
 
 {{{unit}}}
-|Unit IV|DevOps|9|
+|UNIT IV|DEVOPS|9|
 DevOps: Motivation-Cloud as a platform -- Operations -- Deployment
 Pipeline: Overall Architecture -- Building and Testing -- Deployment --
 Crosscutting concerns: Monitoring -- Security
 
 {{{unit}}}
-|Unit V| MLOps	|9| 
+|UNIT V| MLOPS	|9| 
 Introduction to MLOps: What is MLOps? -- DevOps and MLOps -- An MLops Hierarchy of needs -- 
 MLOps Foundations: Machine Learning Key Concepts -- Build an MLOps Pipeline from Zero --  
 Continuous Delivery for ML Models: Packaging for ML Models -- Infrastructure as Code for Continuous Delivery of ML Models 
 -- Using Cloud Pipelines -- Monitoring and Logging: Observability for Cloud MLOps -- Monitoring and observability
 
+\hfill *Total Periods: 45*
 
-\hfill *Total: 45*
-
-** Course Outcomes
+** COURSE OUTCOMES
 After the completion of this course, students will be able to:
-- Make use of the UML diagrams and design software to meet the specified requirements (K3)
-- Apply suitable software architectural styles and tactics to achieve software quality requirements(K3)
-- Apply appropriate object-oriented design patterns to improve maintainability and software evolution (K3).
-- Define the best practices of DevOps(K2)
-- Summarize the MLOps Practices(K2).
+1. Make use of the UML diagrams and design software to meet the specified requirements (K3)
+2. Apply suitable software architectural styles and tactics to achieve software quality requirements(K3)
+3. Apply appropriate object-oriented design patterns to improve maintainability and software evolution (K3).
+4. Define the best practices of DevOps(K2)
+5. Summarize the MLOps Practices(K2).
 
-     
-** References
+** REFERENCES
 1. Rajib Mall, ``Fundamentals of Software Engineering'', 5th edition,
    PHI Learning Pvt Ltd, 2018 (Unit I)
 2. Craig Larman, ``Applying UML and Patterns'', 3rd edition, Pearson
@@ -76,6 +72,3 @@ After the completion of this course, students will be able to:
 7. Len Bass, Ingo Weber and Liming Zhu, ``DevOps: A Software
    Architect's Perspective'', Pearson Education, 2016 (Unit IV)
 8. Noah Gift, Alfredo Deza, "Practical MLOps", O'Reilly Media Shroff Publishers and Distributors pvt. Ltd, 2021 (Unit V)
-
- 
-

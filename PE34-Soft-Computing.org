@@ -1,4 +1,4 @@
-**  <<<PE405>>> SOFT COMPUTING
+* 
 :properties:
 :author: Dr. P. Mirunalini, Dr. J. Bhuvana and K. Lekshmi
 :date: 
@@ -13,10 +13,9 @@
 #+end_comment
 
 #+startup: showall
-
-{{{credits}}}
-| L | T | P | C |
-| 3 | 0 | 0 | 3 |
+{{{title-tab}}}
+| CODE | COURSE TITLE   | L | T | P | C |
+|      | SOFT COMPUTING | 3 | 0 | 0 | 3 |
 
 ** COURSE OBJECTIVES
 - To learn the basic concepts of Soft Computing 
@@ -86,14 +85,14 @@ Added Applications of Soft Computing, Optimization of Traveling Salesman Problem
 
 \hfill *Total Periods: 45*
 
-
 ** COURSE OUTCOMES
 Upon completion of this course, the students should be able to:
-- Explain various soft computing techniques (K2)
-- Design and develop different neural network algorithms (K3)
-- Analyse and apply fuzzy logic and fuzzy inference system (K3)
-- Solve problems using  Genetic Algorithms (K3)
-- Applications of Soft computing to solve problems in varieties of application domains (K3).
+1. Explain various soft computing techniques (K2)
+2. Design and develop different neural network algorithms (K3)
+3. Analyse and apply fuzzy logic and fuzzy inference system (K3)
+4. Solve problems using  Genetic Algorithms (K3)
+5. Applications of Soft computing to solve problems in varieties of application domains (K3).
+
 #+begin_comment
 - Understand various soft computing techniques (K2)
 - Design and develop different neural network algorithms (K3)
@@ -101,26 +100,20 @@ Upon completion of this course, the students should be able to:
 - Solve problems using  Genetic Algorithms (K3)
 - Apply various soft computing techniques for complex problems (K3).
 #+end_comment
-** TEXT BOOKS
+
+** REFERENCES
 1. S N Sivanandam, S N Deepa, ``Principles of Soft Computing'', Wiley
    India, 3rd Edition, 2019.
 2. Jyh-Shing Roger Jang, Chuen-Tsai Sun, Eiji Mizutani, ``Neuro-Fuzzy
    and Soft Computing'', Prentice-Hall of India, 2002.
-
-** REFERENCES
-1. Kwang H Lee, ``First course on Fuzzy Theory and Applications'',
+3. Kwang H Lee, ``First course on Fuzzy Theory and Applications'',
    Springer, 2005.
-2. George J Klir, Bo Yuan, ``Fuzzy Sets and Fuzzy Logic-Theory and
+4. George J Klir, Bo Yuan, ``Fuzzy Sets and Fuzzy Logic-Theory and
    Applications'', Prentice Hall, 1996.
-3. James A Freeman, David M Skapura, ``Neural Networks Algorithms,
+5. James A Freeman, David M Skapura, ``Neural Networks Algorithms,
    Applications, and Programming Techniques'', Addison Wesley, 2003.
-4. S Rajasekaran, G A Vijayalakshmi Pai, ``Neural Networks, Fuzzy
+6. S Rajasekaran, G A Vijayalakshmi Pai, ``Neural Networks, Fuzzy
    Logic and Genetic Algorithm, Synthesis and Applications'', PHI
    Learning, 2017.
-5. N P Padhy, S P Simon, ``Soft Computing with MATLAB Programming'',
+7. N P Padhy, S P Simon, ``Soft Computing with MATLAB Programming'',
    Oxford University Press, 2015.
-   
-
-
-
-

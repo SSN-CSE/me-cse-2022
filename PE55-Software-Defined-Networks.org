@@ -1,16 +1,15 @@
-* <<<CP1326>>> SOFTWARE DEFINED NETWORKS
+* 
 :properties:
 :author: S V Jansi Rani, N Sujaudeen
 :date: 27 June 2018
 :end:
 
 #+startup: showall
+{{{title-tab}}}
+| CODE | COURSE TITLE              | L | T | P | C |
+|      | SOFTWARE DEFINED NETWORKS | 3 | 0 | 0 | 3 |
 
-{{{credits}}}
-|L|T|P|C|
-|3|0|0|3|
-
-** Course Objectives
+** COURSE OBJECTIVES
 - To learn the concepts and basics of SDN, and Openflow.
 - To demonstrate SDN Controller and programming with SDN.
 - To learn virtualization of data center and network functions .
@@ -18,18 +17,18 @@
 - To investigate various use cases using  SDN. 
 
 {{{unit}}}
-|Unit I |SDN  Plane Separation & Openflow|9| 
+|UNIT I |SDN  PLANE SEPARATION & OPENFLOW|9| 
 Separation of Control Plane and Data Plane -- Distributed and
 centralized control plane -- OpenFlow protocol -- Hybrid Approaches.
 
 {{{unit}}}
-|Unit II| SDN Controller and Programming SDN |9| 
+|UNIT II| SDN CONTROLLER AND PROGRAMMING SDN |9| 
 SDN Controller: General Concepts -- Layer3 Centric -- Plexi --
 CiscoOnePK ; Programming in SDN : The Management Interface --
 Application-Network Divide -- Modern Orchestration
 
 {{{unit}}}
-|Unit III|Data Center & Network Function Virtualization|9| 
+|UNIT III|DATA CENTER & NETWORK FUNCTION VIRTUALIZATION|9| 
 Data Center: Multitenant Data Center -- Virtualised Multitenant Data
 Center -- SDN solution for Data Center -- VLAN -- NVGRE; Network
 Function Virtualization: Virtualization and Data Plane I/O - Service
@@ -37,29 +36,28 @@ Locations and Chaining - NFV at ETSI and Non-ETSI.
 
 
 {{{unit}}}
-|Unit IV| Network Topology & SDN Framework |9| 
+|UNIT IV| NETWORK TOPOLOGY & SDN FRAMEWORK |9| 
 Network Topology: Traditional methods, LLDP, BGP - TE/LS, ALTO, I2RS
 Topology; SDN Framework: Juniper SDN framework -- IETF SDN Frameworks
 -- Open Daylight Controller Framework.
 
 {{{unit}}}
-|Unit V|Use Cases|9|
+|UNIT V|USE CASES|9|
 Use cases for bandwidth scheduling -- manipulation and calendaring --
 Use Cases for Data Center Overlays -- Big Data -- and Network Function
 Virtualization -- Input traffic classification and triggered actions
 
-\hfill *Total: 45*
+\hfill *Total Periods: 45*
 
-
-** Course Outcomes
+** COURSE OUTCOMES
 After the completion of this course, students will be able to: 
-- Explain the concepts, basics of SDN and Openflow(K2)
-- Explain SDN Controller and programming with SDN(K2)
-- Analyse various SDN solutions for data center and about Network Function Virtualization.(K4)
-- Make use of SDN Framework(K3)
-- Analyse various use cases in implementing SDN(K4)
+1. Explain the concepts, basics of SDN and Openflow(K2)
+2. Explain SDN Controller and programming with SDN(K2)
+3. Analyse various SDN solutions for data center and about Network Function Virtualization.(K4)
+4. Make use of SDN Framework(K3)
+5. Analyse various use cases in implementing SDN(K4)
       
-** References
+** REFERENCES
 1. Thomas D. Nadeau, ``SDN: Software Defined Networks, An
    Authoritative Review of Network Programmability Technologies'',
    First Edition, Ken Gray Publisher: O'Reilly Media, 2013. (Unit 1 - Chapters 1,2 and 3; Unit 2 - Chapters 4,5; Unit 3 - Chapters 6,7; Unit 4 - Chapters 8,9; Unit 5 - Chapters 10,11 and 12)

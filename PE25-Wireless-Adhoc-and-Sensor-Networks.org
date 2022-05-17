@@ -6,10 +6,8 @@
 
 #+startup: showall
 {{{title-tab}}}
-** WIRELESS SENSOR NETWORKS    
-
-| L | T | P | C |
-| 3 | 0 | 0 | 3 |
+| CODE | COURSE TITLE             | L | T | P | C |
+|      | WIRELESS SENSOR NETWORKS | 3 | 0 | 0 | 3 |
 
 ** COURSE OBJECTIVES
 - To study sensor node hardware and design principles.
@@ -19,15 +17,15 @@
 - To explore the various platforms and tools for WSN.
 
 {{{unit}}}
-|UNIT I | Introduction to Wireless Sensor Networks  | 9 |
+|UNIT I | INTRODUCTION TO WIRELESS SENSOR NETWORKS  | 9 |
 Introduction: Challenges - Applications - Single node architecture: Hardware components - Energy consumption of sensor nodes - Network architecture: Sensor network scenarios - Optimization goals - Design principles - Service interfaces - gateway concepts.
 
 {{{unit}}}
-|UNIT II | Medium Access Control Layer  | 9 |
+|UNIT II | MEDIUM ACCESS CONTROL LAYER  | 9 |
 Fundamentals of  wireless MAC protocols -- Low duty cycle protocols and wakeup concepts -- Contention Based protocols -- Schedule-Based protocols -- The IEEE 802.15.4 MAC protocol.
 
 {{{unit}}}
-| UNIT III | Data Centric Routing | 9 |
+| UNIT III | DATA CENTRIC ROUTING | 9 |
 Query processing -- Data aggregation -- Localized vs Centralized protocols -- Data gathering without memorizing links towards the sink -- Data dissemination from the sink -- Data gathering based on memorized broadcasting trees -- Periodic reports by all sensors -- Data gathering with data aggregation.
 
 {{{unit}}}
@@ -39,7 +37,6 @@ Topology control: Concepts -- Controlling topology in flat networks -- Hierarchi
 {{{unit}}}
 |UNIT V | SENSOR NETWORK PLATFORMS AND TOOLS | 9 |
 Sensor Network Hardware:  Berkeley Motes -- Arduino IDE -- Node Level Software: Platforms -- Tiny OS -- Imperative Language -- nesC -- Simulators: NS-3, Contiki OS and COOJA IDE, TOSSIM -- State Centric Programming: PIECES. 
-
 
 \hfill *Total Periods: 45*
 
@@ -55,5 +52,3 @@ After completion of this course, the student will be able to:
 1. Holger Karl, Andreas Willig, ``Protocols and Architectures for Wireless Sensor Networks'', John Wiley, 2005.  (unit - 1, 2, 4)
 2. Ivan Stojmenovic, Handbook of Sensor Networks: Algorithms and Architectures,  Wiley Interscience, 2005. (unit 3)
 3. Feng Zhao, Leonidas Guibas, ``Wireless Sensor Networks'', Morgan Kaufmann, 2004  ( unit 5)
-
-

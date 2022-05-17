@@ -1,21 +1,20 @@
-* <<<PCP1178>>> MACHINE LEARNING LAB
+* 
 :properties:
 :author: S Kavitha
 :date: 05 May 2022
 :end:
 
 #+startup: showall
+{{{title-tab}}}
+| CODE | COURSE TITLE         | L | T | P | C |
+|      | MACHINE LEARNING LAB | 3 | 0 | 0 | 3 |
 
-{{{credits}}}
-| L | T | P | C |
-| 0 | 0 | 3 | 1.5 |
-
-** Course Objectives
+** COURSE OBJECTIVES
 - To understand and implement machine learning algorithms
 - To select suitable ML algorithms for a given problem and analyze its performance
 - To learn the emerging technologies for implementing ML algorithms
 
-** Suggestive Experiments (Python - Numpy, Scipy, Scikit-learn, Matplotlib)
+** SUGGESTIVE EXPERIMENTS (Python - Numpy, Scipy, Scikit-learn, Matplotlib)
 1. Linear Regression and Logistic Regression
 2. Support Vector Machine with kernel functions
 3. Decision Tree algorithm
@@ -27,9 +26,9 @@
 9. Convolutional Neural Network
 10. Mini project
 
-\hfill *Total: 45*
+\hfill *Total Periods: 45*
 
-** Hardware/Software requirements
+** HARDWARE/SOFTWARE REQUIREMENTS
 1. Python 3.x
 2. JupyterLab
 3. Scientific Computing Libraries: Numpy, Scipy, MatplotLib, Pandas
@@ -38,24 +37,11 @@
 6. Cloud for application deployment and testing: Google Colab, autoML, Azure, H2O.AI, AWS
 7. Intel Core i7 CPU, with minimum 16GB RAM
 
-** Course Outcomes
+** COURSE OUTCOMES
 On successful completion of this course, the student will be able to
-- Develop machine learning algorithms (K3)
-- Choose suitable ML algorithm to solve the given application (K5)
-- Apply H2O.ai library to develop an application (K3)
+1. Develop machine learning algorithms (K3)
+2. Choose suitable ML algorithm to solve the given application (K5)
+3. Apply H2O.ai library to develop an application (K3)
 
-#+begin_comment
 
-** CO PO MAPPING 
-#+NAME: co-po-mapping
-|                |    |PO1 | PO2 | PO3 | PO4 | PO5 | PO6 | PO7 | PO8 | PO9 | PO10 | PO11 | 
-|                |    | K3 | K6  |  K6 |  K6 | K6  |     |     |     |     |      |      |     
-| CO1            | K2 |  2 |     |     |     |     |     |     |     |     |      |   2  |    
-| CO2            | K4 |  3 |  2  |  2  |  2  |  2  |     |     |     |     |      |      |  
-| CO3            | K3 |  3 |  2  |  2  |  2  |  2  |     |     |     |     |      |      |    
-| CO4            | K3 |  3 |  2  |  2  |  2  |  2  |     |     |     |     |      |      |    
-| CO5            | K2 |  2 |     |     |     |     |     |     |     |     |      |      |    
-| Total          |    | 13 |  6  |  6  |  6  |  6  |     |     |     |     |      |   2  |   
-| Course Mapping |    |  3 |  2  |  2  |  2  |  2  |     |     |     |     |      |   2  | 
 
-#+end_comment

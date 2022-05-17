@@ -1,16 +1,15 @@
-* <<<PE43>>> EDGE ANALYTICS
+* 
 :properties:
 :author: J. Bhuvana, T.T. Mirnalinee 
 :date: 6 May 2022
 :end:
 
 #+startup: showall
+{{{title-tab}}}
+| CODE | COURSE TITLE   | L | T | P | C |
+|      | EDGE ANALYTICS | 3 | 0 | 0 | 3 |
 
-{{{credits}}}
-|L|T|P|C|
-|3|0|0|3|
-
-** Course Objectives
+** COURSE OBJECTIVES
  - To understand the various computing paradigms and challenges of edge computing environment .
  - To explore the various hardware needed for edge architecture.
  - To learn about federated learning techniques and inferences at edge systems.
@@ -19,54 +18,51 @@
 
 
 {{{unit}}}
-|Unit I |Internet of Things (IoT) and New Computing Paradigms   |9| 
+|UNIT I |INTERNET OF THINGS (IOT) AND NEW COMPUTING PARADIGMS   |9| 
 Introduction -- Relevant Technologies -- Fog and Edge Computing -- Hierarchy of Fog and Edge Computing;
 The Networking Challenge -- Networking Challenges in a Federated Edge Environment -- Addressing the Networking Challenge -- The Management Challenge -- Miscellaneous and Research challenges.
 
 
 {{{unit}}}
-|Unit II|Edge computing hardware  |8| 
+|UNIT II|EDGE COMPUTING HARDWARE  |8| 
 Edge Hardware for AI -- Edge Data Analysis for Edge AI -- Communication and Computation Modes for Edge AI -- Tailoring Edge Frameworks for AI -- Performance Evaluation for Edge AI;
 Basic edge analytics components -- Communications Protocols -- Edge Computing State--of--the--Art Interfaces and Devices -- Edge Computing Simulators.
 
 
 {{{unit}}}
-|Unit III|Artificial Intelligence for Edge computing |9| 
+|UNIT III|ARTIFICIAL INTELLIGENCE FOR EDGE COMPUTING |9| 
 Distributed DL Training -- Potential DL Libraries for Edge;
 Artificial Intelligence Training at Edge:  Distributed Training at Edge -- Vanilla Federated Learning at Edge -- Resource--Optimized FL -- Security--Enhanced FL-- Communication--Efficient FL; 
 Artificial Intelligence Inference in Edge: Optimization of AI Models in Edge -- Segmentation of AI Models -- Early Exit of Inference (EEoI) -- Sharing of AI Computation.
 
 
 {{{unit}}}
-|Unit IV|Edge Analytics  |10| 
+|UNIT IV|EDGE ANALYTICS  |10| 
 Edge Data Analytics -- Potential of Edge Analytics -- Architecture of Edge Analytics -- Machine Learning for Edge Devices -- Edge Analytics: Case Study;
 Key benefits of edge analytics --Working with Microsoft Azure IoT Hub -- Using the Raspberry Pi with Azure IoT Edge;
 Types of attacks against our edge analytics applications -- Protecting our edge analytics applications -- Monitoring and auditing our edge analytics applications.
 
 
 {{{unit}}}
-|Unit V|Edge Computing Applications |9|
+|UNIT V|EDGE COMPUTING APPLICATIONS |9|
 Edge Computing use Cases -- Realization of Edge Computing in Healthcare Ensuring Storage Security; 
 Industrial Internet of Things (IIoT) Applications of Edge and Fog Computing: A Review and Future Directions -- Leveraging Edge Computing for Mobile Augmented Reality;
 Smart Surveillance Video Stream Processing at the Edge for Real--Time Human Objects Tracking.
 
 
-\hfill *Total: 45*
+\hfill *Total Periods: 45*
 
-** Course Outcomes
+** COURSE OUTCOMES
 After the completion of this course, students will be able to: 
-- Describe the fundamentals and challenges of edge computing (K2)
--	Explain the use and need of different hardware components of edge computing (K2)
--	Apply the advanced concepts and frameworks of edge AI (K3) 
--	Apply the technologies used for edge analytics and developing solutions (K3)
--	Identify the applications developed using edge architecture (K3)
+1. Describe the fundamentals and challenges of edge computing (K2)
+2. Explain the use and need of different hardware components of edge computing (K2)
+3. Apply the advanced concepts and frameworks of edge AI (K3) 
+4. Apply the technologies used for edge analytics and developing solutions (K3)
+5. Identify the applications developed using edge architecture (K3)
 
-      
-** References
+** REFERENCES
 1. Rajkumar Buyya and Satish Narayana Srirama, Fog and Edge Computing Principles and Paradigms, Wiley, 2019. (Units 1, 5)
-2.	K. Anitha Kumari G. Sudha Sadasivam D. Dharani M. Niranjanamurthy, Edge Computing Fundamentals, Advances and Applications, CRC Press, 2022. (Units  2, 4, 5)
-3.	Xiaofei Wang, Yiwen Han, Victor C.M.Leung, Dusit Niyato, Xueqiang Yan, Xu ChenEdge, AI Convergence of Edge Computing and Artificial Intelligence, Springer, 2020. (Units  2, 3)
-4.	Wei Chang,  Jie Wu Fog, Edge Computing For Security, Privacy, and Applications, Springer, 2021. (Unit  5)
-5.	Colin Dow, Hands-On Edge Analytics with Azure IoT- Design and develop IoT applications with edge analytical solutions including Azure IoT Edge, Packt Publishing, 2020. (Unit 4)
-
-
+2. K. Anitha Kumari G. Sudha Sadasivam D. Dharani M. Niranjanamurthy, Edge Computing Fundamentals, Advances and Applications, CRC Press, 2022. (Units  2, 4, 5)
+3. Xiaofei Wang, Yiwen Han, Victor C.M.Leung, Dusit Niyato, Xueqiang Yan, Xu ChenEdge, AI Convergence of Edge Computing and Artificial Intelligence, Springer, 2020. (Units  2, 3)
+4. Wei Chang,  Jie Wu Fog, Edge Computing For Security, Privacy, and Applications, Springer, 2021. (Unit  5)
+5. Colin Dow, Hands-On Edge Analytics with Azure IoT- Design and develop IoT applications with edge analytical solutions including Azure IoT Edge, Packt Publishing, 2020. (Unit 4)
