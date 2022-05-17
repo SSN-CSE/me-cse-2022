@@ -10,11 +10,11 @@
 |      | INTERNET OF THINGS | 3 | 0 | 0 | 3 |
 
 ** COURSE OBJECTIVES
-- To explain the basics of IoT devices, protocols , communication APIs and deployment templates 
+- To understand the basics of IoT devices, protocols , communication APIs and deployment templates 
 - To design the simple IoT systems using Raspberry Pi/Arduino Pi 
-- To explain various IoT protocols
+- To understand various IoT protocols
 - To design an IoT system  using cloud environments
-- To design IoT solutions for industries.
+- To develop IoT solutions for industries.
 
 {{{unit}}}
 | UNIT I |  INTRODUCTION TO INTERNET OF THINGS | 9 |
@@ -30,7 +30,7 @@ IoT Physical devices and Endpoints: Basic building blocks of IoT Device -- Raspb
 Introduction to IoT Protocols -- 6LoWPAN -- IEEE 802.11 -- WiFi -- 802.15 Bluetooth -- 802.15.4 -- Zigbee-- CoAP.
 
 {{{unit}}}
-| UNIT IV | IOT SERVERS  | 9 |
+| UNIT IV | CLOUD OFFERINGS AND IOT CASE STUDIES  | 9 |
 Cloud Storage Models and Communication APIs for IoT-- WAMP-Xively Cloud-- Python Web Application framework-- Designing a RESTful Web API-- Amazon Web Services for IoT-- MQTT  --Case studies for IoT Design : Home automation-- Smart Agriculture.
 
 
