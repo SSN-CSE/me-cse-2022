@@ -9,33 +9,19 @@
 | CODE | COURSE TITLE               | L | T | P | C |
 |      | AGILE SOFTWARE ENGINEERING | 3 | 0 | 0 | 3 |
 
-<<<<<<< HEAD
 ** COURSE OBJECTIVES
- - To understand agile software development practices  
- - To demonstrate Agile development and testing techniques 
- - To know the benefits and pitfalls of working in an Agile team
- - To understand agile development and testing. 
-=======
-{{{credits}}}
-|L|T|P|C|
-|3|0|0|3|
-
-** Course Objectives
  - Understand agile software development practices  
  - Demonstrate Agile development and testing techniques 
  - Know the benefits and pitfalls of working in an Agile team
  - Understand agile development and testing. 
->>>>>>> 74dc0213c24c4cc2cd4cfd70cbe9d022d5b5a4a3
 
 {{{unit}}}
 |UNIT I |AGILE SOFTWARE DEVELOPMENT|9| 
-
 Agile software development ; Traditional software development --
 waterfall approach -- requirements -- design phase -- implementation
 -- testing -- support -- advantages and disadvantages; incremental
 development; Lean software development; scrum; test driven
 development; extreme programming; rational unified process; agile
-
 unified process; Agile model driven development.
 
 {{{unit}}}
@@ -77,28 +63,15 @@ Metrics in FDD -- Agile approach to Quality Assurance -- Test Driven
 Development -- Pair programming: Issues and Challenges -- Agile
 approach to Global Software Development.  
 
-<<<<<<< HEAD
 \hfill *Total Periods: 45*
-=======
-*Total: 45*
->>>>>>> 74dc0213c24c4cc2cd4cfd70cbe9d022d5b5a4a3
 
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to: 
-<<<<<<< HEAD
-1. Define the interaction with business stakeholders in determining the
-   requirements for a software system. (K2)
-2. Apply iterative software development process. (K3)
-3. Determine the impact of social aspects on software development success. (K3)
-4. Explain the approach of product development using Agile methods. (K2)
-5. Develop solutions using agile methods. (K3)
-=======
-- Define the agile process model (K2)
-- Apply XP agile method for iterative software development. (K3)
-- Determine the impact of customer on software development success. (K3)
-- Evaluate the agile approach for assessing team performance. (K3)
-- Explain the quality assurance in agile methods. (K3)
->>>>>>> 74dc0213c24c4cc2cd4cfd70cbe9d022d5b5a4a3
+1. Define the agile process model (K2)
+2. Apply XP agile method for iterative software development. (K3)
+3. Determine the impact of customer on software development success. (K3)
+4. Evaluate the agile approach for assessing team performance. (K3)
+5. Explain the quality assurance in agile methods. (K3)
       
 ** REFERENCES
 1. Thomas Stober, Uwe Hansmann, Agile Software Development: Best
