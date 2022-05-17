@@ -17,7 +17,7 @@
 - To follow the guidelines and prepare technical report of the project.
 - To develop team management skills and presentation skills
 
-  ** COURSE OUTCOMES
+** COURSE OUTCOMES
 At the end of this course, the students will be able to:
 1. Formulate complex engineering problems and choose suitable technologies and tools required to solve them effectively (K4)
 2. Analyse the related literature on the proposed problem and its feasibility (K4)

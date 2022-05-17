@@ -1,23 +1,22 @@
-* <<<CP1332>>> AGILE SOFTWARE ENGINEERING
+* 
 :properties:
 :author: A.Chamundeswari, K Vallidevi 
 :date: 30 June 2018
 :end:
 
 #+startup: showall
+{{{title-tab}}}
+| CODE | COURSE TITLE         | L | T | P | C |
+|      | AGILE SOFTWARE ENGINEERING | 3 | 0 | 0 | 3 |
 
-{{{credits}}}
-|L|T|P|C|
-|3|0|0|3|
-
-** Course Objectives
+** COURSE OBJECTIVES
  - Understand agile software development practices  
  - Demonstrate Agile development and testing techniques 
  - Know the benefits and pitfalls of working in an Agile team
  - Understand agile development and testing. 
 
 {{{unit}}}
-|Unit I |Agile software development|9| 
+|UNIT I |AGILE SOFTWARE DEVELOPMENT|9| 
 Agile software development ; Traditional software development --
 waterfall approach -- requirements -- design phase -- implementation
 -- testing -- support -- advantages and disadvantages; incremental
@@ -26,7 +25,7 @@ development; extreme programming; rational unified process; agile
 unified process; Agile model driven development.
 
 {{{unit}}}
-|Unit II|Agile XP product development |9| 
+|UNIT II|AGILE XP PRODUCT DEVELOPMENT |9| 
 People and Teams working together -- Team behaviour in XP projects --
 setting up a team -- developing team skills -- training together;
 organizational framework; planning -- PERT -- Gantt charts; Dealing
@@ -36,7 +35,7 @@ discovery; techniques for requirement elicitation; Developing the
 requirement documents.
 
 {{{unit}}}
-|Unit III|Building user stories and testing|9| 
+|UNIT III|BUILDING USER STORIES AND TESTING|9| 
 Identifying stories and preparing to build -- looking at the user
 stories; collection of stories; user interfaces; communicating clearly
 with the customer and building confidence; demonstrating the
@@ -46,7 +45,7 @@ COSMIC FFP -- Design for test; Automating unit tests -- writing unit
 tests in JUnit -- managing tests.
 
 {{{unit}}}
-|Unit IV|Agile practice validation |9| 
+|UNIT IV|AGILE PRACTICE VALIDATION |9| 
 Study Design -- Survey field study -- Questionnaire Design -- Data
 collection procedure; Construct operationalization -- Adoption of
 agile practices -- teamwork and contextual variables -- team
@@ -57,24 +56,24 @@ Test and Evaluation -- measurement model effects on team potency and
 team performance.
 
 {{{unit}}}
-|Unit V|Agility and Quality assurance|9|
+|UNIT V|AGILITY AND QUALITY ASSURANCE|9|
 Agile Interaction Design -- Agile product development -- Agile Metrics
 -- Feature Driven Development (FDD) -- Financial and Production
 Metrics in FDD -- Agile approach to Quality Assurance -- Test Driven
 Development -- Pair programming: Issues and Challenges -- Agile
 approach to Global Software Development.  
 
-*Total: 45*
+\hfill *Total Periods: 45*
 
-** Course Outcomes
+** COURSE OUTCOMES
 After the completion of this course, students will be able to: 
-- Define the agile process model (K2)
-- Apply XP agile methods for iterative software development. (K3)
-- Identify the impact of customers on the success of software development process (K3)
-- Evaluate the agile approach for assessing team performance. (K3)
-- Explain the quality assurance in agile methods. (K2)
+1. Define the agile process model (K2)
+2. Apply XP agile methods for iterative software development. (K3)
+3. Identify the impact of customers on the success of software development process (K3)
+4. Evaluate the agile approach for assessing team performance. (K3)
+5. Explain the quality assurance in agile methods. (K2)
       
-** References
+** REFERENCES
 1. Thomas Stober, Uwe Hansmann, Agile Software Development: Best
    Practices for Large Software Development Projects, Springer-Verlag
    Berlin Heidelberg 2010.(Unit 1)
