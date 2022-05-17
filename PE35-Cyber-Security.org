@@ -13,7 +13,7 @@
 ** COURSE OBJECTIVES
 - To get introduced to cyber security cybercrime and law
 - To understand the attacks and tools
-- To understand the information gathering 
+- To understand information gathering 
 - To understand how to detect an attack 
 - To understand how to prevent an attack.
 
@@ -59,7 +59,7 @@ Intrusion Detection: Host-Based Intrusion Detection -- Network-Based Intrusion D
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to 
 1. Explain the basics of cyber security, cyber crime and law (K2)
-2. Classify various types of attack and  learn the tools to launch the attack (K2)
+2. Classify various types of attacks and  learn the tools to launch the attacks (K2)
 3. Apply various tools to perform information gathering (K3) 
 4. Apply intrusion detection techniques to detect intrusion (K3) 
 5. Apply intrusion prevention techniques to prevent intrusion (K3) 
