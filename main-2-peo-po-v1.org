@@ -1,0 +1,440 @@
+#+STARTUP: showall
+
+* M.E. COMPUTER SCIENCE AND ENGINEERING
+** VISION OF THE DEPARTMENT
+To emerge as a world class technology department through education,
+innovation and collaborative research.
+
+** MISSION OF THE DEPARTMENT
+1. To impart quality education to students.
+2. To create and disseminate knowledge for the betterment of mankind.
+3. To establish a center of excellence in collaboration with
+   industries, research laboratories and other agencies to meet the
+   changing needs of society.
+4. To provide individual attention and enable character building.
+5. To encourage entrepreneurship skills among students .
+
+** PROGRAM EDUCATIONAL OBJECTIVES (PEOs)
+1. *PEO1*: Graduates will pursue research or be successfully employed in
+   academia / industries associated with Computer Science and
+   Engineering, or become entrepreneurs, adapting to new technologies
+   and engaging in continuous education and training.
+2. *PEO2*: Graduates will take leadership roles, making holistic
+   decisions guided by professional, ethical, societal, economic,
+   legal and environmental considerations, and communicating clearly
+   with stakeholders.
+ 
+** PROGRAM OUTCOMES (POs)
+The graduates of the M.E degree program in Computer Science and
+Engineering will be able to
+1. *PO1*: Independently carry out experiments, research, and development
+   to solve practical problems with social relevance, using modern IT
+   tools. (K6)
+2. *PO2*: Read, write, and present substantial technical reports /
+   documents, engage in independent learning, and commit to
+   professional ethics.
+3. *PO3*: Demonstrate mastery over computer science and engineering in
+   formulating, analyzing, designing and implementing optimal
+   solutions for computational problems (K6)
+4. *PO4*: Analyze, learn and build models from real world data using
+   machine learning techniques and deploy them (K5)
+
+{{{clrpage}}}
+
+** MAPPING OF PROGRAM OUTCOMES/PROGRAM-SPECIFIC OUTCOMES TO PROGRAM EDUCATIONAL OBJECTIVES :noexport:
+1: Reasonable, 2: Significant, 3: Strong  
+{{{po-peo-table}}}
+|------+-----+-----+-----+-----+-----+-----+-----+-----+-----+------+------+------+------+------|
+|      | PO1 | PO2 | PO3 | PO4 | PO5 | PO6 | PO7 | PO8 | PO9 | PO10 | PO11 | PO12 | PSO1 | PSO2 |
+|------+-----+-----+-----+-----+-----+-----+-----+-----+-----+------+------+------+------+------|
+| PEO1 |   3 |   3 |   2 |   3 |   2 |   1 |   1 |   1 |   2 |    3 |    2 |    3 |    3 |    2 |
+| PEO2 |   1 |   2 |   3 |   2 |   3 |   3 |   3 |   1 |   2 |    1 |    2 |    3 |    2 |    3 |
+| PEO3 |   2 |   2 |   1 |   2 |   1 |   2 |   2 |   3 |   2 |    1 |    3 |    2 |    1 |    3 |
+|------+-----+-----+-----+-----+-----+-----+-----+-----+-----+------+------+------+------+------|
+
+** MAPPING OF COURSES TO PROGRAM OUTCOMES/PROGRAM SPECIFIC OUTCOMES :noexport:
+{{{co-po-pso-table}}}  
+#+attr_odt: :rel-width 100 :style "Text_20_body_small"
+| <l20>                                                | <c5> | <c5> | <c5> | <c5> | <c5> | <c5> | <c5> | <c5> | <c5> | <c5> | <c5> | <c5> | <c5> | <c5> |
+|------------------------------------------------------+------+------+------+------+------+------+------+------+------+------+------+------+------+------|
+| Course                                               |  1   |  2   |  3   |  4   |  5   |  6   |  7   |  8   |  9   |  10  |  11  |  12  |  1   |  2   |
+|------------------------------------------------------+------+------+------+------+------+------+------+------+------+------+------+------+------+------|
+| *Semester I*                                         |      |      |      |      |      |      |      |      |      |      |      |      |      |      |
+| Technical English                                    |      |      |      |      |      |      |      |      |  2   |  3   |      |  2   |      |      |
+| Matrices and Calculus                                |  3   |  2   |      |      |      |      |      |      |      |      |      |      |  1   |      |
+| Engineering Physics                                  |  3   |  2   |  1   |      |      |      |      |      |      |      |      |      |      |      |
+| Engineering Chemistry                                |  3   |  2   |      |  1   |  1   |      |  1   |      |      |  2   |      |      |      |      |
+| Problem Solving and Programming in Python            |  3   |  2   |      |      |      |      |      |      |      |      |      |      |  3   |      |
+| Engineering Graphics                                 |  3   |  2   |  2   |      |      |  2   |      |      |      |  3   |      |      |      |      |
+| Programming in Python Lab                            |  3   |  2   |      |      |      |      |      |      |      |      |      |      |  2   |      |
+| Physics and Chemistry Lab                            |  3   |      |      |  2   |  1   |      |      |      |      |      |      |      |      |      |
+|------------------------------------------------------+------+------+------+------+------+------+------+------+------+------+------+------+------+------|
+| *Semester II*                                        |      |      |      |      |      |      |      |      |      |      |      |      |      |      |
+| Complex Functions and Laplace Transforms             |  3   |  2   |      |      |      |      |      |      |      |      |      |      |  1   |      |
+| Basic Electrical and Electronics Engineering         |  3   |  2   |  1   |      |  1   |  1   |      |      |      |      |      |      |      |      |
+| Fundamentals and Practice of Software Development    |  3   |  3   |  3   |  3   |  3   |  3   |  3   |  3   |  3   |  3   |  3   |  3   |  3   |  3   |
+| Environmental Science                                |      |      |      |      |      |  2   |      |  2   |  2   |  2   |      |  2   |      |      |
+| Foundations of Data Science                          |  3   |  2   |      |  2   |  1   |      |      |      |      |      |      |      |  2   |      |
+| Design Thinking and Engineering Practices Lab        |  3   |  3   |      |  2   |      |      |      |      |  3   |  1   |      |  1   |      |      |
+|------------------------------------------------------+------+------+------+------+------+------+------+------+------+------+------+------+------+------|
+| *Semester III*                                       |      |      |      |      |      |      |      |      |      |      |      |      |      |      |
+| Discrete Mathmatics                                  |  3   |  2   |      |      |      |      |      |      |      |      |      |      |  1   |      |
+| Universal Human Values                               |      |      |      |      |      |  2   |      |  2   |  2   |  2   |      |  2   |      |      |
+| Digital Principles and System Design                 |  3   |  2   |  3   |      |      |      |      |      |      |  3   |      |      |  2   |      |
+| Data Structures                                      |  3   |  3   |  3   |  3   |      |      |      |      |      |  3   |      |  3   |  2   |  3   |
+| Object Oriented Programming                          |  3   |  3   |  3   |      |      |      |      |      |      |      |      |      |  2   |  2   |
+| Digital Design Lab                                   |  3   |  2   |  2   |  3   |      |      |      |      |  3   |  3   |      |      |  2   |      |
+| Data Structures Lab                                  |  3   |  3   |  3   |  3   |      |      |      |      |      |      |      |      |  2   |  2   |
+| Object Oriented Programming Lab                      |  3   |  3   |  3   |  3   |      |      |      |      |  3   |  3   |  3   |      |  2   |  2   |
+|------------------------------------------------------+------+------+------+------+------+------+------+------+------+------+------+------+------+------|
+| *Semester IV*                                        |      |      |      |      |      |      |      |      |      |      |      |      |      |      |
+| Probability and Statistical Methods                  |  3   |  2   |      |  1   |      |      |      |      |      |      |      |      |  1   |      |
+| Indian Constitution                                  |      |      |      |      |      |  2   |      |  2   |  2   |  2   |      |  2   |      |      |
+| Computer Organization and Architecture               |  3   |  2   |  3   |      |      |      |  3   |      |      |  3   |      |      |  2   |      |
+| Operating Systems                                    |  3   |  3   |  3   |      |      |      |      |      |      |      |      |      |  3   |      |
+| Design and Analysis of Algorithms                    |  3   |  2   |  2   |      |      |      |      |      |      |  3   |      |  3   |  3   |      |
+| Database Management Systems                          |  3   |  3   |  3   |      |      |      |      |      |  3   |  3   |      |      |  2   |      |
+| Operating Systems Lab                                |  3   |  2   |      |  3   |      |      |      |      |      |      |      |      |  3   |      |
+| Database Lab                                         |  3   |  3   |  3   |  3   |  2   |      |      |      |  3   |  2   |      |      |  2   |      |
+|------------------------------------------------------+------+------+------+------+------+------+------+------+------+------+------+------+------+------|
+| *Semester V*                                         |      |      |      |      |      |      |      |      |      |      |      |      |      |      |
+| Computer Networks                                    |  3   |  2   |  3   |      |      |      |      |      |      |      |      |  2   |  2   |      |
+| Microprocessors Microcontrollers and Interfacing     |  3   |  2   |  2   |      |      |      |      |      |      |  3   |      |      |  2   |  3   |
+| Foundations of Artificial Intelligence               |  3   |  3   |  3   |  3   |      |      |      |      |  3   |  3   |      |  3   |  3   |      |
+| Software Engineering                                 |  3   |  3   |  3   |      |  3   |      |      |  3   |  3   |  3   |  3   |  1   |  3   |  3   |
+| Networks Lab                                         |  3   |  3   |      |  3   |  2   |      |      |      |      |      |      |      |  2   |      |
+| Microprocessors Microcontrollers and Interfacing Lab |  3   |  2   |  2   |  3   |      |      |      |      |      |  3   |      |      |  2   |  3   |
+|------------------------------------------------------+------+------+------+------+------+------+------+------+------+------+------+------+------+------|
+| *Semester VI*                                        |      |      |      |      |      |      |      |      |      |      |      |      |      |      |
+| Internet Programming                                 |  3   |  2   |  3   |      |      |      |      |      |      |  3   |      |      |  2   |      |
+| Software System Security                             |  3   |  2   |      |      |      |      |      |      |      |      |      |      |  2   |      |
+| Principles of Machine Learning                       |  3   |  2   |  3   |      |      |      |      |  3   |      |      |      |  2   |  2   |      |
+| Theory of Computation                                |  3   |  2   |      |      |      |      |      |      |      |  2   |      |      |  3   |      |
+| Internet Programming Lab                             |  3   |  3   |  3   |  3   |  3   |      |      |      |  3   |  3   |  3   |  3   |  2   |      |
+| Machine Learning Lab                                 |  3   |  3   |  3   |  3   |  3   |      |      |  3   |  3   |  3   |  3   |      |  3   |  2   |
+|------------------------------------------------------+------+------+------+------+------+------+------+------+------+------+------+------+------+------|
+| *Semester VII*                                       |      |      |      |      |      |      |      |      |      |      |      |      |      |      |
+| Distributed Systems                                  |  3   |  3   |  3   |      |      |      |      |      |      |      |      |  2   |  3   |      |
+| Software Architecture                                |  3   |  3   |      |      |      |      |      |      |      |      |      |      |      |  2   |
+| Compiler Design                                      |  3   |  3   |  3   |  3   |  3   |      |      |      |      |  2   |      |      |  3   |  3   |
+| Project Work Phase I                                 |  3   |  3   |  3   |  3   |  3   |  3   |  3   |  3   |  3   |  3   |  3   |  3   |  3   |  3   |
+| Industrial Training/Internship                       |  3   |  3   |  3   |  3   |  3   |  3   |  3   |  3   |  3   |  3   |  3   |  3   |  3   |  3   |
+|------------------------------------------------------+------+------+------+------+------+------+------+------+------+------+------+------+------+------|
+| *Semester VIII*                                      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |
+| Project Work Phase II                                |  3   |  3   |  3   |  3   |  3   |  3   |  3   |  3   |  3   |  3   |  3   |  3   |  3   |  3   |
+|------------------------------------------------------+------+------+------+------+------+------+------+------+------+------+------+------+------+------|
+
+{{{co-po-pso-table}}}
+|------------------------------------------------------------+---+---+---+---+---+---+---+---+---+----+----+----+---+---|
+| Course                                                     | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 1 | 2 |
+|------------------------------------------------------------+---+---+---+---+---+---+---+---+---+----+----+----+---+---|
+| *Professional Electives*                                   |   |   |   |   |   |   |   |   |   |    |    |    |   |   |
+| Mathematics for Machine Learning                           | 3 | 2 |   |   |   |   |   |   |   |    |    |    | 2 |   |
+| Big Data Technologies                                      | 3 | 2 | 3 | 3 |   |   |   |   |   |    |    |    | 2 | 2 |
+| Software Testing                                           | 3 | 3 | 2 | 3 | 1 |   |   |   | 3 |    |  3 |    | 3 |   |
+| Image Processing and Analysis                              | 3 | 2 |   | 3 |   |   |   |   |   |  3 |    |  2 | 2 |   |
+| Logic Programming                                          | 3 | 2 |   |   |   |   |   |   |   |  3 |    |  2 | 3 |   |
+| UNIX Internals                                             | 3 | 2 |   |   |   |   |   |   |   |    |    |    | 3 |   |
+| Ethical Hacking and Tools                                  | 3 | 2 |   |   |   |   |   |   |   |  3 |    |  3 | 3 | 3 |
+| Advanced Database Management Systems                       | 3 | 2 |   | 3 |   |   |   |   |   |    |    |    | 2 |   |
+| Cloud Computing                                            | 3 | 3 |   |   | 3 |   |   |   |   |    |    |    | 3 |   |
+| Big Data Modeling and Management                           | 3 | 2 |   | 3 |   |   |   |   | 3 |    |    |    | 2 | 2 |
+| Software Configuration Management                          | 3 | 3 | 2 |   |   |   |   |   | 3 |  3 |  3 |    | 2 |   |
+| Probabilistic Graphical Models                             | 3 | 2 |   | 3 |   |   |   |   |   |    |    |    | 2 |   |
+| Natural Language Processing and Applications               | 3 | 3 |   | 3 |   |   |   |   |   |    |    |    | 3 |   |
+| Cyber Forensics                                            | 3 | 3 |   |   | 1 |   |   |   |   |    |    |  2 | 3 | 2 |
+| IoT Technologies                                           | 3 | 2 | 2 |   |   |   |   |   |   |    |    |  2 | 3 |   |
+| Bayesian Data Analysis                                     | 3 | 2 | 3 | 3 |   |   |   |   | 3 |  3 |    |    | 3 |   |
+| Wireless Adhoc and Sensor Networks                         | 3 | 3 |   |   | 3 |   |   |   |   |  3 |    |    | 3 |   |
+| Object Oriented Analysis and Design                        | 3 | 3 | 3 |   |   |   |   |   |   |  2 |    |    | 2 |   |
+| Soft Computing                                             | 3 | 2 | 3 |   | 2 |   |   |   | 3 |  3 |    |  3 | 3 |   |
+| Deep Learning                                              | 3 | 3 |   | 3 | 3 |   |   |   | 3 |    |    |    | 3 | 2 |
+| Multicore Architectures and Programming                    | 3 | 2 |   |   |   |   |   |   |   |  3 |    |    | 2 |   |
+| Network and Server Security                                | 3 | 2 |   |   |   |   |   |   |   |    |    |    | 2 |   |
+| Health Care Data Analytics                                 | 3 | 2 |   | 3 |   |   |   |   |   |    |    |  2 | 3 |   |
+| User Experience Design                                     | 3 | 2 | 3 |   |   |   |   |   |   |  2 |    |    |   | 2 |
+| Social Network Analysis and Applications                   | 3 | 3 | 3 | 3 | 3 |   |   |   | 3 |  3 |    |    | 3 | 2 |
+| Principles of Reinforcement Learning                       | 3 | 2 |   |   |   |   |   |   |   |  3 |    |  3 | 2 |   |
+| Blockchain Technologies                                    | 3 | 2 |   |   | 1 |   |   |   |   |    |    |    | 2 | 2 |
+| Embedded Systems Design                                    | 3 | 2 |   |   |   |   |   |   |   |  3 |    |  3 | 3 | 3 |
+| Graphics and Multimedia                                    | 3 | 2 |   |   | 2 |   |   |   |   |    |    |  2 | 3 |   |
+| Business Intelligence                                      | 3 | 2 |   | 3 | 1 |   |   |   |   |    |    |    | 2 | 2 |
+| Agile Methodologies                                        | 3 | 3 | 3 |   |   |   |   |   |   |    |    |    | 2 | 3 |
+| Time Series Analysis and Forecasting                       | 3 | 3 |   | 3 |   |   |   |   |   |    |    |    | 3 |   |
+| Computer Vision                                            | 3 | 2 |   | 3 |   |   |   |   |   |  3 |    |  2 | 2 |   |
+| Speech Processing and Synthesis                            | 3 | 2 | 3 |   | 3 |   |   |   |   |    |    |    | 2 |   |
+| Mobile Computing                                           | 3 | 2 |   | 3 |   |   |   |   |   |  3 |    |    | 3 | 2 |
+| Mobile and Wireless Security                               | 3 | 3 | 1 |   |   |   |   |   |   |    |    |    | 2 |   |
+| Bioinformatics Technologies                                | 3 | 2 |   | 2 |   |   |   |   |   |    |    |    | 3 |   |
+| Formal System Verification                                 | 3 | 2 |   |   |   |   |   |   | 3 |  3 |    |  2 | 3 |   |
+| Service Oriented Architecture                              | 3 | 3 |   |   |   |   |   |   |   |    |    |    |   | 3 |
+| Information Retrieval Techniques                           | 3 | 2 |   | 3 |   |   |   |   |   |    |    |  2 | 2 |   |
+| Introduction to Robotics                                   | 3 | 2 |   |   |   |   |   |   |   |  3 |    |  3 | 2 | 3 |
+| Software Defined Networking                                | 3 | 2 |   |   | 3 |   |   |   |   |    |    |  2 | 2 |   |
+| Parallel Algorithms                                        | 3 | 2 |   |   |   |   |   |   |   |    |    |  2 |   |   |
+|------------------------------------------------------------+---+---+---+---+---+---+---+---+---+----+----+----+---+---|
+| *Management Electives*                                     |   |   |   |   |   |   |   |   |   |    |    |    |   |   |
+| Principles of Management                                   |   |   |   |   | 3 | 3 | 2 | 3 | 2 |  2 |  2 |  1 |   |   |
+| Total Quality Management                                   |   |   |   |   | 2 | 3 | 1 | 2 | 1 |    |  1 |  1 |   |   |
+| Work Ethics Corporate Social Responsibility and Governance |   |   |   |   |   | 3 | 2 | 3 | 1 |  1 |  2 |  2 |   |   |
+|------------------------------------------------------------+---+---+---+---+---+---+---+---+---+----+----+----+---+---|
+| *Humanities Electives*                                     |   |   |   |   |   |   |   |   |   |    |    |    |   |   |
+| Languages and Communication                                |   |   |   |   |   |   |   |   | 2 |  3 |    |  2 |   |   |
+| Fundamentals of Linguistics                                |   |   |   |   |   |   |   |   | 2 |  3 |    |  2 |   |   |
+| Film Appreciation                                          |   |   |   |   |   |   |   |   | 2 |  3 |    |  2 |   |   |
+| Human Relations at Work                                    |   |   |   |   |   |   |   |   | 2 |  3 |    |  2 |   |   |
+| Application of Psychology in Everyday Life                 |   |   |   |   |   |   |   |   | 2 |  3 |    |  2 |   |   |
+| Understanding Society and Culture through Literature       |   |   |   |   |   |   |   |   | 2 |  3 |    |  2 |   |   |
+|------------------------------------------------------------+---+---+---+---+---+---+---+---+---+----+----+----+---+---|
+
+** SUSTAINABLE DEVELOPMENT GOALS :noexport:
+{{{sdg-table}}}
+|-----+-----------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| SDG | Short form                              | Full form                                                                                                                                                                                    |
+|-----+-----------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|   1 | No Poverty                              | End poverty in all its forms everywhere                                                                                                                                                      |
+|   2 | Zero Hunger                             | End hunger, achieve food security and improved nutrition, and promote sustainable agriculture                                                                                                |
+|   3 | Good health and well being              | Ensure healthy lives and promote well-being for all at all ages                                                                                                                              |
+|   4 | Quality education                       | Ensure inclusive and equitable quality education and promote lifelong learning opportunities for all                                                                                         |
+|   5 | Gender Equality                         | Achieve gender equality and empower all women and girls                                                                                                                                      |
+|   6 | Clean water and sanitation              | Ensure availability and sustainable management of water and sanitation for all                                                                                                               |
+|   7 | Affordable and clean energy             | Ensure access to affordable, reliable, sustainable and modern energy for all                                                                                                                 |
+|   8 | Decent work and Economic Growth         | Promote sustained, inclusive and sustainable economic growth, full and productive employment and decent work for all                                                                         |
+|   9 | Industry, Innovation and Infrastructure | Build resilient infrastructure, promote inclusive and sustainable industrialization, and foster innovation                                                                                   |
+|  10 | Reducing Inequality                     | Reduce income inequality within and among countries                                                                                                                                          |
+|  11 | Sustainable cities and communities      | Make cities and human settlements inclusive, safe, resilient, and sustainable                                                                                                                |
+|  12 | Responsible consumption and production  | Ensure sustainable consumption and production patterns                                                                                                                                       |
+|  13 | Climate action                          | Take urgent action to combat climate change and its impacts by regulating emissions and promoting developments in renewable energy                                                           |
+|  14 | Life below water                        | Conserve and sustainably use the oceans, seas and marine resources for sustainable development                                                                                               |
+|  15 | Life on Land                            | Protect, restore and promote sustainable use of terrestrial ecosystems, sustainably manage forests, combat desertification, and halt and reverse land degradation and halt biodiversity loss |
+|  16 | Peace, justice and string Institutions  | Promote peaceful and inclusive societies for sustainable development, provide access to justice for all and build effective, accountable and inclusive institutions at all levels            |
+|  17 | Partnerships for the goals              | Strengthen the means of implementation and revitalize the global partnership for sustainable development                                                                                     |
+|-----+-----------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
+{{{clrpage}}}
+
+** MAPPING OF COURSES TO SUSTAINABLE DEVELOPMENT GOALS :noexport:
+{{{course-sdg-table}}}
+|------------------------------------------------------------+---+---+---+---+---+---+---+---+---+----+----+----+----+----+----+----+----|
+| Course                                                     | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 |
+|------------------------------------------------------------+---+---+---+---+---+---+---+---+---+----+----+----+----+----+----+----+----|
+| Technical English                                          |   |   |   | 1 |   |   |   |   |   |    |    |    |    |    |    |    |    |
+|------------------------------------------------------------+---+---+---+---+---+---+---+---+---+----+----+----+----+----+----+----+----|
+| Matrices and Calculus                                      |   |   |   | 1 |   |   |   |   |   |    |    |    |    |    |    |    |    |
+|------------------------------------------------------------+---+---+---+---+---+---+---+---+---+----+----+----+----+----+----+----+----|
+| Engineering Physics                                        |   |   |   | 1 |   |   |   |   |   |    |    |    |    |    |    |    |    |
+|------------------------------------------------------------+---+---+---+---+---+---+---+---+---+----+----+----+----+----+----+----+----|
+| Engineering Chemistry                                      |   |   |   | 1 |   |   |   |   |   |    |    |    |    |    |    |    |    |
+|------------------------------------------------------------+---+---+---+---+---+---+---+---+---+----+----+----+----+----+----+----+----|
+| Problem Solving and Programming in Python                  |   |   |   | 1 |   |   |   |   |   |    |    |    |    |    |    |    |    |
+|------------------------------------------------------------+---+---+---+---+---+---+---+---+---+----+----+----+----+----+----+----+----|
+| Engineering Graphics                                       |   |   |   | 1 |   |   |   |   |   |    |    |    |    |    |    |    |    |
+|------------------------------------------------------------+---+---+---+---+---+---+---+---+---+----+----+----+----+----+----+----+----|
+| Physics and Chemistry Lab                                  |   |   |   | 1 |   |   |   |   |   |    |    |    |    |    |    |    |    |
+|------------------------------------------------------------+---+---+---+---+---+---+---+---+---+----+----+----+----+----+----+----+----|
+| Programming in Python Lab                                  |   |   |   | 1 |   |   |   |   |   |    |    |    |    |    |    |    |    |
+|------------------------------------------------------------+---+---+---+---+---+---+---+---+---+----+----+----+----+----+----+----+----|
+| Complex Functions and Laplace Transforms                   |   |   |   | 1 |   |   |   |   |   |    |    |    |    |    |    |    |    |
+|------------------------------------------------------------+---+---+---+---+---+---+---+---+---+----+----+----+----+----+----+----+----|
+| Basic Electrical and Electronics Engineering               |   |   |   | 1 |   |   |   |   |   |    |    |    |    |    |    |    |    |
+|------------------------------------------------------------+---+---+---+---+---+---+---+---+---+----+----+----+----+----+----+----+----|
+| Fundamentals and Practice of Software Development (TCP)    |   |   |   | 1 |   |   |   | 1 | 1 |    |    |    |    |    |    |    |    |
+|------------------------------------------------------------+---+---+---+---+---+---+---+---+---+----+----+----+----+----+----+----+----|
+| Environmental Science                                      |   |   | 1 | 1 |   | 1 | 1 |   |   |    |    |    |  1 |  1 |  1 |    |    |
+|------------------------------------------------------------+---+---+---+---+---+---+---+---+---+----+----+----+----+----+----+----+----|
+| Humanities Elective I                                      |   |   |   |   |   |   |   |   |   |    |    |    |    |    |    |    |    |
+|------------------------------------------------------------+---+---+---+---+---+---+---+---+---+----+----+----+----+----+----+----+----|
+| Foundations of Data Science                                |   |   |   | 1 |   |   |   |   |   |    |    |    |    |    |    |    |    |
+|------------------------------------------------------------+---+---+---+---+---+---+---+---+---+----+----+----+----+----+----+----+----|
+| Design Thinking and Engineering Practices Lab              |   |   |   | 1 |   |   |   |   |   |    |    |    |    |    |    |    |    |
+|------------------------------------------------------------+---+---+---+---+---+---+---+---+---+----+----+----+----+----+----+----+----|
+| Discrete Mathematics                                       |   |   |   | 1 |   |   |   |   |   |    |    |    |    |    |    |    |    |
+|------------------------------------------------------------+---+---+---+---+---+---+---+---+---+----+----+----+----+----+----+----+----|
+| Universal Human Values II                                  |   |   | 1 | 1 |   |   |   |   |   |    |    |    |    |    |    |    |    |
+|------------------------------------------------------------+---+---+---+---+---+---+---+---+---+----+----+----+----+----+----+----+----|
+| Digital Principles and System Design                       |   |   |   | 1 |   |   |   |   |   |    |  1 |    |    |    |    |    |    |
+|------------------------------------------------------------+---+---+---+---+---+---+---+---+---+----+----+----+----+----+----+----+----|
+| Data Structures                                            |   |   |   | 1 |   |   |   |   |   |    |    |    |    |    |    |    |    |
+|------------------------------------------------------------+---+---+---+---+---+---+---+---+---+----+----+----+----+----+----+----+----|
+| Object Oriented Programming                                |   |   |   | 1 |   |   |   |   |   |    |    |    |    |    |    |    |    |
+|------------------------------------------------------------+---+---+---+---+---+---+---+---+---+----+----+----+----+----+----+----+----|
+| Digital Design Lab                                         |   |   |   | 1 |   |   |   |   |   |    |    |    |    |    |    |    |    |
+|------------------------------------------------------------+---+---+---+---+---+---+---+---+---+----+----+----+----+----+----+----+----|
+| Data Structures Lab                                        |   |   |   | 1 |   |   |   | 1 |   |    |    |    |    |    |    |    |    |
+|------------------------------------------------------------+---+---+---+---+---+---+---+---+---+----+----+----+----+----+----+----+----|
+| Object Oriented Programming Lab                            |   |   |   | 1 |   |   |   | 1 |   |    |    |    |    |    |    |    |    |
+|------------------------------------------------------------+---+---+---+---+---+---+---+---+---+----+----+----+----+----+----+----+----|
+| Probability and Statistics                                 |   |   |   | 1 |   |   |   |   |   |    |    |    |    |    |    |    |    |
+|------------------------------------------------------------+---+---+---+---+---+---+---+---+---+----+----+----+----+----+----+----+----|
+| Indian Constitution                                        |   |   |   | 1 |   |   |   |   |   |    |    |    |    |    |    |    |    |
+|------------------------------------------------------------+---+---+---+---+---+---+---+---+---+----+----+----+----+----+----+----+----|
+| Computer Organization and Architecture                     |   |   |   | 1 |   |   |   |   |   |    |    |    |    |    |    |    |    |
+|------------------------------------------------------------+---+---+---+---+---+---+---+---+---+----+----+----+----+----+----+----+----|
+| Operating Systems                                          |   |   |   | 1 |   |   |   |   |   |    |    |    |    |    |    |    |    |
+|------------------------------------------------------------+---+---+---+---+---+---+---+---+---+----+----+----+----+----+----+----+----|
+| Design and Analysis of Algorithms (TCP)                    |   |   |   | 1 |   |   |   |   |   |    |    |    |    |    |    |    |    |
+|------------------------------------------------------------+---+---+---+---+---+---+---+---+---+----+----+----+----+----+----+----+----|
+| Database Management Systems                                |   |   |   | 1 |   |   |   |   |   |    |    |    |    |    |    |    |    |
+|------------------------------------------------------------+---+---+---+---+---+---+---+---+---+----+----+----+----+----+----+----+----|
+| Operating Systems Lab                                      |   |   |   | 1 |   |   |   | 1 |   |    |    |    |    |    |    |    |    |
+|------------------------------------------------------------+---+---+---+---+---+---+---+---+---+----+----+----+----+----+----+----+----|
+| Database Lab                                               |   |   |   | 1 |   |   |   | 1 |   |    |    |    |    |    |    |    |    |
+|------------------------------------------------------------+---+---+---+---+---+---+---+---+---+----+----+----+----+----+----+----+----|
+| Computer Networks                                          |   |   |   | 1 |   |   |   |   |   |    |    |    |    |    |    |    |    |
+|------------------------------------------------------------+---+---+---+---+---+---+---+---+---+----+----+----+----+----+----+----+----|
+| Microprocessors, Microcontrollers, and Interfacing         |   |   |   | 1 |   |   |   |   |   |    |    |    |    |    |    |    |    |
+|------------------------------------------------------------+---+---+---+---+---+---+---+---+---+----+----+----+----+----+----+----+----|
+| Foundations of Artificial Intelligence (TCP)               |   |   |   | 1 |   |   |   |   |   |    |    |    |    |    |    |    |    |
+|------------------------------------------------------------+---+---+---+---+---+---+---+---+---+----+----+----+----+----+----+----+----|
+| Software Engineering                                       |   |   |   | 1 |   |   |   |   |   |    |    |    |    |    |    |    |    |
+|------------------------------------------------------------+---+---+---+---+---+---+---+---+---+----+----+----+----+----+----+----+----|
+| Professional Elective I                                    |   |   |   |   |   |   |   |   |   |    |    |    |    |    |    |    |    |
+|------------------------------------------------------------+---+---+---+---+---+---+---+---+---+----+----+----+----+----+----+----+----|
+| Management Elective                                        |   |   |   |   |   |   |   |   |   |    |    |    |    |    |    |    |    |
+|------------------------------------------------------------+---+---+---+---+---+---+---+---+---+----+----+----+----+----+----+----+----|
+| Networks Lab                                               |   |   |   | 1 |   |   |   |   |   |    |  1 |    |    |    |    |    |    |
+|------------------------------------------------------------+---+---+---+---+---+---+---+---+---+----+----+----+----+----+----+----+----|
+| Microprocessors Lab                                        |   |   |   | 1 |   |   |   |   |   |    |  1 |    |    |    |    |    |    |
+|------------------------------------------------------------+---+---+---+---+---+---+---+---+---+----+----+----+----+----+----+----+----|
+| Internet Programming                                       |   |   |   | 1 |   |   |   |   |   |    |    |    |    |    |    |    |    |
+|------------------------------------------------------------+---+---+---+---+---+---+---+---+---+----+----+----+----+----+----+----+----|
+| Software System Security                                   |   |   |   | 1 |   |   |   |   |   |    |    |    |    |    |    |    |    |
+|------------------------------------------------------------+---+---+---+---+---+---+---+---+---+----+----+----+----+----+----+----+----|
+| Principles of Machine Learning                             |   |   |   | 1 |   |   |   |   |   |    |    |    |    |    |    |    |    |
+|------------------------------------------------------------+---+---+---+---+---+---+---+---+---+----+----+----+----+----+----+----+----|
+| Theory of Computation                                      |   |   |   | 1 |   |   |   |   |   |    |    |    |    |    |    |    |    |
+|------------------------------------------------------------+---+---+---+---+---+---+---+---+---+----+----+----+----+----+----+----+----|
+| Professional Elective II                                   |   |   |   |   |   |   |   |   |   |    |    |    |    |    |    |    |    |
+|------------------------------------------------------------+---+---+---+---+---+---+---+---+---+----+----+----+----+----+----+----+----|
+| Open Elective I                                            |   |   |   |   |   |   |   |   |   |    |    |    |    |    |    |    |    |
+|------------------------------------------------------------+---+---+---+---+---+---+---+---+---+----+----+----+----+----+----+----+----|
+| Internet Programming Lab                                   |   |   | 1 | 1 |   |   |   | 1 |   |    |  1 |    |    |    |    |    |    |
+|------------------------------------------------------------+---+---+---+---+---+---+---+---+---+----+----+----+----+----+----+----+----|
+| Machine Learning Lab                                       |   |   | 1 | 1 |   |   |   | 1 |   |    |  1 |    |    |    |    |    |    |
+|------------------------------------------------------------+---+---+---+---+---+---+---+---+---+----+----+----+----+----+----+----+----|
+| Distributed Systems                                        |   |   |   | 1 |   |   |   |   |   |    |    |    |    |    |    |  1 |    |
+|------------------------------------------------------------+---+---+---+---+---+---+---+---+---+----+----+----+----+----+----+----+----|
+| Software Architecture                                      |   |   |   | 1 |   |   |   |   |   |    |    |    |    |    |    |  1 |    |
+|------------------------------------------------------------+---+---+---+---+---+---+---+---+---+----+----+----+----+----+----+----+----|
+| Compiler Design (TCP)                                      |   |   |   | 1 |   |   |   |   |   |    |    |    |    |    |    |    |    |
+|------------------------------------------------------------+---+---+---+---+---+---+---+---+---+----+----+----+----+----+----+----+----|
+| Professional Elective III                                  |   |   |   |   |   |   |   |   |   |    |    |    |    |    |    |    |    |
+|------------------------------------------------------------+---+---+---+---+---+---+---+---+---+----+----+----+----+----+----+----+----|
+| Professional Elective IV                                   |   |   |   |   |   |   |   |   |   |    |    |    |    |    |    |    |    |
+|------------------------------------------------------------+---+---+---+---+---+---+---+---+---+----+----+----+----+----+----+----+----|
+| Professional Elective V                                    |   |   |   |   |   |   |   |   |   |    |    |    |    |    |    |    |    |
+|------------------------------------------------------------+---+---+---+---+---+---+---+---+---+----+----+----+----+----+----+----+----|
+| Project Work Phase I                                       |   |   | 1 | 1 |   |   |   | 1 | 1 |    |    |    |    |    |    |    |    |
+|------------------------------------------------------------+---+---+---+---+---+---+---+---+---+----+----+----+----+----+----+----+----|
+| Industrial Training / Internship                           |   |   |   | 1 |   |   |   | 1 | 1 |    |    |    |    |    |    |    |  1 |
+|------------------------------------------------------------+---+---+---+---+---+---+---+---+---+----+----+----+----+----+----+----+----|
+| Professional Elective VI                                   |   |   |   |   |   |   |   |   |   |    |    |    |    |    |    |    |    |
+|------------------------------------------------------------+---+---+---+---+---+---+---+---+---+----+----+----+----+----+----+----+----|
+| Open Elective II                                           |   |   |   |   |   |   |   |   |   |    |    |    |    |    |    |    |    |
+|------------------------------------------------------------+---+---+---+---+---+---+---+---+---+----+----+----+----+----+----+----+----|
+| Project Work Phase II                                      |   |   |   | 1 |   |   |   | 1 | 1 |    |    |    |    |    |    |    |  1 |
+|------------------------------------------------------------+---+---+---+---+---+---+---+---+---+----+----+----+----+----+----+----+----|
+| Languages and Communication                                |   |   |   | 1 |   |   |   | 1 |   |    |    |    |    |    |    |    |    |
+|------------------------------------------------------------+---+---+---+---+---+---+---+---+---+----+----+----+----+----+----+----+----|
+| Fundamentals of Linguistics                                |   |   |   | 1 |   |   |   | 1 |   |    |    |    |    |    |    |    |    |
+|------------------------------------------------------------+---+---+---+---+---+---+---+---+---+----+----+----+----+----+----+----+----|
+| Film Appreciation                                          |   |   |   |   |   |   |   |   |   |    |    |    |    |    |    |    |    |
+|------------------------------------------------------------+---+---+---+---+---+---+---+---+---+----+----+----+----+----+----+----+----|
+| Human Relations at Work                                    |   |   |   | 1 | 1 |   |   | 1 |   |    |  1 |    |    |    |    |    |    |
+|------------------------------------------------------------+---+---+---+---+---+---+---+---+---+----+----+----+----+----+----+----+----|
+| Application of Psychology in Everyday Life                 |   |   |   | 1 |   |   |   |   |   |    |  1 |    |    |    |    |    |    |
+|------------------------------------------------------------+---+---+---+---+---+---+---+---+---+----+----+----+----+----+----+----+----|
+| Understanding Society and Culture through Literature       |   |   |   | 1 |   |   |   |   |   |    |  1 |    |    |    |    |    |    |
+|------------------------------------------------------------+---+---+---+---+---+---+---+---+---+----+----+----+----+----+----+----+----|
+| Principles of Management                                   |   |   | 1 | 1 | 1 |   |   |   |   |    |    |    |    |    |    |    |    |
+|------------------------------------------------------------+---+---+---+---+---+---+---+---+---+----+----+----+----+----+----+----+----|
+| Total Quality Management                                   |   |   | 1 | 1 | 1 |   |   |   | 1 |    |    |    |    |    |    |    |    |
+|------------------------------------------------------------+---+---+---+---+---+---+---+---+---+----+----+----+----+----+----+----+----|
+| Work Ethics Corporate Social Responsibility and Governance | 1 | 1 | 1 | 1 | 1 |   |   | 1 |   |  1 |    |    |    |    |    |    |    |
+|------------------------------------------------------------+---+---+---+---+---+---+---+---+---+----+----+----+----+----+----+----+----|
+| Mathematics for Machine Learning                           |   |   |   | 1 |   |   |   |   |   |    |    |    |    |    |    |    |    |
+|------------------------------------------------------------+---+---+---+---+---+---+---+---+---+----+----+----+----+----+----+----+----|
+| Big Data Technologies                                      |   |   |   | 1 |   |   |   |   | 1 |    |    |    |    |    |    |    |    |
+|------------------------------------------------------------+---+---+---+---+---+---+---+---+---+----+----+----+----+----+----+----+----|
+| Software Testing                                           |   |   |   | 1 |   |   |   |   | 1 |    |    |  1 |    |    |    |    |    |
+|------------------------------------------------------------+---+---+---+---+---+---+---+---+---+----+----+----+----+----+----+----+----|
+| Image Processing and Analysis                              |   |   | 1 | 1 |   |   |   |   |   |    |    |    |    |  1 |  1 |    |    |
+|------------------------------------------------------------+---+---+---+---+---+---+---+---+---+----+----+----+----+----+----+----+----|
+| Logic Programming                                          |   |   |   | 1 |   |   |   |   |   |    |    |    |    |    |    |    |    |
+|------------------------------------------------------------+---+---+---+---+---+---+---+---+---+----+----+----+----+----+----+----+----|
+| UNIX Internals                                             |   |   |   | 1 |   |   |   |   |   |    |    |    |    |    |    |    |    |
+|------------------------------------------------------------+---+---+---+---+---+---+---+---+---+----+----+----+----+----+----+----+----|
+| Ethical Hacking and Tools                                  |   |   |   | 1 |   |   |   | 1 | 1 |    |    |    |    |    |    |    |    |
+|------------------------------------------------------------+---+---+---+---+---+---+---+---+---+----+----+----+----+----+----+----+----|
+| Advanced Database Management Systems                       |   |   | 1 | 1 |   |   |   |   | 1 |    |    |    |    |    |    |    |    |
+|------------------------------------------------------------+---+---+---+---+---+---+---+---+---+----+----+----+----+----+----+----+----|
+| Cloud Computing                                            |   |   |   | 1 |   |   |   |   |   |    |    |    |    |    |    |  1 |    |
+|------------------------------------------------------------+---+---+---+---+---+---+---+---+---+----+----+----+----+----+----+----+----|
+| Big Data Modeling and Management                           |   |   |   | 1 |   |   |   |   | 1 |    |    |    |    |    |    |    |    |
+|------------------------------------------------------------+---+---+---+---+---+---+---+---+---+----+----+----+----+----+----+----+----|
+| Software Configuration Management                          |   |   |   | 1 |   |   |   |   | 1 |    |    |    |    |    |    |    |    |
+|------------------------------------------------------------+---+---+---+---+---+---+---+---+---+----+----+----+----+----+----+----+----|
+| Probabilistic Graphical Models                             |   |   |   | 1 |   |   |   |   |   |    |    |    |    |    |    |    |    |
+|------------------------------------------------------------+---+---+---+---+---+---+---+---+---+----+----+----+----+----+----+----+----|
+| Natural Language Processing and Applications               |   |   | 1 | 1 |   |   |   |   |   |    |    |    |    |    |    |    |    |
+|------------------------------------------------------------+---+---+---+---+---+---+---+---+---+----+----+----+----+----+----+----+----|
+| Cyber Forensics                                            |   |   |   | 1 |   |   |   |   |   |    |  1 |    |    |    |    |    |    |
+|------------------------------------------------------------+---+---+---+---+---+---+---+---+---+----+----+----+----+----+----+----+----|
+| IoT Technologies                                           |   |   | 1 | 1 |   |   |   |   |   |    |  1 |    |    |    |    |    |    |
+|------------------------------------------------------------+---+---+---+---+---+---+---+---+---+----+----+----+----+----+----+----+----|
+| Bayesian Data Analysis                                     |   |   |   | 1 |   |   |   |   |   |    |    |    |    |    |    |    |    |
+|------------------------------------------------------------+---+---+---+---+---+---+---+---+---+----+----+----+----+----+----+----+----|
+| Wireless Adhoc and Sensor Networks                         |   |   |   | 1 |   |   |   |   |   |    |  1 |    |    |    |    |    |    |
+|------------------------------------------------------------+---+---+---+---+---+---+---+---+---+----+----+----+----+----+----+----+----|
+| Object Oriented Analysis and Design                        |   |   |   | 1 |   |   |   |   | 1 |    |    |    |    |    |    |    |    |
+|------------------------------------------------------------+---+---+---+---+---+---+---+---+---+----+----+----+----+----+----+----+----|
+| Soft Computing                                             |   |   |   | 1 |   |   |   |   | 1 |    |    |    |    |    |    |    |    |
+|------------------------------------------------------------+---+---+---+---+---+---+---+---+---+----+----+----+----+----+----+----+----|
+| Deep Learning                                              |   |   |   | 1 |   |   |   |   | 1 |    |  1 |    |    |    |    |    |    |
+|------------------------------------------------------------+---+---+---+---+---+---+---+---+---+----+----+----+----+----+----+----+----|
+| Multicore Architectures and Programming                    |   |   |   | 1 |   |   |   |   |   |    |    |    |    |    |    |    |    |
+|------------------------------------------------------------+---+---+---+---+---+---+---+---+---+----+----+----+----+----+----+----+----|
+| Network and Server Security                                |   |   |   | 1 |   |   |   |   |   |    |  1 |    |    |    |    |    |    |
+|------------------------------------------------------------+---+---+---+---+---+---+---+---+---+----+----+----+----+----+----+----+----|
+| Health Care Data Analytics                                 |   |   | 1 | 1 |   |   |   |   | 1 |    |    |    |    |    |    |    |    |
+|------------------------------------------------------------+---+---+---+---+---+---+---+---+---+----+----+----+----+----+----+----+----|
+| User Experience Design                                     |   |   |   | 1 |   |   |   |   | 1 |    |    |    |    |    |    |    |    |
+|------------------------------------------------------------+---+---+---+---+---+---+---+---+---+----+----+----+----+----+----+----+----|
+| Social Network Analysis and Applications                   |   |   |   | 1 |   |   |   |   | 1 |    |    |    |    |    |    |    |    |
+|------------------------------------------------------------+---+---+---+---+---+---+---+---+---+----+----+----+----+----+----+----+----|
+| Principles of Reinforcement Learning                       |   |   |   | 1 |   |   |   |   |   |    |    |    |    |    |    |    |    |
+|------------------------------------------------------------+---+---+---+---+---+---+---+---+---+----+----+----+----+----+----+----+----|
+| Blockchain Technologies                                    |   |   |   | 1 |   |   |   |   | 1 |    |    |    |    |    |    |    |    |
+|------------------------------------------------------------+---+---+---+---+---+---+---+---+---+----+----+----+----+----+----+----+----|
+| Embedded Systems Design                                    |   |   | 1 | 1 |   |   |   |   |   |    |  1 |    |    |    |    |    |    |
+|------------------------------------------------------------+---+---+---+---+---+---+---+---+---+----+----+----+----+----+----+----+----|
+| Graphics and Multimedia                                    |   |   |   | 1 |   |   |   |   |   |    |    |    |    |    |    |    |    |
+|------------------------------------------------------------+---+---+---+---+---+---+---+---+---+----+----+----+----+----+----+----+----|
+| Business Intelligence                                      |   |   |   | 1 |   |   |   | 1 |   |    |    |    |    |    |    |    |    |
+|------------------------------------------------------------+---+---+---+---+---+---+---+---+---+----+----+----+----+----+----+----+----|
+| Agile Methodologies                                        |   |   |   | 1 |   |   |   | 1 | 1 |    |    |    |    |    |    |    |    |
+|------------------------------------------------------------+---+---+---+---+---+---+---+---+---+----+----+----+----+----+----+----+----|
+| Time Series Analysis and Forecasting                       |   |   |   | 1 |   |   |   |   |   |    |    |    |    |    |    |    |    |
+|------------------------------------------------------------+---+---+---+---+---+---+---+---+---+----+----+----+----+----+----+----+----|
+| Computer Vision                                            |   |   | 1 | 1 |   |   |   |   |   |    |    |    |    |  1 |  1 |    |    |
+|------------------------------------------------------------+---+---+---+---+---+---+---+---+---+----+----+----+----+----+----+----+----|
+| Speech Processing and Synthesis                            |   |   |   | 1 |   |   |   |   | 1 |    |    |    |    |    |    |    |    |
+|------------------------------------------------------------+---+---+---+---+---+---+---+---+---+----+----+----+----+----+----+----+----|
+| Mobile Computing                                           |   |   |   | 1 |   |   |   |   | 1 |    |    |    |    |    |    |    |    |
+|------------------------------------------------------------+---+---+---+---+---+---+---+---+---+----+----+----+----+----+----+----+----|
+| Mobile and Wireless Security                               |   |   |   | 1 |   |   |   |   | 1 |    |  1 |    |    |    |    |    |    |
+|------------------------------------------------------------+---+---+---+---+---+---+---+---+---+----+----+----+----+----+----+----+----|
+| Bioinformatics Technologies                                |   |   | 1 | 1 |   |   |   |   |   |    |    |    |    |    |    |    |    |
+|------------------------------------------------------------+---+---+---+---+---+---+---+---+---+----+----+----+----+----+----+----+----|
+| Formal System Verification                                 |   |   |   | 1 |   |   |   |   |   |    |    |    |    |    |    |    |    |
+|------------------------------------------------------------+---+---+---+---+---+---+---+---+---+----+----+----+----+----+----+----+----|
+| Service Oriented Architecture                              |   |   |   | 1 |   |   |   |   |   |    |    |    |    |    |    |    |    |
+|------------------------------------------------------------+---+---+---+---+---+---+---+---+---+----+----+----+----+----+----+----+----|
+| Information Retrieval Techniques                           |   |   |   | 1 |   |   |   |   |   |    |    |    |    |    |    |    |    |
+|------------------------------------------------------------+---+---+---+---+---+---+---+---+---+----+----+----+----+----+----+----+----|
+| Introduction to Robotics                                   |   |   |   | 1 |   |   |   |   |   |    |    |    |    |    |    |    |    |
+|------------------------------------------------------------+---+---+---+---+---+---+---+---+---+----+----+----+----+----+----+----+----|
+| Software Defined Networking                                |   |   |   | 1 |   |   |   |   |   |    |    |    |    |    |    |    |    |
+|------------------------------------------------------------+---+---+---+---+---+---+---+---+---+----+----+----+----+----+----+----+----|
+| Parallel Algorithms                                        |   |   |   | 1 |   |   |   |   |   |    |    |    |    |    |    |    |    |
+|------------------------------------------------------------+---+---+---+---+---+---+---+---+---+----+----+----+----+----+----+----+----|

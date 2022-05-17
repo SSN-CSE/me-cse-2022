@@ -1,0 +1,184 @@
+#+BEGIN_COMMENT
+#+title: SSN College of Engineering (Autonomous)
+#+title: (Affiliated to Anna University, Chennai)\\
+
+#+TITLE: B.E. COMPUTER SCIENCE AND ENGINEERING
+#+subtitle: Department of Computer Science and Engineering
+#+author:  Regulations 2021
+#+date: 31 March 2021
+#+END_COMMENT
+
+#+options: num:nil toc:nil
+
+#+LATEX_CLASS: article
+#+LATEX_CLASS_OPTIONS: [a4paper,12pt]
+#+LATEX_HEADER: \usepackage{comment}
+#+LATEX_HEADER: \usepackage{titlesec}
+#+LATEX_HEADER: \usepackage{gentium}
+#+LATEX_HEADER: \usepackage{array}
+#+LATEX_HEADER: \usepackage{tabularx}
+#+LATEX_HEADER: \usepackage{longtable}
+#+LATEX_HEADER: \usepackage{xltabular}
+#+LaTeX_HEADER: \usepackage[top=1in, bottom=1.25in, left=1in, right=1in]{geometry}
+#+LATEX: \setlength{\parindent}{0em}
+#+LATEX: \newcolumntype{Y}{>{\small\raggedright\arraybackslash}X}
+#+LATEX: \newcolumntype{Z}{>{\hsize=.2\hsize}X}
+#+LATEX: \newcolumntype{W}{>{\hsize=9\hsize}X}
+#+LATEX: \newcolumntype{L}{>{\hsize=.4\hsize}X}
+#+LATEX: \newcolumntype{K}{>{\hsize=9.4\hsize}X}
+#+LATEX: \newcolumntype{S}{>{\hsize=1.2\hsize}X}
+#+LATEX: \newcolumntype{T}{>{\hsize=6.4\hsize}X}
+#+LATEX: \newcolumntype{U}{>{\hsize=.3\hsize}X}
+#+LATEX: \newcolumntype{V}{>{\hsize=.1\hsize}X}
+#+LATEX: \newcolumntype{P}[1]{>{\centering\arraybackslash}p{#1}}
+#+LATEX: \titleformat{\section}{\bfseries\Large}{}{}{\centering}
+
+#+MACRO: logo #+attr_latex: :scale 0.5
+#+MACRO: title-tab #+attr_latex: :environment tabular :align @{}p{.1\textwidth}P{.63\textwidth}p{.02\textwidth}p{.02\textwidth}p{.02\textwidth}p{.02\textwidth}p{.02\textwidth} :font \bf
+#+MACRO: tcp-title-tab #+attr_latex: :environment tabular :align @{}p{.1\textwidth}P{.62\textwidth}p{.03\textwidth}p{.03\textwidth}p{.03\textwidth}p{.03\textwidth}p{.03\textwidth} :font \bf
+#+MACRO: unit #+attr_latex: :width 100 :align @{}p{.125\textwidth}p{.78\textwidth}p{.15\textwidth}@{} :font \bf
+#+MACRO: credits #+attr_latex: :center nil
+#+MACRO: clrpage #+latex: \clearpage
+# +MACRO: clrpage (eval (message "#+latex: \\clearpage"))
+#+MACRO: newpage #+latex: \clearpage
+#+MACRO: curriculum-table #+attr_latex: :environment tabular :align |p{.02\textwidth}|p{.09\textwidth}|p{.34\textwidth}|p{.09\textwidth}|p{.07\textwidth}|p{.03\textwidth}|p{.03\textwidth}|p{.03\textwidth}|p{.03\textwidth}|p{.03\textwidth}|
+#+MACRO: curriculum-table2 #+attr_latex: :environment tabular :align |p{.02\textwidth}|p{.09\textwidth}|p{.35\textwidth}|p{.08\textwidth}|p{.07\textwidth}|p{.03\textwidth}|p{.03\textwidth}|p{.03\textwidth}|p{.03\textwidth}|p{.03\textwidth}|
+#+MACRO: curriculum-table3 #+attr_latex: :environment tabular :align |p{.02\textwidth}|p{.09\textwidth}|p{.35\textwidth}|p{.08\textwidth}|p{.03\textwidth}|p{.03\textwidth}|p{.03\textwidth}|p{.03\textwidth}|p{.03\textwidth}|
+#+MACRO: specialization-table #+attr_latex: :environment tabularx :width \textwidth :align cYYY
+#+MACRO: category-table #+attr_latex: :font \small
+#+MACRO: open-elective-table #+attr_latex: :environment longtable :align @{}p{.1\textwidth}p{.45\textwidth}p{.45\textwidth}
+#+MACRO: co-po-pso-table #+attr_latex: :environment xltabular :width \textwidth :align WZZZZZZZZZZZZZZZ
+#+MACRO: course-sdg-table #+attr_latex: :environment xltabular :width \textwidth :align |K|L|L|L|L|L|L|L|L|L|L|L|L|L|L|L|L|L|
+#+MACRO: sdg-table #+attr_latex: :environment tabularx :width \textwidth :align c>{\raggedright\hsize=.5\hsize}X>{\hsize=1.5\hsize}X
+#+MACRO: po-peo-table #+attr_latex: :environment tabularx :width \textwidth :align ZZZZZZZZZZZZZZZZ
+#+MACRO: open-electives-table #+attr_latex: :environment xltabular :width \textwidth :align |p{.1\textwidth}|p{.6\textwidth}|p{.03\textwidth}|p{.03\textwidth}|p{.03\textwidth}|p{.03\textwidth}|p{.03\textwidth}|
+
+#+BEGIN_CENTER
+#+latex: \LARGE
+Sri Sivasubramaniya Nadar College of Engineering\\
+#+latex: \large
+(An Autonomous Institution, Affiliated to Anna University, Chennai)
+#+latex: \vfill
+
+#+latex: \LARGE
+REGULATIONS 2021\\
+CHOICE BASED CREDIT SYSTEM\\
+#+latex: \bigskip
+*M.E. COMPUTER SCIENCE AND ENGINEERING*\\
+Curriculum and Syllabi\\
+#+latex: \bigskip
+Department of Computer Science and Engineering
+
+#+latex: \vfill
+#+attr_latex: :width .2\linewidth
+[[file:ssn.jpg]]
+#+END_CENTER
+
+#+latex: \newpage
+#+include: "./main-2-peo-po-v1.org"
+{{{clrpage}}}
+
+#+include: "./main-3-courses-v1.org"
+{{{clrpage}}}
+
+# +include: "./main-4-structure-v1.org"
+# {{{newpage}}}
+
+#+latex: \newpage
+
+* SEMESTER I
+#+include: "./me-cse-2022/101-Applied-Probability-and-Statistics.org"
+{{{clrpage}}}
+#+include: "./me-cse-2022/102-Advanced-Data-Structures-and-Algorithms.org"
+{{{clrpage}}}
+#+include: "./me-cse-2022/103-Advanced-Databases.org"
+{{{clrpage}}}
+#+include: "./me-cse-2022/104-Principles-of-Data-Science.org"
+{{{clrpage}}}
+#+include: "./me-cse-2022/105-Research-Methodology-IPR.org"
+{{{clrpage}}}
+#+include: "./me-cse-2022/106-Advanced-Software-Engineering.org"
+{{{clrpage}}}
+#+include: "./me-cse-2022/107-Advanced-Data-Structures-and-Algorithms-Lab.org"
+{{{clrpage}}}
+#+include: "./me-cse-2022/108-Data-Science-Lab.org"
+{{{clrpage}}}
+
+* SEMESTER II
+#+include: "./me-cse-2022/201-Machine-Learning.org"
+{{{clrpage}}}
+#+include: "./me-cse-2022/202-Internet-of-Things.org"
+{{{clrpage}}}
+#+include: "./me-cse-2022/207-Machine-Learning-Lab.org"
+{{{clrpage}}}
+#+include: "./me-cse-2022/208-Internet-of-Things-Lab.org"
+{{{clrpage}}}
+
+* SEMESTER III
+#+include: "./me-cse-2022/304-Project-Work-Phase-I.org"
+{{{clrpage}}}
+
+* SEMESTER IV
+#+include: "./me-cse-2022/401-Project-Work-Phase-II.org"
+{{{clrpage}}}
+
+* PROFESSIONAL ELECTIVES
+#+include: "./me-cse-2022/PE11-Agile-Software-Engineering.org"
+{{{clrpage}}}
+#+include: "./me-cse-2022/PE12-Natural-Language-Processing.org"
+{{{clrpage}}}
+#+include: "./me-cse-2022/PE13-Speech-Processing-and-Synthesis.org"
+{{{clrpage}}}
+#+include: "./me-cse-2022/PE14-Advanced-Networks.org"
+{{{clrpage}}}
+#+include: "./me-cse-2022/PE15-Cloud-Computing.org"
+{{{clrpage}}}
+#+include: "./me-cse-2022/PE16-Web-Application-Development.org"
+{{{clrpage}}}
+#+include: "./me-cse-2022/PE21-Software-Architecture-and-Design.org"
+{{{clrpage}}}
+#+include: "./me-cse-2022/PE22-Cognitive-Computing.org"
+{{{clrpage}}}
+#+include: "./me-cse-2022/PE23-Bio-Informatics.org"
+{{{clrpage}}}
+#+include: "./me-cse-2022/PE24-Social-Network-Analysis.org"
+{{{clrpage}}}
+#+include: "./me-cse-2022/PE25-Wireless-Adhoc-and-Sensor-Networks.org"
+{{{clrpage}}}
+#+include: "./me-cse-2022/PE26-Modern-Operating-Systems.org"
+{{{clrpage}}}
+#+include: "./me-cse-2022/PE31-Formal-System-Verification.org"
+{{{clrpage}}}
+#+include: "./me-cse-2022/PE32-Image-Processing-and-Analysis.org"
+{{{clrpage}}}
+#+include: "./me-cse-2022/PE33-Data-Visualization-Techniques.org"
+{{{clrpage}}}
+#+include: "./me-cse-2022/PE34-Soft-Computing.org"
+{{{clrpage}}}
+#+include: "./me-cse-2022/PE35-Cyber-Security.org"
+{{{clrpage}}}
+#+include: "./me-cse-2022/PE36-Multicore-Architecture-and-GPU-Programming.org"
+{{{clrpage}}}
+#+include: "./me-cse-2022/PE41-Software-Project-Management.org"
+{{{clrpage}}}
+#+include: "./me-cse-2022/PE42-Healthcare-Data-Analytics.org"
+{{{clrpage}}}
+#+include: "./me-cse-2022/PE43-Edge-Analytics.org"
+{{{clrpage}}}
+#+include: "./me-cse-2022/PE44-Functional-Programming.org"
+{{{clrpage}}}
+#+include: "./me-cse-2022/PE45-Security-Principles-and-Practice.org"
+{{{clrpage}}}
+#+include: "./me-cse-2022/PE46-Mobile-and-Pervasive-Computing.org"
+{{{clrpage}}}
+#+include: "./me-cse-2022/PE51-Software-Configuration-Management.org"
+{{{clrpage}}}
+#+include: "./me-cse-2022/PE52-Deep-Learning.org"
+{{{clrpage}}}
+#+include: "./me-cse-2022/PE53-Computer-Vision.org"
+{{{clrpage}}}
+#+include: "./me-cse-2022/PE54-Information-Retrieval-Techniques.org"
+{{{clrpage}}}
+#+include: "./me-cse-2022/PE55-Software-Defined-Networks.org"
+{{{clrpage}}}
+#+include: "./me-cse-2022/PE56-Blockchain-Technologies.org"

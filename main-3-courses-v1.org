@@ -1,0 +1,180 @@
+# +STARTUP: showall
+
+* CURRICULUM
+# +name: curriculum
+
+** SEMESTER I
+{{{curriculum-table}}}
+|----+------+---------------------------------------------+----------+---------+----+---+---+-----|
+| No | Code | Course Title                                | Category | Periods |  L | T | P |   C |
+|----+------+---------------------------------------------+----------+---------+----+---+---+-----|
+|    |      | /Theory/                                    |          |         |    |   |   |     |
+|----+------+---------------------------------------------+----------+---------+----+---+---+-----|
+|  1 |      | Linear Algebra and Estimation Theory        | FC       |       4 |  3 | 1 | 0 |   4 |
+|  2 |      | Advanced-Data-Structures-and-Algorithms     | PC       |       3 |  3 | 0 | 0 |   3 |
+|  3 |      | Advanced-Databases                          | PC       |       3 |  3 | 0 | 0 |   3 |
+|  4 |      | Principles-of-Data-Science                  | PC       |       3 |  3 | 0 | 0 |   3 |
+|  5 |      | Advanced-Software-Engineering               | PC       |       3 |  3 | 0 | 0 |   3 |
+|  6 |      | Research-Methodology-IPR                    | MLC      |       2 |  2 | 0 | 0 |   2 |
+|    |      | /Practical/                                 |          |         |    |   |   |     |
+|  7 |      | Advanced-Data-Structures-and-Algorithms-Lab | PC       |       3 |  0 | 0 | 3 | 1.5 |
+|  8 |      | Data-Science-Lab                            |          |       3 |  0 | 0 | 3 | 1.5 |
+|----+------+---------------------------------------------+----------+---------+----+---+---+-----|
+|    |      | /Total/                                     |          |      24 | 17 | 1 | 6 | 21. |
+|----+------+---------------------------------------------+----------+---------+----+---+---+-----|
+#+TBLFM: @12$5..@12$>=vsum(@3..@8)+vsum(@10..@11)
+
+** SEMESTER II
+{{{curriculum-table}}}
+|----+------+----------------------------+----------+---------+----+---+----+-----|
+| No | Code | Course Title               | Category | Periods |  L | T |  P |   C |
+|----+------+----------------------------+----------+---------+----+---+----+-----|
+|    |      | /Theory/                   |          |         |    |   |    |     |
+|----+------+----------------------------+----------+---------+----+---+----+-----|
+|  1 |      | Machine-Learning       | PC       |       3 |  3 | 0 |  0 |   3 |
+|  2 |      | Internet-of-Things     | PC       |       3 |  3 | 0 |  0 |   3 |
+|  3 |      | Program Elective I         | PE       |       3 |  3 | 0 |  0 |   3 |
+|  4 |      | Program Elective II        | PE       |       3 |  3 | 0 |  0 |   3 |
+|  5 |      | Program Elective III       | PE       |       3 |  3 | 0 |  0 |   3 |
+|  6 |      | Audit Course               | AC       |       2 |  2 | 0 |  0 |   0 |
+|    |      | /Practical/                |          |         |    |   |    |     |
+|  7 |      | Machine-Learning-Lab   | PC       |       3 |  0 | 0 |  3 | 1.5 |
+|  8 |      | Internet-of-Things-Lab | PC       |       3 |  0 | 0 |  3 | 1.5 |
+|  9 |      | Internship with Seminar    | EEC      |       4 |  0 | 0 |  4 |   2 |
+|----+------+----------------------------+----------+---------+----+---+----+-----|
+|    |      | /Total/                    |          |      27 | 17 | 0 | 10 | 20. |
+|----+------+----------------------------+----------+---------+----+---+----+-----|
+#+TBLFM: @13$5..@13$>=vsum(@3..@8)+vsum(@10..@12)
+
+** SEMESTER III
+{{{curriculum-table}}}
+|----+------+--------------------------+----------+---------+---+---+----+----|
+| No | Code | Course Title             | Category | Periods | L | T |  P |  C |
+|----+------+--------------------------+----------+---------+---+---+----+----|
+|    |      | /Theory/                 |          |         |   |   |    |    |
+|----+------+--------------------------+----------+---------+---+---+----+----|
+|  1 |      | Program Elective IV      | PE       |       3 | 3 | 0 |  0 |  3 |
+|  2 |      | Program Elective V       | PE       |       3 | 3 | 0 |  0 |  3 |
+|  3 |      | Open Elective            | OE       |       3 | 3 | 0 |  0 |  3 |
+|    |      | /Practical/              |          |         |   |   |    |    |
+|  3 |      | Project-Work-Phase-I | EEC      |      12 | 0 | 0 | 12 |  6 |
+|----+------+--------------------------+----------+---------+---+---+----+----|
+|    |      | /Total/                  |          |      21 | 9 | 0 | 12 | 15 |
+|----+------+--------------------------+----------+---------+---+---+----+----|
+#+TBLFM: @8$5..@8$>=vsum(@3..@5)+@7
+
+** SEMESTER IV
+{{{curriculum-table}}}
+|----+------+---------------------------+----------+---------+---+---+----+----|
+| No | Code | Course Title              | Category | Periods | L | T |  P |  C |
+|----+------+---------------------------+----------+---------+---+---+----+----|
+|    |      | /Practical/               |          |         |   |   |    |    |
+|  1 |      | Project-Work-Phase-II | EEC      |      24 | 0 | 0 | 24 | 12 |
+|----+------+---------------------------+----------+---------+---+---+----+----|
+|    |      | /Total/                   |          |      24 | 0 | 0 | 24 | 12 |
+|----+------+---------------------------+----------+---------+---+---+----+----|
+#+TBLFM: @4$5..@4$>=@3
+
+\hfill *Total number of credits: 68*
+
+# | Cat     | Category                        |
+# | Periods | Contact periods per week        |
+| L   | Lecture periods  per week              |
+| T   | Tutorial  periods per week             |
+| P   | Practical periods per week             |
+| C   | Credits                                |
+| TCP | Theory-cum Practical                   |
+
+
+** PROFESSIONAL ELECTIVES
+*** Professional Elective I
+{{{curriculum-table}}}
+|----+------+---------------------------------+---------+---+---+---+---|
+| No | Code | Course Title                    | Periods | L | T | P | C |
+|----+------+---------------------------------+---------+---+---+---+---|
+|  1 |      | Agile-Software-Engineering      |       3 | 3 | 0 | 0 | 3 |
+|  2 |      | Natural-Language-Processing     |       2 | 2 | 0 | 2 | 3 |
+|  3 |      | Speech-Processing-and-Synthesis |       3 | 3 | 0 | 0 | 3 |
+|  4 |      | Advanced-Networks               |       3 | 3 | 0 | 0 | 3 |
+|  5 |      | Cloud-Computing                 |       3 | 3 | 0 | 0 | 3 |
+|  6 |      | Web-Application-Development     |       4 | 2 | 0 | 2 | 3 |
+|----+------+---------------------------------+---------+---+---+---+---|
+
+{{{clrpage}}}
+*** Professional Elective II
+{{{curriculum-table}}}    
+|----+------+----------------------------------------+---------+---+---+---+---|
+| No | Code | Course Title                           | Periods | L | T | P | C |
+|----+------+----------------------------------------+---------+---+---+---+---|
+|  1 |      | Software-Architecture-and-Design   |       3 | 3 | 0 | 0 | 3 |
+|  2 |      | Cognitive-Computing                |       3 | 3 | 0 | 0 | 3 |
+|  3 |      | Bio-Informatics                    |       3 | 3 | 0 | 0 | 3 |
+|  4 |      | Social-Network-Analysis            |       3 | 3 | 0 | 0 | 3 |
+|  5 |      | Wireless-Adhoc-and-Sensor-Networks |       3 | 3 | 0 | 0 | 3 |
+|  6 |      | Modern-Operating-Systems           |       3 | 3 | 0 | 0 | 3 |
+|----+------+----------------------------------------+---------+---+---+---+---|
+
+*** Professional Elective III
+{{{curriculum-table}}}    
+|----+------+------------------------------------------------+---------+---+---+---+---|
+| No | Code | Course Title                                   | Periods | L | T | P | C |
+|----+------+------------------------------------------------+---------+---+---+---+---|
+|  1 |      | Formal-System-Verification                 |       3 | 3 | 0 | 0 | 3 |
+|  2 |      | Image-Processing-and-Analysis              |       4 | 2 | 0 | 2 | 3 |
+|  3 |      | Data-Visualization-Techniques              |       3 | 3 | 0 | 0 | 3 |
+|  4 |      | Soft-Computing                             |       3 | 3 | 0 | 0 | 3 |
+|  5 |      | Cyber-Security                             |       4 | 2 | 0 | 2 | 3 |
+|  6 |      | Multicore-Architecture-and-GPU-Programming |       3 | 3 | 0 | 0 | 3 |
+|----+------+------------------------------------------------+---------+---+---+---+---|
+
+*** Professional Elective IV
+{{{curriculum-table}}}    
+|----+------+--------------------------------------+---------+---+---+---+---|
+| No | Code | Course Title                         | Periods | L | T | P | C |
+|----+------+--------------------------------------+---------+---+---+---+---|
+|  1 |      | Software-Project-Management      |       3 | 3 | 0 | 0 | 3 |
+|  2 |      | Healthcare-Data-Analytics        |       4 | 2 | 0 | 2 | 3 |
+|  3 |      | Edge-Analytics                   |       3 | 3 | 0 | 0 | 3 |
+|  4 |      | Functional-Programming           |       3 | 3 | 0 | 0 | 3 |
+|  5 |      | Security-Principles-and-Practice |       3 | 3 | 0 | 0 | 3 |
+|  6 |      | Mobile-and-Pervasive-Computing   |       3 | 3 | 0 | 0 | 3 |
+|----+------+--------------------------------------+---------+---+---+---+---|
+{{{clrpage}}}
+
+*** Professional Elective V
+{{{curriculum-table}}}    
+|----+------+---------------------------------------+---------+---+---+---+---|
+| No | Code | Course Title                          | Periods | L | T | P | C |
+|----+------+---------------------------------------+---------+---+---+---+---|
+|  1 |      | Software-Configuration-Management |       3 | 3 | 0 | 0 | 3 |
+|  2 |      | Deep-Learning                     |       4 | 2 | 0 | 2 | 3 |
+|  3 |      | Computer-Vision                   |       3 | 3 | 0 | 0 | 3 |
+|  4 |      | Information-Retrieval-Techniques  |       3 | 3 | 0 | 0 | 3 |
+|  5 |      | Software-Defined-Networks         |       3 | 3 | 0 | 0 | 3 |
+|  6 |      | Blockchain-Technologies           |       3 | 3 | 0 | 0 | 3 |
+|----+------+---------------------------------------+---------+---+---+---+---|
+
+** COMMENT OPEN ELECTIVES OFFERED BY CSE (TO OTHER DEPARTMENTS)
+{{{curriculum-table}}}
+|----+------+----------------------------------------+----------+---------+---+---+---+---+---|
+| No | Code | Course Title                           | Category | Periods | L | T | P | E | C |
+|----+------+----------------------------------------+----------+---------+---+---+---+---+---|
+|    |      | *Open Electives I (Semester VI)*       |          |         |   |   |   |   |   |
+|----+------+----------------------------------------+----------+---------+---+---+---+---+---|
+|  1 | OE1  | Introduction to Data Structures        | OE       |       4 | 2 | 0 | 2 | 0 | 3 |
+|----+------+----------------------------------------+----------+---------+---+---+---+---+---|
+|  2 | OE2  | Object Oriented Programming Techniques | OE       |       4 | 2 | 0 | 2 | 0 | 3 |
+|----+------+----------------------------------------+----------+---------+---+---+---+---+---|
+|  3 | OE3  | Problem Solving and Programming in C   | OE       |       4 | 2 | 0 | 2 | 0 | 3 |
+|----+------+----------------------------------------+----------+---------+---+---+---+---+---|
+|    |      | *Open Electives II (Semester VIII)*    |          |         |   |   |   |   |   |
+|----+------+----------------------------------------+----------+---------+---+---+---+---+---|
+|  4 | OE4  | Introduction to Big Data Analytics     | OE       |       4 | 2 | 0 | 2 | 0 | 3 |
+|----+------+----------------------------------------+----------+---------+---+---+---+---+---|
+|  5 | OE5  | Machine Learning Applications          | OE       |       4 | 2 | 0 | 2 | 0 | 3 |
+|----+------+----------------------------------------+----------+---------+---+---+---+---+---|
+|  6 | OE6  | Web Technology                         | OE       |       4 | 2 | 0 | 2 | 0 | 3 |
+|----+------+----------------------------------------+----------+---------+---+---+---+---+---|
+All open electives are TCP (Theory cum Practical).
+
+** 
