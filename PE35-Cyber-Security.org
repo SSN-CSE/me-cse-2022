@@ -6,14 +6,8 @@
 
 #+startup: showall
 {{{title-tab}}}
-<<<<<<< HEAD
 | CODE | COURSE TITLE   | L | T | P | C |
 |      | CYBER SECURITY | 2 | 0 | 2 | 3 |
-=======
-| CODE    | COURSE TITLE    | L | T | P | E | C |
-| 103 | CYBER SECURITY  | 2 | 0 | 2 | 0 | 3 |
->>>>>>> 74dc0213c24c4cc2cd4cfd70cbe9d022d5b5a4a3
-
 
 ** COURSE OBJECTIVES
 - To get introduced to cyber security cybercrime and law
@@ -65,17 +59,7 @@ After the completion of this course, students will be able to
 4. Apply intrusion detection techniques to detect intrusion (K3) 
 5. Apply intrusion prevention techniques to prevent intrusion (K3) 
 
-<<<<<<< HEAD
 ** REFERENCES
-1. Anand Shinde, ``Introduction to Cyber Security Guide to the World of Cyber Security'', Notion Press, 2021. 
-2. Nina Godbole, Sunit Belapure, ``Cyber Security: Understanding Cyber Crimes, Computer Forensics and Legal Perspectives'', Wiley publisher, 2011.
-3. David Kim, Michael G. Solomon, ``Fundamentals of Information Systems Security'', Jones & Bartlett Learning publisher, 2013, 2021.
-4. Patrick Engebretson, ``The Basics of Hacking and Penetration Testing Ethical Hacking and Penetration Testing Made Easy'', Elsevier, 2011.
-5. Kimberly Graves, ``CEH Official Certified Ethical Hacker Review Guide'', Wiley publisher, 2007. 
-6. William Stallings, Lawrie Brown, ``Computer Security Principles and Practice'', Third Edition, Pearson Education, 2015 . 
-7. Georgia Weidman, ``Penetration testing A Hands-On Introduction to Hacking'' San Francisco, 2014.
-=======
-** REFERENCE BOOKS
 1. Anand Shinde, ``Introduction to Cyber Security Guide to the World of Cyber Security'', Notion Press, 2021.  (Unit 1)
 2. Nina Godbole, Sunit Belapure, ``Cyber Security: Understanding Cyber Crimes, Computer Forensics and Legal Perspectives'', Wiley publisher, 2011. (Unit 1)
 3. David Kim, Michael G. Solomon, ``Fundamentals of Information Systems Security'', Jones & Bartlett Learning publisher, 2013. (Unit 2)
@@ -83,7 +67,6 @@ After the completion of this course, students will be able to
 5. Kimberly Graves, ``CEH Official Certified Ethical Hacker Review Guide'', Wiley publisher, 2007.  (Unit 3)
 6. William Stallings, Lawrie Brown, ``Computer Security Principles and Practice'', Third Edition, Pearson Education, 2015 .  (Unit 4 and 5)
 7. Georgia Weidman, ``Penetration testing A Hands-On Introduction to Hacking'' San Francisco, 2014. (Lab)
->>>>>>> 74dc0213c24c4cc2cd4cfd70cbe9d022d5b5a4a3
 
 #+begin_comment
 BOOK 1: Introduction to Cyber Security Guide to the World of Cyber Security By Anand Shinde 2021 
