@@ -6,8 +6,13 @@
 
 #+startup: showall
 {{{title-tab}}}
+<<<<<<< HEAD
 | CODE | COURSE TITLE   | L | T | P | C |
 |      | CYBER SECURITY | 2 | 0 | 2 | 3 |
+=======
+| CODE    | COURSE TITLE    | L | T | P | E | C |
+| 103 | CYBER SECURITY  | 2 | 0 | 2 | 0 | 3 |
+>>>>>>> 74dc0213c24c4cc2cd4cfd70cbe9d022d5b5a4a3
 
 
 ** COURSE OBJECTIVES
@@ -40,28 +45,27 @@ Intrusion Detection: Host-Based Intrusion Detection -- Network-Based Intrusion D
 \hfill *Theory Periods: 30* 
 
 ** SUGGESTIVE EXPERIMENTS
-1. Install Kali Linux on virtual box
-2. Explore Kali Linux and bash scripting
-3. Perform open source intelligence gathering using Netcraft, Whois Lookups, DNS Reconnaissance
-4. Gather information using Harvester  and Maltego
-5. Understand namp commands and scan a target using nmap
-6. Install metasploitable2 on the virtual box and search for unpatched vulnerability
-7. Use Metasploit to exploit an unpatched vulnerability
-8. Install linux server on the virtual box and install ssh in it. Then perform brute force attack on the  linux server using hydra
-9. Real-time network traffic analysis and data packet logging using snort
+1. Install Kali Linux on virtual box and explore Kali Linux and bash scripting
+2. Perform open source intelligence gathering using Netcraft, Whois Lookups, DNS Reconnaissance
+3. Gather information using Harvester  and Maltego
+4. Understand namp commands and scan a target using nmap
+5. Install metasploitable2 on the virtual box and search for unpatched vulnerability
 
-\hfill *Practical Periods: 30*
 
-\hfill *Total Periods: 60*
+
+\hfill *Practical Periods: 15*
+
+\hfill *Total Periods: 45*
 
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to 
 1. Explain the basics of cyber security, cyber crime and law (K2)
-2. Classify the various types of attack and tools to launch it (K2)
-3. Plan information gathering (K3)
-4. Apply intrusion detection system (K3)
-5. Apply intrusion prevention system (K3)
+2. Classify various types of attack and  learn the tools to launch the attack (K2)
+3. Apply various tools to perform information gathering (K3) 
+4. Apply intrusion detection techniques to detect intrusion (K3) 
+5. Apply intrusion prevention techniques to prevent intrusion (K3) 
 
+<<<<<<< HEAD
 ** REFERENCES
 1. Anand Shinde, ``Introduction to Cyber Security Guide to the World of Cyber Security'', Notion Press, 2021. 
 2. Nina Godbole, Sunit Belapure, ``Cyber Security: Understanding Cyber Crimes, Computer Forensics and Legal Perspectives'', Wiley publisher, 2011.
@@ -70,6 +74,16 @@ After the completion of this course, students will be able to
 5. Kimberly Graves, ``CEH Official Certified Ethical Hacker Review Guide'', Wiley publisher, 2007. 
 6. William Stallings, Lawrie Brown, ``Computer Security Principles and Practice'', Third Edition, Pearson Education, 2015 . 
 7. Georgia Weidman, ``Penetration testing A Hands-On Introduction to Hacking'' San Francisco, 2014.
+=======
+** REFERENCE BOOKS
+1. Anand Shinde, ``Introduction to Cyber Security Guide to the World of Cyber Security'', Notion Press, 2021.  (Unit 1)
+2. Nina Godbole, Sunit Belapure, ``Cyber Security: Understanding Cyber Crimes, Computer Forensics and Legal Perspectives'', Wiley publisher, 2011. (Unit 1)
+3. David Kim, Michael G. Solomon, ``Fundamentals of Information Systems Security'', Jones & Bartlett Learning publisher, 2013. (Unit 2)
+4. Patrick Engebretson, ``The Basics of Hacking and Penetration Testing Ethical Hacking and Penetration Testing Made Easy'', Elsevier, 2011. (Unit 3)
+5. Kimberly Graves, ``CEH Official Certified Ethical Hacker Review Guide'', Wiley publisher, 2007.  (Unit 3)
+6. William Stallings, Lawrie Brown, ``Computer Security Principles and Practice'', Third Edition, Pearson Education, 2015 .  (Unit 4 and 5)
+7. Georgia Weidman, ``Penetration testing A Hands-On Introduction to Hacking'' San Francisco, 2014. (Lab)
+>>>>>>> 74dc0213c24c4cc2cd4cfd70cbe9d022d5b5a4a3
 
 #+begin_comment
 BOOK 1: Introduction to Cyber Security Guide to the World of Cyber Security By Anand Shinde 2021 
