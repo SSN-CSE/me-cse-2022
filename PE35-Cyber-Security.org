@@ -34,7 +34,7 @@ Intrusion Detection: Host-Based Intrusion Detection -- Network-Based Intrusion D
 
 {{{unit}}}
 |UNIT V | INTRUSION PREVENTION   | 5 |
- Firewalls and Intrusion Prevention Systems:The Need for Firewalls -- Firewall Characteristics and Access Policy -- Types of Firewalls -- Firewall Basing -- Firewall Location and Configurations -- Intrusion Prevention Systems -- Example Unified Threat Management Products.
+Firewalls and Intrusion Prevention Systems:The Need for Firewalls -- Firewall Characteristics and Access Policy -- Types of Firewalls -- Firewall Basing -- Firewall Location and Configurations -- Intrusion Prevention Systems -- Example Unified Threat Management Products.
 
 \hfill *Theory Periods: 30* 
 
