@@ -16,7 +16,7 @@
 - To learn the basis of machine learning with python and H2O library.
 
 {{{unit}}}
-|UNIT I |INTRODUCTION AND MATHEMATICAL FOUNDATION |8|
+|UNIT I |INTRODUCTION |8|
 Machine Learning: History -- Applications; Types of machine learning -- Design of a learning system -- Perspectives and issues in machine learning; 
 Basic statitics: Variance and Covariance -- Bias Variance tradeoff -- Curse of dimensionality -- Conditional Probability -- Naive Bayes Classifier; 
 Testing ML algorithms.
@@ -49,7 +49,7 @@ Algorithms related to USL are in Unit3, Chapters 6 and 11
 {{{unit}}}
 |UNIT IV| NEURAL NETWORKS AND DEEP LEARNING |9| 
 Neural Networks: The Brain and the Neuron -- Perceptron learning algorithm;
-Multi-Layer Perceptron: Going forwards -- Going backwards -- Back propagation error -- Multi-layer perceptron in Practice -- Examples of using the MLP;
+Multi-Layer Perceptron: Back propagation algorithm -- Error -- Multi-layer perceptron in Practice -- Examples of using the MLP;
 Deep Learning: Introduction -- Convolution Neural Networks -- Recurrent Neural Networks -- Use cases.
 
 #+begin_comment
