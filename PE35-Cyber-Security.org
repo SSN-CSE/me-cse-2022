@@ -40,10 +40,10 @@ Firewalls and Intrusion Prevention Systems:The Need for Firewalls -- Firewall Ch
 
 ** SUGGESTIVE EXPERIMENTS
 1. Install Kali Linux on virtual box and explore Kali Linux and bash scripting
-2. Perform open source intelligence gathering using Netcraft, Whois Lookups, DNS Reconnaissance
-3. Gather information using Harvester  and Maltego
-4. Understand namp commands and scan a target using nmap
-5. Install metasploitable2 on the virtual box and search for unpatched vulnerability
+2. Perform open source intelligence gathering using Netcraft, Whois Lookups, DNS Reconnaissance, Harvester and Maltego
+3. Understand namp commands and scan a target using nmap
+4. Install metasploitable2 on the virtual box and search for unpatched vulnerability
+5. Install linux server on the virtual box and install fail2ban IPS
 
 
 
