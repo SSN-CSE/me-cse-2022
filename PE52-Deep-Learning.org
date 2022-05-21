@@ -21,7 +21,7 @@ Linear Algebra: Scalars -- Vectors -- Matrices and tensors;
 Probability Distributions; Gradient-based Optimization; Machine
 Learning Basics: Capacity -- Overfitting and underfitting --
 Hyperparameters and validation sets -- Estimators -- Bias and variance
--- Stochastic gradient descent; Challenges motivating deep learning;
+-- Stochastic gradient descent -- Challenges motivating deep learning;
 Deep Networks: Deep feedforward networks
 
 {{{unit}}}

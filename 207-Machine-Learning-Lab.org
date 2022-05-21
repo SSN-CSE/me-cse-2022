@@ -24,7 +24,8 @@
 7. Perceptron algorithm 
 8. Multi-layer Perceptron using Backpropagation algorithm
 9. Convolutional Neural Network
-10. Mini project
+10. ML algorithms using H2O.ai
+11. Mini project
 
 \hfill *Total Periods: 45*
 
