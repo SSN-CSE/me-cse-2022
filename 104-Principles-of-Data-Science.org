@@ -1,6 +1,6 @@
 * 
 :properties:
-:author: Dr. Y. V. Lokeswai
+:author: Dr. Y. V. Lokeswari
 :date: 24-May-2022
 :end:
 
@@ -39,12 +39,12 @@ Introduction -- Data Preparation -- Exploratory Data Analysis: Data summarizatio
 
 {{{unit}}}
 |UNIT V|PREDICTION AND INFERENCE WITH MACHINE LEARNING |9|
-Machine learning -- Modeling Process -- Training model -- Validating model -- Predicting new observations -- Supervised learning algorithms -- Linear Regression -- Unsupervised learning algorithms -- K Means Clustering -- Reinforcement learning. Case Studies: Customer analytics in the retail industry, Recommendation systems in marketing & advertising, Sales analytics, Predictive analytics in healthcare, Weather predictions in agriculture sector.
+Machine learning -- Modeling Process -- Training model -- Validating model -- Predicting new observations -- Supervised learning algorithms -- Linear Regression -- Unsupervised learning algorithms -- K Means Clustering -- Reinforcement learning.
 
 ** After BoS meeting.
 {{{unit}}}
-|UNIT V|PREDICTION AND INFERENCE WITH MACHINE LEARNING |9|
-Machine learning -- Supervised learning algorithms -- Linear Regression -- Unsupervised learning algorithms -- K Means Clustering -- Reinforcement learning. Case Studies: Customer analytics in the retail industry, Recommendation systems in marketing & advertising, Sales analytics, Predictive analytics in healthcare, Weather predictions in agriculture sector.
+|UNIT V| BUSINESS APPLICATIONS WITH DATA SCIENCE |9|
+Machine learning -- Supervised learning algorithms -- Linear Regression -- Unsupervised learning algorithms -- K Means Clustering -- Reinforcement learning. Case Studies: Customer analytics in the retail industry -- Recommendation systems in marketing & advertising -- Sales analytics -- Predictive analytics in healthcare -- Weather predictions in agriculture sector.
 
 \hfill *Total Periods: 45*
 
