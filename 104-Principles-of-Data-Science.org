@@ -1,7 +1,7 @@
 * 
 :properties:
 :author: Dr. Y. V. Lokeswai
-:date: 02-May-2022
+:date: 24-May-2022
 :end:
 
 #+startup: showall
@@ -16,6 +16,8 @@
 - To develop python programs for manipulating and visualizing the data.
 - To understand probability and Statistics for the data.
 - To be familiar with supervised and unsupervised methods in machine learning.
+** After BoS Meeting
+- To be familiar with real time applications in data science.
 
 
 {{{unit}}}
@@ -37,7 +39,12 @@ Introduction -- Data Preparation -- Exploratory Data Analysis: Data summarizatio
 
 {{{unit}}}
 |UNIT V|PREDICTION AND INFERENCE WITH MACHINE LEARNING |9|
-Machine learning -- Modeling Process -- Training model -- Validating model -- Predicting new observations -- Supervised learning algorithms -- Linear Regression -- Unsupervised learning algorithms -- K Means Clustering -- Reinforcement learning.
+Machine learning -- Modeling Process -- Training model -- Validating model -- Predicting new observations -- Supervised learning algorithms -- Linear Regression -- Unsupervised learning algorithms -- K Means Clustering -- Reinforcement learning. Case Studies: Customer analytics in the retail industry, Recommendation systems in marketing & advertising, Sales analytics, Predictive analytics in healthcare, Weather predictions in agriculture sector.
+
+** After BoS meeting.
+{{{unit}}}
+|UNIT V|PREDICTION AND INFERENCE WITH MACHINE LEARNING |9|
+Machine learning -- Supervised learning algorithms -- Linear Regression -- Unsupervised learning algorithms -- K Means Clustering -- Reinforcement learning. Case Studies: Customer analytics in the retail industry, Recommendation systems in marketing & advertising, Sales analytics, Predictive analytics in healthcare, Weather predictions in agriculture sector.
 
 \hfill *Total Periods: 45*
 
