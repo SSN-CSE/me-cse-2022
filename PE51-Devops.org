@@ -7,26 +7,24 @@
 #+startup: showall
 {{{title-tab}}}
 | CODE | COURSE TITLE                      | L | T | P | C |
-|      | SOFTWARE CONFIGURATION MANAGEMENT | 3 | 0 | 0 | 3 |
+|      | DevOps                            | 3 | 0 | 0 | 3 |
 
 ** R2021 CHANGES :noexport:
 1. A new syllabus
 
 ** COURSE OBJECTIVES
-- Explain and demonstrate the key aspects of traditional configuration management
 - Understand and demonstrate the microservices   
 - Explore and deploy microservices in a container 
 - Install and explore networking services
 - Modify configuration techniques using kubernetes and Docker swarm 
-
-
+- Explore google cloud platform
 
 {{{unit}}}
 |UNIT I | MICROSERVICES | 9 |
 An Introduction to Microservices:What Are Microservices? ; Switching to Microservices:Cost Components; Interprocess Communication:Putting It All Together; Case Study: Migration to Microservices -- Planning for Migration -- Applying Microservices Criteria -- Converting to Microservices -- Application Build and Deployment.
 
 #+begin_comment
-...Included from Text Book 2, chapter 1,2,3,12
+...Included from Text Book 1, chapter 1,2,3,12
 
 #+end_comment
  
@@ -37,7 +35,7 @@ Docker Interface:Key Docker Commands -- Dockerfile -- Docker Compose; Case Study
 Helpdesk Application : Containerizing Microservices -- Deploying the Catalog Microservice.
 
 #+begin_comment
-...Included from Text Book 2, chapter 5.7.13
+...Included from Text Book 1, chapter 5,7,13
 #+end_comment
  
 
@@ -47,8 +45,8 @@ Helpdesk Application : Containerizing Microservices -- Deploying the Catalog Mic
 Docker Networking: Bridge Mode Networking -- Host Mode Networking -- Container Mode Networking -- No Networking -- Wrapping It Up; Service Discovery ;  Service Registry.
 
 #+begin_comment
-...Included from Text Book 3, chapter   2, 4
-...Included from Text Book 2, chapter  9  
+...Included from Text Book 2, chapter   2, 4
+...Included from Text Book 1, chapter  9  
 #+end_comment
 
 {{{unit}}}
@@ -56,42 +54,38 @@ Docker Networking: Bridge Mode Networking -- Host Mode Networking -- Container M
 Container Orchestration : Kubernetes -- Kubectl -- Master Node -- Worker Nodes -- Kubernetes Cluster;  Docker Swarm : Nodes -- Services -- Task -- Example: Swarm Cluster.
 {{{unit}}}
 
-|UNIT V | Google Cloud Paltform | 9 |
+#+begin_comment
+...Included from Text book (1), chapter 9 
+#+end_comment
+
+|UNIT V | Google Cloud Platform | 9 |
 Get Started with Google Cloud Platform (GCP) : Get Started with Google Cloud Platform (GCP) -- Understanding GCP Projects -- Creating a Project -- Create a VM Instance -- Delete a Project; Understanding Cloud Shell : Using Cloud Shell -- Deploy a VM Instance Using Cloud Shell -- Work with Projects in Cloud Shell -- Cloud Shell Editor; Google Cloud SDK : Secure and Manage Your GCP Account -- Multi-Factor Authentication -- Create an Account with Specific Roles.
 
-
 #+begin_comment
-...Included from Text book (1), chapter 6,8,10  
-...Included from Text book (2) chapter 11
-#+end_comment
-#+begin_comment
-...Included from Text Book 2, chapter 9 
+...Included from Text Book 3, chapter 1 
 #+end_comment
 
 ** COURSE OUTCOMES
 Upon completion of the course, the student should be able to
-1.  
-2. Develop  and deploy microservices (K3)
-3. Build a container and deploy a  microservice (K3)
-4. Explain networking concepts in containers (K2)
-5. Choose  configuration features using Kubernetes and Docker swarm (K3).
+1. Develop  and deploy microservices (K3)
+2. Build a container and deploy a  microservice (K3)
+3. Explain networking concepts in containers (K2)
+4. Choose  configuration features using Kubernetes and Docker swarm (K3).
+5. Use GCP services to create project with authentication.
 
       
 ** REFERENCES
-1. Shirley Lacy and David Norfolk, ``CONFIGURATION MANAGEMENT, Expert
-   guidance for IT service managers and practitioners``, Revised
-   edition, BCS Learning and Development Ltd, UK, 2014. (Unit 1)
-2. Parminder Singh Kocher Boston, ``Microservices and Containers'',
+1. Parminder Singh Kocher Boston, ``Microservices and Containers'',
    Addison-Wesley, 2018. (Unit 1,2,3,4)
-3. Michael Hausenblas, ``Docker Networking and Service Discovery'',
+2. Michael Hausenblas, `Docker Networking and Service Discovery'',
    O'Reilly Publication, 2016. (Unit 3)
-4. Getting Started with Containers in Google Cloud Platform - Deploy, Manage, and Secure Containerized
-   Applications, Shimon Ifrah, Apress Publication 2021. (Unit - 5)
-5. Thomas Uphill, ``Mastering Puppet'', Second Edition,PACKT
+3. Shimon Ifrah, ''Getting Started with Containers in Google Cloud Platform - Deploy, Manage, and Secure Containerized
+   Applications'', Apress Publication 2021. (Unit - 5)
+4. Thomas Uphill, ``Mastering Puppet'', Second Edition,PACKT
    Publishing, 2016
-6. Scott Coulton, ``Puppet for Containerization'', PACKT Publishing,
+5. Scott Coulton, ``Puppet for Containerization'', PACKT Publishing,
    2016
-7. Cesar de la Torre, Bill Wagner, Mike Rouses, ``.NET Microservices:
+6. Cesar de la Torre, Bill Wagner, Mike Rouses, ``.NET Microservices:
    Architecture for Containerized .NET Applications'', Microsoft
    Corporation, V5.) Edition, 2020. 
    
