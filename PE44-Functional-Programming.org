@@ -1,4 +1,4 @@
-g* 
+* 
 :properties:
 :author: S.Rajalakshmi, R Kanchana
 :date: 
@@ -10,59 +10,55 @@ g*
 |      | FUNCTIONAL PROGRAMMING | 3 | 0 | 0 | 3 |
 
 ** COURSE OBJECTIVES
-- To introduce various programming paradidgms
-- To understand programming paradigms such as imperative,
-  object-oriented, logic, functional and concurrent with illustrative
-  examples.
+1. To write small to medium-sized functional programs for a
+   variety of applications
+2. To exploit a variety of programming techniques typical in
+   functional programming such as use of recursion, modelling
+   with recursive datatypes, abstraction and reuse with the
+   help of higher order functions and monads
+3. To appreciate the strengths and possible weaknesses of the
+   functional programming paradigm
 
 {{{unit}}}
-| UNIT I | IMPERATIVE PROGRAMMING | 9 |
-Role of programming languages; Programming paradigms; Structured
-programming: Data representation -- Procedure activations -- Examples
-in C.
+| UNIT I | FUNCTIONS | 9 |
+Functions and functional programming -- Sessions and scripts
+-- Types and classes -- Defining functions.
 
 {{{unit}}}
-|UNIT II | OBJECT ORIENTED PROGRAMMING | 9 |
-Abstract data types -- object model -- object-oriented thinking --
-Examples in Java.
+|UNIT II | LISTS, RECURSION, HIGHER-ORDER FUNCTIONS | 9 |
+Lists -- List comprehensions -- Recursive functions -- Higher order
+functions.
 
 {{{unit}}}
-|UNIT III | FUNCTIONAL PROGRAMMING  | 9 |
-Elements of functional programming: Values and operations --
-Approaches to expression evaluation -- Lexical scope -- Type checking;
-Haskell: Expressions -- Lists -- Types and values -- Control flow --
-Functions -- Tuples -- Examples.
-
+|UNIT III | TYPES, CLASSES | 9 |
+Declaring types and classes -- Interactive programming.
+  
 {{{unit}}}
-|UNIT IV | LOGIC PROGRAMMING | 9 |
-Logic and Horn clauses, Prolog: Data structures -- Programming
-techniques -- Control -- Cuts -- Examples.
-
+| UNIT IV | MONADS | 9 |
+Monads -- Monadic Parsing -- Foldables -- Traversables.
+  
 {{{unit}}}
-|UNIT V | CONCURRENT PROGRAMMING       | 9 |
-Concurrency concepts -- Synchronization strategies -- Interleaving --
-Liveness -- Safe access to shared data -- Examples in Java.
+|UNIT V | LAZY EVALUATION | 9 |
+Lazy evaluations -- Infinite objects -- Pascal's triangle,
+digits of a number, sieve of Eratosthenes -- Reasoning about
+programs.
  
 \hfill *Total Periods: 45*
 
 ** COURSE OUTCOMES
-After the completion of this course, students will be able to: 
-1. Develop programs in C using imperative programming paradigm (K3)
-2. Apply object-oriented programming paradigm and explore some
-   examples in C++ or Java or Python (K3)
-3. Apply functional programming paradigm in Haskell (K3)
-4. Develop programs in Prolog using logic programming paradigm (K3)
-5. Solve Java programs using concurrent programming paradigm (K3).
-
+After the completion of this course, students will be able to
+1. Write programs in a functional style
+2. Use lists, recursion, and higher order functions
+3. Apply polymorphism and higher-order functions
+4. Separate stateful functions using monads
+5. Ue infinite data structures and reason formally about
+   functional programs
+  
 ** REFERENCES
-1. Ravi Sethi, Viswanatha K V, ``Programming Languages : Concepts and
-   constructs'', 2nd Edition, Pearson, 2011 (Unit I, III, IV, V)
-2. Allan B Tucker, Robert E Noonan, ``Programming Languages:
-   Principles and Paradigms'', 2nd Edition, McGraw Hill, 2012 - (Unit II, III, IV)
-3. Michael Scott, ``Programming Language Pragmatics'', 4th Edition,
-   Morgan Kaufmann, 2015
-4. Robert W Sebesta,``Concepts of Programming Languages'', 11th
-   Edition, Pearson, 2016
-5. Maurizio Gabbrielli, Simone Martini, ``Programming Languages:
-   Principles and Paradigms'', Springer, 2010
-   
+1. Richard Bird, ``Introduction to Functional Programming using Haskell'',
+   second edition, Prentice-Hall International, 1998.
+2. Graham Hutton, ``Programming in Haskell'', second edition,
+   Cambridge University Press, 2016.
+
+
+
