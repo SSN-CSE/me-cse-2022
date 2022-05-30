@@ -87,19 +87,31 @@ Image Fusion: Statellite image enhancement; Object tracking: Surveillance applic
 \hfill *Total Periods: 30* 
 
 ** SUGGESTIVE LIST OF EXPERIMENTS:
-1. Program to implement smoothing or averaging filter in spatial domain.
-2. Image Processing on Histogram Processing
-   - Program to find histogram value and display histograph of a grayscale and color image.
-   - Program to obtain histogram equalization image
-3. Image Processing on Fourier Transformation
-   - Program to discretize an image using Fourier transformation.
-   - Program to eliminate the high frequency components of an image.
-4. Program to fill the region of interest for the image.
-5. Image Processing on Segmentation
-   - Program for morphological operation: erosion and dilation
-   - Program for segmentation of an image using watershed transforms.
-6. Program to determine the edge detection of an image using different operators.
-7. Program to perform discrete wavelet transform on image.
+1. Generate noisy images by adding Uniform, Gaussian, Salt and pepper noise to an input image. Observe the performance of smoothing filters in spatial domain.
+2. Take a low contrast image and do the following:
+	a) Generate a histogram of the image and observe how the intensity values are distributed
+	b) Apply histogram equalization and matching
+	c) Apply fuzzy sets for intensity transformation
+3. Implement a program to perform a Fourier transform followed by the application of high pass filters and then retransform the data to show the filtered images. 
+4. Implement a program to segment an image
+	a) By calculating a threshold setting using the histogram of brightness values.
+	b) Using adaptive thresholding
+	c) Using watershed algorithm
+5. Take a microscope cell image that has undergone a threshold operation. Perform the following morphological transform 
+	a) erosion and dilation with a circular structuring element
+	b) erosion and dilation with a square structuring element
+	c) closing and opening with a cross shaped structuring element
+6. Perform skeletonization on an input image which contains different shape objects. Observe the resultant images after 20, 30 and 40 iterations. 
+7. Generate the edges of an image by applying the following edge detection operators: Roberts, Sobel, Prewitt, Laplacian and Canny operators.
+8. Perform line, circle, ellipse detection using Hough transform for images.
+9. Write a program to implement a discrete wavelet transform and its inverse for an image. (the user can decide the number of decomposition). Apply Daubechies, Haar  
+   and Morlet.
+10.  Consider images of following characteristics:
+	a) With features of varying sizes
+	b) With features of varying sizes that are not convex
+	c) With a series of lines of approximately the same length
+	d) With features with different numbers of internal holes.
+     Develop a program to count the features, label the pixels with a unique identifying number, measure the area, total perimeter for the images.
 
 \hfill *Total Periods: 15*
 
