@@ -36,7 +36,7 @@ Integration with Data Lake -- Apache Sqoop.
 
 {{{unit}}}
 | UNIT III | COLUMNAR AND KEY-VALUE DATABASES | 9 |
-Cassandra Data Model -- Clusters -- Keyspaces --Column Families
+Introduction to NoSQL Databases -- Cassandra Data Model -- Clusters -- Keyspaces --Column Families
 --Columns -- Super Columns -- Design Differences Between RDBMS and
 Cassandra --Design Patterns -- Cassandra Architecture; Key-Value
 Databases: Key-Value Store -- Features -- Use Cases.
