@@ -106,7 +106,7 @@ Image Fusion: Statellite image enhancement; Object tracking: Surveillance applic
 8. Perform line, circle, ellipse detection using Hough transform for images.
 9. Write a program to implement a discrete wavelet transform and its inverse for an image. (the user can decide the number of decomposition). Apply Daubechies, Haar  
    and Morlet.
-10.  Consider images of following characteristics:
+10. Consider images of following characteristics:
 	a) With features of varying sizes
 	b) With features of varying sizes that are not convex
 	c) With a series of lines of approximately the same length
