@@ -14,7 +14,7 @@
 - To understand shape and region analysis.
 - To understand Hough Transform and its applications to detect lines, circles, ellipses.
 - To understand three-dimensional image and motion analysis techniques.
-- To study some applications of computer vision algorithms.
+- To understand video processing and study some applications of computer vision algorithms.
 
 
 {{{unit}}}
@@ -46,8 +46,9 @@ selection -- Feature correspondence -- Transformation functions; Camera Calibrat
 
 
 {{{unit}}}
-|Unit V|Vision Applications |9|
-Application: Photo album -- Face detection -- Face recognition -- Eigen faces -- Active appearance and
+|Unit V|Video Processing and Vision Applications |9|
+Introduction –- Video Sampling and Interpolation-- Motion Detection and Estimation -– Video
+Enhancement and Restoration, Video Segmentation-- Motion Segmentation-- Motion Tracking in Video--Video Quality Assessment, Application: Photo album -- Face detection -- Face recognition -- Eigen faces -- Active appearance and
 3D shape models of faces; Application: Surveillance -- Foreground -
 background separation -- Particle filters -- Chamfer matching --
 Tracking and occlusion -- Combining views from multiple cameras --
@@ -64,12 +65,13 @@ After the completion of this course, students will be able to:
 2. Apply boundary and region descriptors and hough transforms. (K3)
 3. Apply 3D vision techniques. (K3)
 4. Apply image registration and transormation of image and perform camera calibration (K3)
-5. Analyze and develop applications using computer vision techniques. (K4)
+5. Apply video processing techniques and develop applications using computer vision techniques. (K4)
 
 ** REFERENCES
 1. E R Davies, ``Computer and Machine Vision'', Fifth Edition, Academic Press, 2017.  (Units 1 to 5)
-2. D L Baggio et al., ``Mastering OpenCV with Practical Computer Vision Projects'', Packt Publishing, 2012.
-3. Jan Erik Solem, ``Programming Computer Vision with Python: Tools and Algorithms for Analyzing Images'', O'Reilly Media, 2012. 
-4. Mark Nixon, Alberto S Aquado, ``Feature Extraction & Image Processing for Computer Vision'', Third Edition, Academic Press, 2012. 
-5. R Szeliski, ``Computer Vision: Algorithms and Applications'', Second edition, Springer 2022. 
-6. Simon J D Prince, ``Computer Vision: Models, Learning, and Inference'', Cambridge University Press, 2012.
+2. A. Murat Tekalp, “Digital Video Processing”, Pearson, 2015. (Unit 5)
+3. D L Baggio et al., ``Mastering OpenCV with Practical Computer Vision Projects'', Packt Publishing, 2012.
+4. Jan Erik Solem, ``Programming Computer Vision with Python: Tools and Algorithms for Analyzing Images'', O'Reilly Media, 2012. 
+5. Mark Nixon, Alberto S Aquado, ``Feature Extraction & Image Processing for Computer Vision'', Third Edition, Academic Press, 2012. 
+6. R Szeliski, ``Computer Vision: Algorithms and Applications'', Second edition, Springer 2022. 
+7. Simon J D Prince, ``Computer Vision: Models, Learning, and Inference'', Cambridge University Press, 2012.
