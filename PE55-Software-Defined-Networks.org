@@ -25,7 +25,7 @@ centralized control plane -- OpenFlow protocol -- Hybrid Approaches.
 |UNIT II| SDN CONTROLLER AND PROGRAMMING SDN |9| 
 SDN Controller: General Concepts -- Layer3 Centric -- Plexi --
 CiscoOnePK ; Programming in SDN : The Management Interface --
-Application-Network Divide -- Modern Orchestration
+Application-Network Divide -- Modern Orchestration ; Programmable Data Planes.
 
 {{{unit}}}
 |UNIT III|DATA CENTER & NETWORK FUNCTION VIRTUALIZATION|9| 
@@ -61,9 +61,9 @@ After the completion of this course, students will be able to:
 1. Thomas D. Nadeau, ``SDN: Software Defined Networks, An
    Authoritative Review of Network Programmability Technologies'',
    First Edition, Ken Gray Publisher: O'Reilly Media, 2013. (Unit 1 - Chapters 1,2 and 3; Unit 2 - Chapters 4,5; Unit 3 - Chapters 6,7; Unit 4 - Chapters 8,9; Unit 5 - Chapters 10,11 and 12)
-2. Paul Goransson and Chuck Black, ``Software Defined Networks: A
+2. Silvano Gai, ``Building a Future-Proof Cloud Infrastructure: A Unified Architecture for Network, Security, and Storage Services'',  O'Reilly Media, 2020.  3. Paul Goransson and Chuck Black, ``Software Defined Networks: A
    Comprehensive Approach'', Morgan Kaufmann, 2014.
-3. Vivek Tiwari, ``SDN and OpenFlow for Beginners'' Amazon
+4. Vivek Tiwari, ``SDN and OpenFlow for Beginners'' Amazon
    Digital Services, Inc.,  2013.
-4. Fei Hu, ``Network Innovation through OpenFlow and SDN: Principles
+5. Fei Hu, ``Network Innovation through OpenFlow and SDN: Principles
    and Design'', CRC Press, 2014.
