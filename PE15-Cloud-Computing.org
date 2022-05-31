@@ -74,6 +74,21 @@ Data Security and Storage; Identity and Access Management(IAM) - IAM Challenges 
 
 \hfill *Total Periods: 45*
 
+**  SUGGESTED EXERCISES
+
+1. Install Virtualbox/VMware Workstation with different flavours of Linux or windows OS on top of windows7 or 8.
+2. Install a C compiler in the virtual machine created using virtual box and execute Simple Programs
+3. Install Google App Engine. Create hello world app and other simple web applications using python/java.
+4. Use GAE launcher to launch the web applications.
+5. Simulate a cloud scenario using CloudSim and run a scheduling algorithm that is not present in CloudSim.
+6. Find a procedure to transfer the files from one virtual machine to another virtual machine.
+7. Find a procedure to launch virtual machine using trystack (Online Openstack Demo Version)
+8. Install Hadoop single node cluster and run simple applications like wordcount.
+9. Build a Docker Container Project from Scratch
+
+\hfill *Periods: 10*
+
+
 ** COURSE OUTCOMES 
 After the completion of this course, students will be able to: 
 1. Describe the design challenges in cloud (K2)
