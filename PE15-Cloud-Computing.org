@@ -40,11 +40,11 @@ Virtulization.
 #+latex: % Unit I is from the course Virtualization IF7020, Anna University. M.Tech IT- R2015 (NS)
 
 {{{unit}}}
-| UNIT III | VIRTUALIZATION INFRASTRUCTURE AND DOCKERIZATION | 9 |
+| UNIT III | VIRTUALIZATION INFRASTRUCTURE AND CONTAINERS | 9 |
 Desktop Virtualization -- Network Virtualization -- Server and Machine
 Virtualization -- Storage Virtualization -- System-level of Operating
 Virtualization -- Application Virtualization-- Virtualization of CPU,
-Memory and I/O devices -- Virtual clusters and Resource Management --
+Memory and I/O devices -- Virtual clusters and Resource Management -- Containers vs. Virtual Machines
 Introduction to Docker -- Docker Architecture -- Run a Container from Docker Hub -- 
 Creating and Executing Your First Container Using Docker.
 #+BEGIN_COMMENT
