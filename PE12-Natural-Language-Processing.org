@@ -9,6 +9,7 @@
 | CODE | COURSE TITLE                | L | T | P | C |
 |      | NATURAL LANGUAGE PROCESSING | 2 | 0 | 2 | 3 |
 
+
 ** COURSE OBJECTIVES
 - To learn the fundamentals in language processing.
 - To understand  syntactic parsing in language processing.
@@ -46,15 +47,7 @@ Named Entities -- Named Entity Tagging; Relation Extraction -- Algorithms -- Ext
 and Datasets;
 
 
-\hfill *Total Periods: 45*
-
-** COURSE OUTCOMES
-After the completion of this course, students will be able to: 
-1. Apply the text normalization techniques. (K3)
-2. Apply syntactic analysis in language processing (K3)
-3. Apply vector semantics for word embeddings. (K3)
-4. Apply semantic analysis for words and sentences. (K3)
-5. Apply extraction techniques to extract the information. (K3)
+\hfill *Periods: 30*
  
 **  SUGGESTED EXERCISES
 1. Apply Tokenizer, n-grams in text normalization.
@@ -63,7 +56,20 @@ After the completion of this course, students will be able to:
 4. Apply semantics to find the word sense/SRL.
 5. Apply IE techniques to extract the Named Entities/Relations.
  
-     
+\hfill *Periods: 10*
+
+\hfill *Total Periods: 45*
+
+
+** COURSE OUTCOMES
+After the completion of this course, students will be able to: 
+1. Apply the text normalization techniques. (K3)
+2. Apply syntactic analysis in language processing (K3)
+3. Apply vector semantics for word embeddings. (K3)
+4. Apply semantic analysis for words and sentences. (K3)
+5. Apply extraction techniques to extract the information. (K3)
+
+
 ** REFERENCES
 1. Daniel Jurafsky and James H Martin, ``Speech and Language Processing: An introduction to Natural Language Processing, Computational Linguistics and Speech Recognition'',3rd Edition
 2. Christopher D. Manning, Hinrich Schutze, Foundations of Statistical Natural Language Processing, MIT Press, 1999.
