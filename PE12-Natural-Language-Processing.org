@@ -40,9 +40,10 @@ Word Senses: Senses Relations -- WordNet -- Word Sense Disambiguation; Semantic 
 -- Problems -- Proposition Bank -- Semantic Role Labeling
 
 {{{unit}}}
-|UNIT V|INFORMATION EXTRACTION|6|
+|UNIT V|INFORMATION EXTRACTION AND COREFERENCE|6|
 Named Entities -- Named Entity Tagging; Relation Extraction -- Algorithms -- Extracing Times 
--- Extracting Events and their Times -- Template Filling;
+-- Extracting Events and their Times -- Template Filling; Coreference:Linguisic Background -- Tasks
+and Datasets;
 
 
 \hfill *Total Periods: 45*
