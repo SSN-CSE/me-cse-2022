@@ -55,7 +55,7 @@ Architectures (MDA): Why MDA -- Model transformation and software
 architecture -- SOA and MDA -- Eclipse modelling framework.
 
 {{{unit}}}
-|UNIT V|ASPECT ORIENTED ARCHITECTURE|9|
+|UNIT V|ASPECT ORIENTED AND CLOUD ARCHITECTURE|9|
 Aspect Oriented Architectures: AOP in UML -- AOP tools --
 Architectural aspects and middleware selection of architectures;
 Evaluation of Architecture Designs; Case Study: Online computer vendor
