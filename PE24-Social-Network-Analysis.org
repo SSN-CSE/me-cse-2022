@@ -53,7 +53,7 @@ Bayesian probabilistic models -- Probabilistic relational models
 
 {{{unit}}} 
 |Unit V|Applications |9|
-A learning based approach for real time emotion classification of
+Behvioural Analytics:A learning based approach for real time emotion classification of
 tweets; A new linguistic approach to assess the opinion of users in
 social network environments; Explaining scientific and technical
 emergence forecasting; Recommendation Systems.
