@@ -45,7 +45,7 @@ Desktop Virtualization -- Network Virtualization -- Server and Machine
 Virtualization -- Storage Virtualization -- System-level of Operating
 Virtualization -- Application Virtualization-- Virtualization of CPU,
 Memory and I/O devices -- Virtual clusters and Resource Management -- Containers vs. Virtual Machines
-Introduction to Docker -- Docker Components -- Docker Container -- Docker Images and Repositories. -- 
+Introduction to Docker -- Docker Components -- Docker Container -- Docker Images and Repositories.  
 
 #+BEGIN_COMMENT
 Virtual Machine Monitors: KVM, Xen, VMWareESXi server.
