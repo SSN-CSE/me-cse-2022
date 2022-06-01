@@ -29,7 +29,6 @@ Cloud Resources.
 #+END_COMMENT
 #+latex: % Unit III is from the course Cloud Computing IF7202, Anna University. M.E CSE - R2015 (NS)
 
-
 {{{unit}}}
 | UNIT II | VIRTUALIZATION BASICS| 6 |
 #+BEGIN_COMMENT
