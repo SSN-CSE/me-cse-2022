@@ -65,8 +65,7 @@ Apache Hadoop is not  included here, as it will be covered in Big Data Analytics
 
 {{{unit}}}
 | UNIT V | CLOUD SECURITY | 5 |
- Virtualization System-Specific Attacks: Guest hopping --
-VM migration attack -- hyperjacking.
+Virtualization System-Specific Attacks: Guest hopping -- VM migration attack -- hyperjacking.
 Data Security and Storage; Identity and Access Management(IAM) - IAM Challenges - IAM Architecture and Practice.
 
 #+BEGIN_COMMENT
