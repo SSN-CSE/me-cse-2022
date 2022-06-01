@@ -84,8 +84,8 @@ Data Security and Storage; Identity and Access Management(IAM) - IAM Challenges 
 5. Simulate a cloud scenario using CloudSim and run a scheduling algorithm that is not present in CloudSim.
 6. Find a procedure to transfer the files from one virtual machine to another virtual machine.
 7. Install Hadoop single node cluster and run simple applications like wordcount.
-8. Run a Container from Docker Hub
-9. Creating and Executing Your First Container Using Docker. 
+8. Creating and Executing Your First Container Using Docker.
+9. Run a Container from Docker Hub
 
 \hfill *Periods: 10*
 
