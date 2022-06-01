@@ -17,7 +17,7 @@
 - To learn about the security issues in the cloud environment. 
 
 {{{unit}}}
-| UNIT I | CLOUD ARCHITECTURE MODELS AND INFRASTRUCTURE | 7 |
+| UNIT I | CLOUD ARCHITECTURE MODELS AND INFRASTRUCTURE | 6 |
 Cloud Architecture: System Models for Distributed and Cloud Computing
 -- NIST Cloud Computing Reference Architecture -- Cloud deployment
 models -- Cloud service models; Cloud Infrastructure: Architectural
@@ -34,20 +34,18 @@ Cloud Resources.
 | UNIT II | VIRTUALIZATION BASICS| 6 |
 #+BEGIN_COMMENT
 Basics of Virtualization -- Emulation -- Interpretation -- Binary
-Translation -- Virtualization Advantages 
+Translation -- Virtualization Advantages --  Process Virtual Machines -- System
+Virtual Machines
 #+END_COMMENT
-Virtual Machine Basics -- Taxonomy of Virtual Machines -- Process Virtual Machines -- System
-Virtual Machines -- Hypervisor -- Key Concepts -- Virtualization
-structure -- Implementation levels of virtualization -- Virtualization
-Types: Full Virtualization -- Para Virtualization -- Hardware
-Virtulization.
+Virtual Machine Basics -- Taxonomy of Virtual Machines -- Hypervisor -- Key Concepts -- Virtualization
+structure -- Implementation levels of virtualization -- Virtualization Types: Full Virtualization -- 
+Para Virtualization -- Hardware Virtulization --  Virtualization of CPU, Memory and I/O devices.
 #+latex: % Unit I is from the course Virtualization IF7020, Anna University. M.Tech IT- R2015 (NS)
 
 {{{unit}}}
-| UNIT III | VIRTUALIZATION INFRASTRUCTURE AND DOCKER | 9 |
+| UNIT III | VIRTUALIZATION INFRASTRUCTURE AND DOCKER | 7 |
 Desktop Virtualization -- Network Virtualization -- Storage Virtualization -- System-level of Operating
-Virtualization -- Application Virtualization-- Virtualization of CPU,
-Memory and I/O devices -- Virtual clusters and Resource Management -- Containers vs. Virtual Machines --
+Virtualization -- Application Virtualization -- Virtual clusters and Resource Management -- Containers vs. Virtual Machines --
 Introduction to Docker -- Docker Components -- Docker Container -- Docker Images and Repositories.  
 
 #+BEGIN_COMMENT
@@ -66,7 +64,7 @@ Apache Hadoop is not  included here, as it will be covered in Big Data Analytics
 #+END_COMMENT
 
 {{{unit}}}
-| UNIT V | CLOUD SECURITY | 9 |
+| UNIT V | CLOUD SECURITY | 5 |
  Virtualization System-Specific Attacks: Guest hopping --
 VM migration attack -- hyperjacking.
 Data Security and Storage; Identity and Access Management(IAM) - IAM Challenges - IAM Architecture and Practice.
