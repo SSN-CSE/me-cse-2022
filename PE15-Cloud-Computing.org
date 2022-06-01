@@ -41,8 +41,7 @@ Virtulization.
 
 {{{unit}}}
 | UNIT III | VIRTUALIZATION INFRASTRUCTURE AND DOCKER | 9 |
-Desktop Virtualization -- Network Virtualization -- Server and Machine
-Virtualization -- Storage Virtualization -- System-level of Operating
+Desktop Virtualization -- Network Virtualization -- Storage Virtualization -- System-level of Operating
 Virtualization -- Application Virtualization-- Virtualization of CPU,
 Memory and I/O devices -- Virtual clusters and Resource Management -- Containers vs. Virtual Machines
 Introduction to Docker -- Docker Components -- Docker Container -- Docker Images and Repositories.  
@@ -108,14 +107,16 @@ After the completion of this course, students will be able to:
 2. James E. Smith, Ravi Nair, ``Virtual Machines: Versatile Platforms
    for Systems and Processes'', Elsevier/Morgan Kaufmann, 2005. (Unit
    II)
-3. Krutz, R. L., Vines, R. D, ``Cloud security. A Comprehensive Guide
+3. James Turnbull, ``The Docker Book'', O'Reilly Publishers, 2014. (Unit
+   III)
+4. Krutz, R. L., Vines, R. D, ``Cloud security. A Comprehensive Guide
    To Secure Cloud Computing'', Wiley Publishing, 2010. (Unit V)
-4. Tim Mather, Subra Kumaraswamy, and Shahed Latif, ``Cloud Security
+5. Tim Mather, Subra Kumaraswamy, and Shahed Latif, ``Cloud Security
    and Privacy: an enterprise perspective on risks and compliance'',
    O'Reilly Media, Inc., 2009. (Unit V)
-5. Danielle Ruest, Nelson Ruest, ``Virtualization: A Beginner's
+6. Danielle Ruest, Nelson Ruest, ``Virtualization: A Beginner's
    Guide'', McGraw-Hill Osborne Media, 2009.
-6. Srinivasan A, Suresh J, ``Cloud Computing: A practical Approach for
+7. Srinivasan A, Suresh J, ``Cloud Computing: A practical Approach for
    Learning and Implementation'', Pearson Education
    India, 2014. 
 
