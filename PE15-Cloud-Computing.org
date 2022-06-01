@@ -40,13 +40,13 @@ Virtulization.
 #+latex: % Unit I is from the course Virtualization IF7020, Anna University. M.Tech IT- R2015 (NS)
 
 {{{unit}}}
-| UNIT III | VIRTUALIZATION INFRASTRUCTURE AND CONTAINERS | 9 |
+| UNIT III | VIRTUALIZATION INFRASTRUCTURE AND DOCKER | 9 |
 Desktop Virtualization -- Network Virtualization -- Server and Machine
 Virtualization -- Storage Virtualization -- System-level of Operating
 Virtualization -- Application Virtualization-- Virtualization of CPU,
 Memory and I/O devices -- Virtual clusters and Resource Management -- Containers vs. Virtual Machines
-Introduction to Docker -- Docker Architecture -- Run a Container from Docker Hub -- 
-Creating and Executing Your First Container Using Docker.
+Introduction to Docker -- Docker Components -- Docker Container -- Docker Images and Repositories. -- 
+
 #+BEGIN_COMMENT
 Virtual Machine Monitors: KVM, Xen, VMWareESXi server.
 #+END_COMMENT
@@ -84,9 +84,9 @@ Data Security and Storage; Identity and Access Management(IAM) - IAM Challenges 
 4. Use GAE launcher to launch the web applications.
 5. Simulate a cloud scenario using CloudSim and run a scheduling algorithm that is not present in CloudSim.
 6. Find a procedure to transfer the files from one virtual machine to another virtual machine.
-7. Find a procedure to launch virtual machine using trystack (Online Openstack Demo Version)
-8. Install Hadoop single node cluster and run simple applications like wordcount.
-9. Build a Docker Container Project from Scratch
+7. Install Hadoop single node cluster and run simple applications like wordcount.
+8. Run a Container from Docker Hub
+9. Creating and Executing Your First Container Using Docker. 
 
 \hfill *Periods: 10*
 
