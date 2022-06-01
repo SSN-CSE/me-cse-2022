@@ -17,22 +17,26 @@
 - To learn about the security issues in the cloud environment. 
 
 {{{unit}}}
-| UNIT I | CLOUD ARCHITECTURE MODELS AND INFRASTRUCTURE | 9 |
+| UNIT I | CLOUD ARCHITECTURE MODELS AND INFRASTRUCTURE | 7 |
 Cloud Architecture: System Models for Distributed and Cloud Computing
 -- NIST Cloud Computing Reference Architecture -- Cloud deployment
 models -- Cloud service models; Cloud Infrastructure: Architectural
-Design of Compute and Storage Clouds -- Layered Cloud Architecture
-Development -- Design Challenges -- Inter Cloud Resource Management --
+Design of Compute and Storage Clouds --  Design Challenges  
+#+BEGIN_COMMENT
+Layered Cloud Architecture Development -- Inter Cloud Resource Management --
 Resource Provisioning and Platform Deployment -- Global Exchange of
 Cloud Resources.
+#+END_COMMENT
 #+latex: % Unit III is from the course Cloud Computing IF7202, Anna University. M.E CSE - R2015 (NS)
 
 
 {{{unit}}}
-| UNIT II | VIRTUALIZATION BASICS| 9 |
+| UNIT II | VIRTUALIZATION BASICS| 6 |
+#+BEGIN_COMMENT
 Basics of Virtualization -- Emulation -- Interpretation -- Binary
-Translation -- Virtualization Advantages -- Virtual Machine Basics --
-Taxonomy of Virtual Machines -- Process Virtual Machines -- System
+Translation -- Virtualization Advantages 
+#+END_COMMENT
+Virtual Machine Basics -- Taxonomy of Virtual Machines -- Process Virtual Machines -- System
 Virtual Machines -- Hypervisor -- Key Concepts -- Virtualization
 structure -- Implementation levels of virtualization -- Virtualization
 Types: Full Virtualization -- Para Virtualization -- Hardware
@@ -52,25 +56,29 @@ Virtual Machine Monitors: KVM, Xen, VMWareESXi server.
 #+latex: % Unit II is from the course Virtualization IF7020, Anna University. M.Tech IT- R2015 (YVL)
 
 {{{unit}}}
-| UNIT IV | CLOUD DEPLOYMENT ENVIRONMENT | 9 |
+| UNIT IV | CLOUD DEPLOYMENT ENVIRONMENT | 6 |
 Google App Engine -- Amazon AWS -- Microsoft Azure; Cloud Software
-Environments -- Eucalyptus -- OpenStack -- OpenNebula -- Aneka --
-CloudSim.
+Environments -- Eucalyptus -- OpenStack.
 #+BEGIN_COMMENT
+-- OpenNebula -- CloudSim -- Removed Aneka
 Unit IV is from the course Cloud Computing IF7202, Anna University. M.E CSE - R2015. 
 Apache Hadoop is not  included here, as it will be covered in Big Data Analytics course. (YVL)
 #+END_COMMENT
 
 {{{unit}}}
 | UNIT V | CLOUD SECURITY | 9 |
+ Virtualization System-Specific Attacks: Guest hopping --
+VM migration attack -- hyperjacking.
+Data Security and Storage; Identity and Access Management(IAM) - IAM Challenges - IAM Architecture and Practice.
+
+#+BEGIN_COMMENT
 Multi-tenancy Issues: Isolation of users/VMs from each other --
 Virtualization System Vulnerabilities: Management console
 vulnerabilities -- management server vulnerabilities -- administrative
 VM vulnerabilities -- guest VM vulnerabilities, hypervisor
 vulnerabilities -- hypervisor escape vulnerabilities -- configuration
-issues; Virtualization System-Specific Attacks: Guest hopping --
-VM migration attack -- hyperjacking.
-Data Security and Storage; Identity and Access Management(IAM) - IAM Challenges - IAM Architecture and Practice.
+issues;
+#+END_COMMENT
 #+latex: % As we changed entire Unit - V from AU syllabus, Unit V is from the course Cloud Security CC2005, SRM University. M.Tech in Cloud Computing. (YVL) 
 
 \hfill *Total Periods: 45*
