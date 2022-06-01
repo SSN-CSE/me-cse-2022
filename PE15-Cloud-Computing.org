@@ -78,7 +78,7 @@ issues;
 #+END_COMMENT
 #+latex: % As we changed entire Unit - V from AU syllabus, Unit V is from the course Cloud Security CC2005, SRM University. M.Tech in Cloud Computing. (YVL) 
 
-\hfill *Total Periods: 45*
+\hfill *Total Periods: 30*
 
 **  SUGGESTED EXERCISES
 
@@ -92,15 +92,15 @@ issues;
 8. Creating and Executing Your First Container Using Docker.
 9. Run a Container from Docker Hub
 
-\hfill *Periods: 10*
+\hfill *Periods: 30*
 
 
 ** COURSE OUTCOMES 
 After the completion of this course, students will be able to: 
 1. Describe the design challenges in cloud (K2)
 2. Apply the concept of virtualization and its types (K3)
-3. Experiment with virtualization of hardware resources and Virtual Machine Monitors (K3)
-4. Develop and deploy services on cloud and set up a private cloud environment (K3)
+3. Experiment with virtualization of hardware resources and Docker. (K3)
+4. Develop and deploy services on cloud and set up a cloud environment (K3)
 5. Explain security challenges in cloud environment (K2)
 
 
