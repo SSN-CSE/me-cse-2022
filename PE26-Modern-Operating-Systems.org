@@ -11,10 +11,10 @@
 
 ** COURSE OBJECTIVES
 - To understand virtualization and setup a cloud environment
-- To learn the design of Android mobile operating system
 - To apply the scheduling algorithms in real-time systems 
 - To apply the appropriate resource handling techniques for real-time systems
 - To understand the alternatives and tradeoffs in operating system software design
+- To make use of Containerization concepts in Linux
  
 
 {{{unit}}}
@@ -23,15 +23,9 @@ History -- Requirements -- Type 1 and Type 2 Hypervisors -- Techniques for
 Efficient Virtualization -- Microkernels -- Memory and I/O
 Virtualizations -- Clouds -- Case Study: VMware.
 
-{{{unit}}}
-| UNIT II | DESIGN OF MOBILE OS | 9 |
-Android and Google -- History of Android -- Design Goals --
-Architecture -- Linux Extensions -- Dalvik -- Binder IPC -- Android
-Applications -- Intents -- Application Sandboxes-- Security -- Process
-Model 
 
 {{{unit}}}
-| UNIT III | SCHEDULING IN REAL-TIME SYSTEMS | 9 |
+| UNIT II | SCHEDULING IN REAL-TIME SYSTEMS | 9 |
 Introduction -- Applications -- Basic Model -- Characteristics of Real
 time system -- Safety -- Task types -- Timing Constraints -- Concepts
 and Characteristics of types of Real Time Task Scheduling -- Clock
@@ -39,34 +33,41 @@ Driven Scheduling -- Event Driven Scheduling -- Earliest Deadline
 First -- Rate Monotonic Algorithm.
 
 {{{unit}}}
-| UNIT IV | RESOURCE HANDLING TECHNIQUES IN REAL-TIME SYSTEMS | 9 |
+| UNIT III | RESOURCE HANDLING TECHNIQUES IN REAL-TIME SYSTEMS | 9 |
 Resource Sharing -- Priority Inversion -- Priority Inheritance
 Protocol -- Highest Locker Protocol -- Priority Ceiling Protocol--
 Types of Priority Inversions -- Important Features -- Issues and Task
 Dependencies.
 
 {{{unit}}}
-| UNIT V | OPERATING SYTEM DESIGN | 9  |
+| UNIT IV | OPERATING SYTEM DESIGN | 9  |
 The Nature of the design Problem -- Interface Design --
 Implementation-- Performance -- Project Management -- Trends in
 Operating System Design
+
+{{{unit}}}
+| UNIT V  | CONATINERIZATION WITH LXC | 9 |
+Introduction to Linux Conatiners -- The OS Kernels and its easy limitations --
+The Case for Linux Containers -- Linux Namespaces-The foundation of LXC --
+Installing LXC -- Building and Manipulating LXC Conatainers
 
 \hfill *Total Periods: 45*
 
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to: 
 1. Apply virtualization techniques and setup a cloud environment(K3).
-2. Define the design of the Android Operating System (K2).
-3. Apply scheduling algorithms for real time systems (K3).
-4. Apply resource handling techniques in real time environment (K3).
-5. Outline the alternatives and tradeoffs in operating system design (K2).
+2. Apply scheduling algorithms for real time systems (K3).
+3. Apply resource handling techniques in real time environment (K3).
+4. Outline the alternatives and tradeoffs in operating system design (K2).
+5. Make use of Containerization concepts in Linux (K3)
       
 ** REFERENCES
 1. Andrew S. Tanenbaum and Herbert Bos, ``Modern Operating Systems'',
-   4th Edition, Pearson, 2015 (Units 1, 2 and 5)
+   4th Edition, Pearson, 2015 (Units 1 and 4)
 2. Rajib Mall, ``Real Time Systems: Theory and Practice'', Pearson,
-   2007 (Units 3 and 4)
-3. Karim Yaghmour, ``Embedded Android'', O-Reilly, 2013 
+   2007 (Units 2 and 2)
+3. Konstantin Ivanov, ``Containerization with LXC'', Packt, 2017 
+   (Unit 5)
 4. Matthew Portnoy, ``Virtualization Essentials'', Wiley, 2012
 5. Jerome Saltzer M. and Frans Kaashoek, ``Principles of Computer
    System Design'', 1st Edition, Elsevier, 2009
