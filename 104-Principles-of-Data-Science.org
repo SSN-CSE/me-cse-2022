@@ -1,7 +1,7 @@
 * 
 :properties:
 :author: Dr. Y. V. Lokeswari
-:date: 24-May-2022
+:date: 03-June-2022
 :end:
 
 #+startup: showall
