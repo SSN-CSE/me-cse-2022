@@ -113,7 +113,7 @@ Image Fusion: Statellite image enhancement; Object tracking: Surveillance applic
 	d) With features with different numbers of internal holes.
      Develop a program to count the features, label the pixels with a unique identifying number, measure the area, total perimeter for the images.
 
-\hfill *Total Periods: 15*
+\hfill *Total Periods: 30*
 
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to:
