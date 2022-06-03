@@ -50,7 +50,7 @@ Big Data Analytics - Use Case: Prediction of diabetics.
 4. Autism Screening with Machine Learning algorithms
 5. Prediction of diabetics using binary classification
 
-\hfill *Total Periods: 15*
+\hfill *Total Periods: 30*
 
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to:
