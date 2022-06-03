@@ -44,7 +44,7 @@ Machine learning -- Modeling Process -- Training model -- Validating model -- Pr
 ** After BoS meeting.
 {{{unit}}}
 |UNIT V| BUSINESS APPLICATIONS WITH DATA SCIENCE |9|
-Machine learning -- Supervised learning algorithms -- Linear Regression -- Unsupervised learning algorithms -- K Means Clustering -- Reinforcement learning. Case Studies: Customer analytics in the retail industry -- Recommendation systems in marketing & advertising -- Sales analytics -- Predictive analytics in healthcare -- Weather predictions in agriculture sector.
+Business Applications Case Studies: Demand prediction for the manufacturing industry -- Supply chain optimization in the logistics industry -- Customer analytics in the retail industry -- Recommendation systems in marketing & advertising -- Credit scoring for financial institutions -- Sales analytics -- Predictive analytics in healthcare -- Weather predictions in agriculture sector.
 
 \hfill *Total Periods: 45*
 
