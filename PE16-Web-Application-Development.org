@@ -44,7 +44,7 @@ Form Handling: Sending Client data to Server - HTML forms - Form Handling with E
 - Develop a web application for student information system that allows to perform CRUD operations using ExpressJS and MySQL
 - Develop Library Management System using  ExpressJS and MySQL
 
-\hfill *Total Periods: 15*
+\hfill *Total Periods: 30*
 
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to:
