@@ -46,10 +46,10 @@ Implementation-- Performance -- Project Management -- Trends in
 Operating System Design
 
 {{{unit}}}
-| UNIT V  | CONATINERIZATION WITH LXC | 9 |
-Introduction to Linux Conatiners -- The OS Kernels and its easy limitations --
+| UNIT V  | CONTAINERIZATION WITH LXC | 9 |
+Introduction to Linux Containers -- The OS Kernels and its easy limitations --
 The Case for Linux Containers -- Linux Namespaces-The foundation of LXC --
-Installing LXC -- Building and Manipulating LXC Conatainers
+Installing LXC -- Building and Manipulating LXC Containers
 
 \hfill *Total Periods: 45*
 
@@ -65,7 +65,7 @@ After the completion of this course, students will be able to:
 1. Andrew S. Tanenbaum and Herbert Bos, ``Modern Operating Systems'',
    4th Edition, Pearson, 2015 (Units 1 and 4)
 2. Rajib Mall, ``Real Time Systems: Theory and Practice'', Pearson,
-   2007 (Units 2 and 2)
+   2007 (Units 2 and 3)
 3. Konstantin Ivanov, ``Containerization with LXC'', Packt, 2017 
    (Unit 5)
 4. Matthew Portnoy, ``Virtualization Essentials'', Wiley, 2012
