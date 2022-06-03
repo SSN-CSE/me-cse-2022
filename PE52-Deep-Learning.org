@@ -56,12 +56,14 @@ The Encoder-Decoder Framework -- Attention Mechanisms -- Transfer Learning in NL
 2. Multi-class Classification deep neural networks
 3. Digit recognition using CNN
 4. Next word prediction using RNN
-5. Image augmentation using GAN
-6. Text summarization using T5/GPT-2
+5. Named entity recognition using Seq2Seq model
+6. Image denoising using autoencoders
+7. Image augmentation using GAN
+8. Text summarization using T5/GPT-2
 
-\hfill *Periods: 15*
+\hfill *Periods: 30*
 
-\hfill *Total Periods: 45*
+\hfill *Total Periods: 60*
 
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to: 
