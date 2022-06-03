@@ -1,7 +1,7 @@
 * 
 :properties:
 :author: Dr. Y. V. Lokeswari
-:date: 02-May-2022
+:date: 03-June-2022
 :end:
 
 #+startup: showall
@@ -14,7 +14,7 @@
 - To develop python programs for data preparation and manipulation using NumPy and Pandas.
 - To construct python programs for data visualization
 - To make use of python packages for statistical analysis
-- To get familiar with machine learning algorithms.
+- To apply business analytics on real world applications.
 
 
 ** SUGGESTIVE EXPERIMENTS
@@ -29,10 +29,15 @@
 9. Download data from UCI Machine Learning Repository and perform the supervised learning algorithm. Implement the Linear Regression for the given application.
 10. Download data from UCI Machine Learning Repository and perform the unsupervised learning algorithm. Implement the K Means Clustering algorithm for the given application.
 
+** After BoS Meeting
+9.	Download data from UCI Machine Learning Repository or Kaggle and perform the business analytics for the application “Predictive analytics in healthcare”.
+10.	Download data from UCI Machine Learning Repository or Kaggle and perform the business analytics for the application “Weather predictions in agriculture sector”.
+
+
 \hfill *Total Periods: 45*
 
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to: 
 1. Analyze the significance of python packages for data creation and manipulation (K4)
 2. Experiment the methods of data handling and visualization through NumPy, Pandas and MatplotLib modules (K3).
-3. Construct Python programs for obtaining statistical inference on data and develop machine learning algorithms for real world application. (K3)
+3. Construct Python programs for obtaining statistical inference on data and apply business analytics for the real world applications. (K3)
