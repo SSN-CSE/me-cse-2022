@@ -59,6 +59,9 @@ After the completion of this course, students will be able to
    second edition, Prentice-Hall International, 1998.
 2. Graham Hutton, ``Programming in Haskell'', second edition,
    Cambridge University Press, 2016.
+3. Bryan O'Sullivan, John Goerzen, Donald Bruce Stewart, "Real World Haskell", O'Reilly Media, Inc., 2008
+4. Alejandro Serrano Mena, "Practical Haskell: A Real World Guide to Programming", II Edition APRESS, 2019 
+ 
 
 
 
