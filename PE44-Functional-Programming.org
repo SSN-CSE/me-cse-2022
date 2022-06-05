@@ -1,6 +1,6 @@
 * 
 :properties:
-:author: S.Rajalakshmi, R Kanchana
+:author: R.S. Milton, R Kanchana
 :date: 
 :end:
 
@@ -47,12 +47,12 @@ programs.
 
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to
-1. Write programs in a functional style
-2. Use lists, recursion, and higher order functions
-3. Apply polymorphism and higher-order functions
-4. Separate stateful functions using monads
-5. Ue infinite data structures and reason formally about
-   functional programs
+1. Explain the basics of functional programming and write programs in a functional style (K2)
+2. Use lists, recursion, and higher order functions (K3)
+3. Apply polymorphism and higher-order functions (K3)
+4. Separate stateful functions using monads and apply them for problem solving (K3)
+5. Use infinite data structures and reason formally about
+   functional programs (K3)
   
 ** REFERENCES
 1. Richard Bird, ``Introduction to Functional Programming using Haskell'',
