@@ -35,14 +35,14 @@ Warehousing vs Data Lake -- Data Ingestion -- ETL vs ELT -- Big Data
 Integration with Data Lake -- Apache Sqoop.
 
 {{{unit}}}
-| UNIT III | COLUMNAR AND KEY-VALUE DATABASES | 9 |
+| UNIT III | NoSQL DATABASES - COLUMNAR AND KEY-VALUE  | 9 |
 Introduction to NoSQL Databases -- Cassandra Data Model -- Clusters -- Keyspaces --Column Families
 --Columns -- Super Columns -- Design Differences Between RDBMS and
 Cassandra --Design Patterns -- Cassandra Architecture; Key-Value
 Databases: Key-Value Store -- Features -- Use Cases.
 
 {{{unit}}}
-| UNIT IV | DOCUMENT AND GRAPH DATABASES | 9 |
+| UNIT IV | NoSQL DATABASES - DOCUMENT AND GRAPH DATABASES | 9 |
 Database for modern Web: MongoDB -- MongoDB Shell -- Creating,
 Updating, and Deleting Documents -- Querying; Graph Databases An
 Overview -- Started with Neo4j -- Modelling data for Neo4j -- Use Case
