@@ -53,12 +53,14 @@ and Datasets;
 1. Apply Tokenizer, n-grams in text normalization.
 2. Apply TF-IDF, Word2Vec vectors for the given text data for word similarity.
 3. Apply treebanks for context-free and dependency parsing.
-4. Apply semantics to find the word sense/SRL.
-5. Apply IE techniques to extract the Named Entities/Relations.
- 
-\hfill *Periods: 10*
+4. Apply the WordNet to find the lexical similarity.
+5. Apply semantics to find the word sense/SRL.
+6. Apply IE techniques to extract the Named Entities/Relations.
 
-\hfill *Total Periods: 45*
+ 
+\hfill *Periods: 30*
+
+\hfill *Total Periods: 60*
 
 
 ** COURSE OUTCOMES
