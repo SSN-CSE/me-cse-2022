@@ -52,10 +52,11 @@ and Datasets;
 **  SUGGESTED EXERCISES
 1. Apply Tokenizer, n-grams in text normalization.
 2. Apply TF-IDF, Word2Vec vectors for the given text data for word similarity.
-3. Apply treebanks for context-free and dependency parsing.
-4. Apply the WordNet to find the lexical similarity.
-5. Apply semantics to find the word sense/SRL.
-6. Apply IE techniques to extract the Named Entities/Relations.
+3. Generate the PoS tag for the input sentence.
+4. Apply treebanks for context-free and dependency parsing.
+5. Apply the WordNet to find the lexical similarity.
+6. Apply semantics to find the word sense/SRL.
+7. Apply IE techniques to extract the Named Entities/Relations.
 
  
 \hfill *Periods: 30*
