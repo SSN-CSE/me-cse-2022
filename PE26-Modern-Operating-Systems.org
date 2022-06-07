@@ -63,14 +63,13 @@ After the completion of this course, students will be able to:
       
 ** REFERENCES
 1. Andrew S. Tanenbaum and Herbert Bos, ``Modern Operating Systems'',
-   4th Edition, Pearson, 2015 (Units 1 and 4)
+   4th Edition, Pearson, 2015 (Units 1 and 4).
 2. Rajib Mall, ``Real Time Systems: Theory and Practice'', Pearson,
-   2007 (Units 2 and 3)
+   2007 (Units 2 and 3).
 3. Konstantin Ivanov, ``Containerization with LXC'', Packt, 2017 
-   (Unit 5)
-4. Matthew Portnoy, ``Virtualization Essentials'', Wiley, 2012
+   (Unit 5).
+4. Matthew Portnoy, ``Virtualization Essentials'', Wiley, 2012.
 5. Jerome Saltzer M. and Frans Kaashoek, ``Principles of Computer
-   System Design'', 1st Edition, Elsevier, 2009
-6. Joshua Drake et al., ``Android Hackers Handbook'', Wiley, 2014
-7. Francis Cottet, Joelle Delacroix, et al, ``Scheduling in Real-Time
-   Systems'', Wiley, 2002
+   System Design'', 1st Edition, Elsevier, 2009.
+6. Francis Cottet, Joelle Delacroix, et al, ``Scheduling in Real-Time
+   Systems'', Wiley, 2002.
