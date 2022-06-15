@@ -64,9 +64,9 @@ emergence forecasting; Recommendation Systems.
 After the completion of this course, students will be able to:  
 - Explain the components of the social network(K2). 
 - Make use of the tools, to  visualize the social network(K3). 
-- Expalin the mining of communities in the social network(K2). 
+- Explain the mining of communities in the social network(K2). 
 - Utilize the models and algorithms to find the experts and links of the social network(K3). 
-- Apply the social netwokring concepts in the various real time systems(K3). 
+- Apply the social networking concepts in the various real time systems(K3). 
 
       
 ** References
