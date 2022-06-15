@@ -1,1 +1,27 @@
-Author - AC
+* 
+:properties:
+:author: AC
+:date: 15 June 2022
+:end:
+
+#+startup: showall
+{{{title-tab}}}
+| CODE | COURSE TITLE         | L | T | P | C |
+|      | PROJECT WORK PHASE I | 3 | 0 | 0 | 3 |
+
+** COURSE OBJECTIVES
+- To develop skills to formulate a complex engineering problem with an awareness of  issues pertaining to  society, health, safety, legal, environment, culture   and examine the impact of the proposed solution on these  issues.
+- To carry out the survey on related literature and find out the research gap
+- To explore use of new tools, algorithms and techniques required to carry out the projects.
+- To enable the students to gain experience in organization and implementation of a project and acquire the necessary confidence to carry out the extensions of the project in the phase 2.
+- To follow the guidelines and prepare technical report of the project.
+- To develop team management skills and presentation skills
+
+** COURSE OUTCOMES
+At the end of this course, the students will be able to:
+1. Formulate complex engineering problems and choose suitable technologies and tools required to solve them effectively (K4)
+2. Analyse the related literature on the proposed problem and its feasibility (K4)
+3. Design high level solutions by applying software engineering principles (K6)
+4. Develop and summarize the solution by documenting (K3).
+5. Analyse the issues pertaining to society, health, safety, legal, environment, culture applicable to the project and examine the impact of the proposed solution on these issues (K4).
+6. Apply best practices and follow ethics in developing the solutions (K3)
