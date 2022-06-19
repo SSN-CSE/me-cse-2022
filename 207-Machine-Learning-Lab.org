@@ -7,7 +7,7 @@
 #+startup: showall
 {{{title-tab}}}
 | CODE | COURSE TITLE         | L | T | P | C |
-|      | MACHINE LEARNING LAB | 3 | 0 | 0 | 3 |
+|      | MACHINE LEARNING LAB | 0 | 0 | 3 | 1.5 |
 
 ** COURSE OBJECTIVES
 - To understand and implement machine learning algorithms
