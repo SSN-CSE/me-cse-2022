@@ -71,7 +71,7 @@ Upon completion of the course, the student should be able to
 2. Build a container and deploy a  microservice (K3)
 3. Explain networking concepts in containers (K2)
 4. Choose  configuration features using Kubernetes and Docker swarm (K3).
-5. Use GCP services to create project with authentication.
+5. Use GCP services to create project with authentication(K3).
 
       
 ** REFERENCES
