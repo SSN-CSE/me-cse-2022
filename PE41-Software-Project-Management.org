@@ -56,3 +56,16 @@ After the completion of this course, the students will be able to:
 4. Antonio Borghesi, Barbara Gaudenzi, ``Risk Management: How to Assess, Transfer and Communicate Critical Risks: Perspectives in Business Culture'',Illustrated Edition, Springer, 2012. (UNIT III)
 5. Norman Fenton, James Bieman, ``Software Metrics: A Rigorous and Practical Approach'', 3rd edition, CRC Press, 2015.(UNIT IV)
 6. Bob Hughes, Mike Cotterell, Rajib Mall, ``Software Project Management'', Sixth  Edition, Tata McGraw Hill, 2018.(UNIT I, V)
+
+
+** CO PO MAPPING 
+#+NAME: co-po-mapping
+|                |    |PO1 | PO2 | PO3 | PO4 |
+|                |    | K3 | K6  |  K6 |  K6 |
+| CO1            | K2 | 2  |     |  2  |  3  |
+| CO2            | K5 | 3  |     |  3  |  3  | 
+| CO3            | K3 | 2  |     |  2  |  2  | 
+| CO4            | K3 |    |     |  3  |  3  |   
+| CO5            | K2 | 2  |     |     |  3  |   
+| Total          |    | 9  |     | 10  | 11  |   
+| Course Mapping |    | 3  |     |  3  |  3  |   
