@@ -63,11 +63,11 @@ After the completion of this course, students will be able to:
 
   ** CO PO MAPPING 
 #+NAME: co-po-mapping
-|                |PO1 | PO2 | PO3 | PO4 | PO5 | 
-| CO1            |  2 |  1  |  1  |     |     | 
-| CO2            |  3 |  2  |  2  |  2  |  2  | 
-| CO3            |  3 |  2  |  2  |     |     | 
-| CO4            |  3 |  2  |  2  |  2  |  2  | 
-| CO5            |  3 |  2  |  2  |  2  |  2  | 
-| Total          | 17 |  12 |  12 |  9  |  9  | 
-| Course Mapping |  3 |  2  |  2  |  3  |  3  | 
+|                |PO1 | PO2 | PO3 | PO4 |
+| CO1            |  3 |  3  |  2  |     | 
+| CO2            |    |     |  2  |     |
+| CO3            |  3 |  3  |  3  |     | 
+| CO4            |  3 |  3  |  3  |     |
+| CO5            |  3 |  3  |  3  |     | 
+| Total          | 12 |  12 |  12 |     |
+| Course Mapping |  2 |  2  |  2  |     | 
