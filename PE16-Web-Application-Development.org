@@ -60,3 +60,14 @@ After the completion of this course, students will be able to:
 3. Nate Murray, Felipe Coury, Ari Lerner, and Carlos , ``Ng-book: The Complete Guide to Angular'' ,  Fullstack.io, 2020 (Unit III)
 4. Ethan Brown, ``Development with Node and Express'', O'Reilly, 1st Edition, 2014 (Unit IV)
 5. Adrian Holovaty, Jacob K Moss, ``Django - The definitive Guide to Django'', Apress Publishers, 2008. (Unit V)
+
+  ** CO PO MAPPING 
+#+NAME: co-po-mapping
+|                |PO1 | PO2 | PO3 | PO4 | PO5 | 
+| CO1            |  2 |  1  |  1  |     |     | 
+| CO2            |  3 |  2  |  2  |  2  |  2  | 
+| CO3            |  3 |  2  |  2  |     |     | 
+| CO4            |  3 |  2  |  2  |  2  |  2  | 
+| CO5            |  3 |  2  |  2  |  2  |  2  | 
+| Total          | 17 |  12 |  12 |  9  |  9  | 
+| Course Mapping |    |  3 |  2  |  2  |  3  |  3  | 
