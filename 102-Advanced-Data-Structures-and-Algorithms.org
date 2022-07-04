@@ -50,7 +50,7 @@ backtracking: N-queens problem -- Map Colouring problem; Dynamic
 programming -- Longest common subsequence problem -- Knapsack problem
 
 {{{unit}}}
-| UNIT V | NP COMPLETE AND NP HARD | 8 |
+| UNIT V | NP COMPLETENESS | 8 |
 Reductions and NP -- Completeness -- Satisfiability -- Proving
 NP-Completeness -- Circuit SAT, CNFSAT, 3SAT problems.
 
